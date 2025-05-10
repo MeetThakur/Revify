@@ -1,0 +1,2001 @@
+City,Gender,Age,ItemType,Price,Units Sold,Profit,Date of purchase,Feedback (out of 5 stars),Payment Method,Discount Applied,Return Status
+Bengaluru,Male,56,Clothing,307.64,31,2454.23,2023-04-04,2.5,Wallet,No,Not Returned
+Jaipur,Female,38,Books,72.35,3,35.66,2023-09-15,3.9,Net Banking,Yes,Returned
+Bengaluru,Female,46,Clothing,127.99,24,722.58,2023-12-18,1.9,UPI,No,Returned
+Bengaluru,Male,21,Electronics,315.07,29,1069.96,2023-07-01,4.9,Cash,No,Not Returned
+Hyderabad,Male,56,Books,326.32,8,466.24,2023-07-31,1.5,Cash,No,Not Returned
+Chennai,Female,31,Toys,144.92,32,510.96,2023-11-26,1.1,Net Banking,No,Returned
+Jaipur,Female,60,Electronics,68.1,41,564.76,2023-03-01,3.7,Cash,No,Returned
+Kolkata,Male,22,Groceries,315.27,27,1416.45,2023-06-16,1.7,Wallet,No,Not Returned
+Delhi,Female,28,Toys,139.96,27,421.69,2023-05-06,4.5,UPI,Yes,Not Returned
+Jaipur,Male,51,Toys,18.89,16,52.77,2023-09-02,1.3,Wallet,No,Not Returned
+Chennai,Female,18,Electronics,303.89,4,225.42,2023-12-05,5.0,UPI,No,Returned
+Bengaluru,Female,32,Books,484.23,7,404.7,2023-06-18,3.5,Credit Card,No,Returned
+Bengaluru,Female,53,Clothing,31.65,24,159.89,2023-02-28,1.9,UPI,Yes,Not Returned
+Hyderabad,Male,22,Toys,320.63,21,1529.17,2023-03-05,2.4,Credit Card,Yes,Returned
+Chennai,Female,21,Groceries,284.55,2,135.14,2023-09-03,4.1,Credit Card,No,Not Returned
+Pune,Female,18,Groceries,438.17,25,2766.23,2023-08-08,1.2,Cash,Yes,Not Returned
+Chennai,Male,40,Electronics,48.61,15,98.87,2023-05-22,1.1,UPI,No,Not Returned
+Mumbai,Female,57,Electronics,140.34,34,1424.45,2023-04-09,2.3,UPI,No,Returned
+Bengaluru,Female,45,Electronics,178.7,43,1319.06,2023-03-21,2.2,UPI,Yes,Returned
+Chennai,Male,36,Groceries,412.7,7,368.81,2023-10-09,3.3,Net Banking,No,Returned
+Kolkata,Male,48,Clothing,270.71,47,2926.42,2023-11-12,2.6,Wallet,No,Not Returned
+Mumbai,Female,57,Books,165.9,26,871.93,2023-05-21,2.8,Wallet,Yes,Returned
+Lucknow,Female,49,Groceries,334.61,28,1556.02,2023-02-23,1.7,Credit Card,No,Not Returned
+Lucknow,Female,57,Clothing,7.45,42,74.77,2023-06-08,2.3,Wallet,No,Not Returned
+Lucknow,Male,65,Clothing,405.49,15,679.22,2023-08-31,1.5,Cash,No,Not Returned
+Mumbai,Male,53,Toys,11.48,5,17.2,2023-09-17,2.0,Net Banking,Yes,Returned
+Jaipur,Male,52,Groceries,272.14,45,2811.69,2023-04-23,2.9,UPI,Yes,Returned
+Mumbai,Female,47,Electronics,256.78,42,1655.87,2023-12-24,4.1,Cash,No,Returned
+Bengaluru,Female,43,Toys,71.27,45,361.96,2023-12-15,4.1,UPI,Yes,Returned
+Lucknow,Female,41,Clothing,204.0,49,2049.86,2023-03-09,1.3,Cash,No,Returned
+Chennai,Female,29,Electronics,425.75,1,87.97,2023-09-20,3.2,Wallet,No,Not Returned
+Chennai,Male,37,Clothing,231.64,29,894.19,2023-04-02,3.0,Cash,No,Returned
+Delhi,Female,54,Clothing,180.73,35,1339.17,2023-01-23,3.9,Net Banking,Yes,Returned
+Ahmedabad,Female,63,Electronics,297.48,39,2836.06,2023-05-02,2.8,Net Banking,No,Returned
+Delhi,Male,18,Clothing,409.96,21,2049.58,2023-04-09,4.1,Cash,Yes,Returned
+Kolkata,Female,25,Books,335.26,41,2187.34,2023-05-21,1.2,UPI,No,Not Returned
+Pune,Female,26,Clothing,295.88,50,3322.13,2023-09-25,3.1,UPI,Yes,Returned
+Delhi,Male,46,Toys,428.35,49,4960.43,2023-06-15,3.7,Wallet,No,Not Returned
+Jaipur,Female,20,Books,76.33,15,273.02,2023-08-28,2.6,Net Banking,No,Returned
+Bengaluru,Female,35,Groceries,199.21,2,111.52,2023-09-06,4.1,Credit Card,No,Returned
+Ahmedabad,Male,31,Groceries,19.09,30,70.65,2023-03-21,1.5,Net Banking,Yes,Not Returned
+Pune,Male,48,Clothing,136.23,34,985.44,2023-01-31,3.6,Cash,Yes,Not Returned
+Jaipur,Female,65,Books,148.84,1,33.65,2023-11-19,3.9,Net Banking,No,Returned
+Bengaluru,Male,57,Electronics,337.27,48,2361.79,2023-01-17,4.7,Cash,Yes,Returned
+Ahmedabad,Female,31,Books,478.99,35,4288.21,2023-08-02,2.0,Cash,Yes,Not Returned
+Chennai,Female,28,Books,17.27,50,139.75,2023-11-29,2.2,UPI,No,Returned
+Delhi,Female,64,Toys,385.15,19,1966.05,2023-09-07,1.2,UPI,Yes,Returned
+Ahmedabad,Male,34,Toys,136.55,9,151.59,2023-01-21,2.7,Net Banking,Yes,Not Returned
+Jaipur,Male,62,Groceries,384.76,27,2271.95,2023-01-04,4.0,Wallet,Yes,Not Returned
+Mumbai,Male,46,Clothing,141.38,4,110.54,2023-05-01,1.1,Wallet,No,Not Returned
+Bengaluru,Male,42,Groceries,214.73,26,1597.52,2023-04-26,2.1,Cash,No,Returned
+Delhi,Female,63,Electronics,27.18,24,168.12,2023-06-15,4.0,Wallet,Yes,Not Returned
+Pune,Female,22,Toys,448.78,38,2280.17,2023-02-26,1.6,UPI,No,Returned
+Pune,Male,48,Electronics,259.04,31,899.59,2023-10-27,2.7,Credit Card,No,Returned
+Mumbai,Male,45,Books,272.93,21,1651.66,2023-08-25,1.3,Credit Card,Yes,Not Returned
+Jaipur,Male,62,Groceries,353.79,14,746.58,2023-02-16,1.9,UPI,No,Returned
+Pune,Male,41,Toys,285.72,43,2047.1,2023-11-26,3.9,Credit Card,Yes,Not Returned
+Jaipur,Male,52,Toys,347.98,11,1085.7,2023-01-02,2.1,Net Banking,No,Returned
+Mumbai,Male,20,Toys,484.6,45,2464.55,2023-06-27,4.0,UPI,No,Returned
+Jaipur,Male,63,Clothing,289.09,35,1883.99,2023-04-09,5.0,Net Banking,Yes,Not Returned
+Kolkata,Male,60,Electronics,278.94,36,1967.36,2023-07-05,4.5,Credit Card,No,Not Returned
+Hyderabad,Female,59,Electronics,92.52,5,72.62,2023-12-05,3.6,Net Banking,Yes,Returned
+Bengaluru,Female,22,Books,408.18,11,508.95,2023-02-11,4.2,Wallet,Yes,Returned
+Jaipur,Female,31,Electronics,27.33,25,73.64,2023-05-01,3.6,Wallet,No,Not Returned
+Ahmedabad,Male,47,Toys,186.91,48,2231.82,2023-11-19,4.7,UPI,Yes,Not Returned
+Kolkata,Male,20,Toys,67.56,50,565.82,2023-05-20,4.0,Credit Card,No,Not Returned
+Chennai,Female,62,Electronics,100.7,16,464.3,2023-10-31,3.1,Cash,No,Not Returned
+Bengaluru,Male,41,Books,148.72,40,1435.39,2023-03-06,1.7,Cash,Yes,Not Returned
+Delhi,Male,43,Clothing,78.21,21,337.65,2023-08-09,4.4,Credit Card,Yes,Returned
+Hyderabad,Male,40,Toys,54.27,41,623.46,2023-02-25,1.3,Credit Card,No,Returned
+Hyderabad,Female,48,Groceries,31.79,12,94.8,2023-03-05,4.8,Cash,Yes,Returned
+Delhi,Male,22,Electronics,260.7,2,150.64,2023-10-09,1.9,UPI,No,Returned
+Hyderabad,Male,20,Groceries,328.03,5,225.76,2023-11-29,3.4,Wallet,No,Returned
+Bengaluru,Male,50,Clothing,283.14,27,1769.21,2023-12-06,3.9,UPI,Yes,Not Returned
+Hyderabad,Male,38,Groceries,213.72,35,1119.26,2023-07-09,3.0,Wallet,Yes,Not Returned
+Jaipur,Female,49,Groceries,220.64,3,126.73,2023-10-12,3.0,UPI,Yes,Not Returned
+Chennai,Female,34,Books,83.46,13,250.87,2023-10-22,3.1,Net Banking,No,Not Returned
+Mumbai,Male,61,Toys,19.49,10,41.97,2023-09-06,4.6,Cash,Yes,Returned
+Chennai,Male,23,Books,234.5,35,1767.19,2023-04-17,4.3,Credit Card,Yes,Not Returned
+Lucknow,Female,40,Groceries,190.72,44,1719.98,2023-02-24,2.1,Credit Card,No,Not Returned
+Kolkata,Female,38,Clothing,213.58,37,2081.29,2023-04-07,3.6,Credit Card,No,Returned
+Hyderabad,Female,40,Toys,33.81,43,165.84,2023-08-31,2.4,Wallet,No,Not Returned
+Delhi,Female,37,Toys,197.55,34,1568.25,2023-10-27,1.2,Wallet,No,Not Returned
+Delhi,Male,48,Electronics,195.15,7,206.78,2023-01-08,4.8,Credit Card,Yes,Not Returned
+Lucknow,Female,18,Toys,461.24,34,2618.1,2023-06-30,1.7,Wallet,No,Returned
+Lucknow,Female,36,Clothing,220.28,48,1631.13,2023-09-21,4.2,Cash,No,Returned
+Jaipur,Male,49,Books,164.95,48,1292.5,2023-07-26,3.1,Credit Card,No,Returned
+Pune,Male,58,Electronics,456.1,38,4016.28,2023-04-30,3.6,UPI,Yes,Not Returned
+Kolkata,Male,47,Toys,141.11,29,1071.75,2023-05-09,1.9,Cash,Yes,Not Returned
+Mumbai,Female,39,Books,395.77,8,756.68,2023-12-11,4.3,Credit Card,Yes,Not Returned
+Hyderabad,Male,48,Clothing,487.68,32,3744.25,2023-11-15,4.8,Credit Card,Yes,Not Returned
+Hyderabad,Female,19,Clothing,198.65,8,421.53,2023-01-25,1.5,Wallet,No,Returned
+Pune,Male,28,Clothing,460.35,3,261.0,2023-09-24,4.4,Cash,No,Not Returned
+Jaipur,Female,44,Clothing,483.33,24,3106.57,2023-03-10,1.1,UPI,Yes,Not Returned
+Pune,Male,48,Clothing,202.65,48,1562.99,2023-02-10,4.1,Wallet,Yes,Not Returned
+Lucknow,Female,63,Toys,362.86,7,533.26,2023-02-08,4.3,Credit Card,No,Returned
+Kolkata,Male,30,Electronics,297.02,34,1352.28,2023-10-03,3.2,Credit Card,No,Not Returned
+Hyderabad,Female,31,Groceries,135.26,15,353.49,2023-02-23,3.1,Wallet,No,Returned
+Kolkata,Female,48,Clothing,419.72,19,1328.39,2023-02-26,2.2,Net Banking,Yes,Not Returned
+Chennai,Female,56,Clothing,66.34,45,686.94,2023-11-04,3.2,Net Banking,Yes,Returned
+Hyderabad,Male,45,Toys,258.82,44,1469.11,2023-02-25,2.3,Cash,Yes,Returned
+Ahmedabad,Male,55,Groceries,228.63,43,2362.29,2023-01-11,2.1,UPI,No,Not Returned
+Jaipur,Female,23,Clothing,200.43,13,339.17,2023-07-08,3.3,UPI,No,Returned
+Bengaluru,Female,46,Books,379.96,17,1575.66,2023-09-14,2.1,UPI,No,Returned
+Delhi,Male,61,Groceries,290.53,38,2640.92,2023-09-23,2.3,Net Banking,Yes,Returned
+Lucknow,Female,63,Toys,457.35,25,2714.71,2023-10-21,1.8,Wallet,Yes,Not Returned
+Jaipur,Male,42,Electronics,434.65,46,5405.81,2023-09-10,3.3,Wallet,Yes,Not Returned
+Jaipur,Male,19,Toys,331.16,47,3350.87,2023-05-01,4.8,Credit Card,Yes,Returned
+Delhi,Male,43,Clothing,143.84,33,1180.27,2023-02-11,3.4,Credit Card,No,Not Returned
+Pune,Female,36,Books,463.46,27,2980.94,2023-04-09,3.9,Credit Card,Yes,Not Returned
+Mumbai,Female,37,Toys,235.7,34,2186.96,2023-12-05,2.2,Wallet,Yes,Not Returned
+Lucknow,Female,34,Toys,146.99,1,15.54,2023-09-30,5.0,Credit Card,Yes,Not Returned
+Hyderabad,Female,24,Books,432.94,46,3123.82,2023-12-13,3.0,Wallet,Yes,Returned
+Hyderabad,Female,29,Books,305.73,35,2251.76,2023-06-01,4.3,Wallet,No,Not Returned
+Kolkata,Female,32,Groceries,345.12,22,1114.14,2023-08-27,2.3,UPI,Yes,Returned
+Mumbai,Female,26,Electronics,413.08,21,2249.82,2023-12-14,3.2,UPI,No,Not Returned
+Mumbai,Male,29,Clothing,138.19,42,621.56,2023-03-28,3.6,UPI,Yes,Returned
+Ahmedabad,Male,21,Toys,271.03,1,60.5,2023-07-29,2.1,Credit Card,Yes,Not Returned
+Kolkata,Female,20,Toys,315.52,13,553.95,2023-01-04,1.2,Wallet,Yes,Returned
+Chennai,Female,61,Groceries,64.97,3,43.97,2023-02-21,1.0,Cash,No,Not Returned
+Mumbai,Female,25,Groceries,98.26,17,167.65,2023-07-15,2.1,UPI,No,Returned
+Delhi,Male,29,Clothing,147.3,15,517.33,2023-03-26,4.0,Wallet,No,Returned
+Delhi,Male,26,Clothing,93.55,48,591.0,2023-03-03,1.9,Wallet,Yes,Not Returned
+Jaipur,Male,36,Clothing,249.98,21,562.99,2023-03-12,1.4,Cash,Yes,Not Returned
+Delhi,Male,62,Electronics,301.86,38,1925.84,2023-12-16,1.6,UPI,Yes,Not Returned
+Lucknow,Female,50,Books,499.99,12,1575.65,2023-12-05,3.2,Cash,Yes,Not Returned
+Delhi,Female,62,Electronics,314.3,37,2252.15,2023-11-07,4.2,UPI,No,Not Returned
+Hyderabad,Male,60,Electronics,299.32,42,3136.06,2023-02-22,1.4,Cash,Yes,Returned
+Pune,Female,21,Electronics,335.5,8,774.9,2023-01-01,4.8,Cash,Yes,Returned
+Pune,Female,60,Books,193.32,10,443.73,2023-01-16,3.5,Wallet,Yes,Returned
+Ahmedabad,Male,45,Books,76.82,45,807.75,2023-04-15,3.4,Credit Card,No,Returned
+Mumbai,Female,42,Books,208.95,47,1894.05,2023-02-18,4.5,Net Banking,No,Returned
+Bengaluru,Female,57,Books,402.93,46,1923.66,2023-04-27,1.1,Wallet,No,Returned
+Kolkata,Male,33,Clothing,158.2,41,1405.31,2023-01-23,2.8,Credit Card,Yes,Not Returned
+Jaipur,Female,53,Groceries,238.94,36,2305.07,2023-03-01,3.3,UPI,Yes,Returned
+Jaipur,Female,36,Electronics,137.71,10,248.8,2023-02-17,2.7,Net Banking,No,Not Returned
+Mumbai,Male,38,Toys,375.49,9,450.11,2023-10-04,2.0,UPI,Yes,Not Returned
+Mumbai,Female,39,Groceries,273.99,46,2366.63,2023-02-03,2.1,Net Banking,Yes,Not Returned
+Pune,Female,57,Toys,340.22,31,1361.77,2023-03-05,1.7,Wallet,Yes,Not Returned
+Hyderabad,Male,35,Books,116.53,35,650.74,2023-04-17,1.1,Credit Card,No,Not Returned
+Jaipur,Male,31,Electronics,29.94,46,186.29,2023-01-26,3.0,Credit Card,Yes,Not Returned
+Pune,Female,39,Groceries,264.18,13,520.8,2023-01-27,2.4,Cash,No,Not Returned
+Lucknow,Female,23,Groceries,408.61,48,2969.7,2023-05-05,4.1,Cash,Yes,Not Returned
+Chennai,Female,63,Groceries,367.34,9,829.78,2023-01-09,3.4,Cash,No,Not Returned
+Chennai,Male,29,Groceries,109.32,7,199.91,2023-12-23,3.3,Cash,No,Not Returned
+Bengaluru,Male,50,Clothing,74.62,41,656.74,2023-12-08,3.0,Net Banking,No,Returned
+Ahmedabad,Female,65,Clothing,6.74,18,27.06,2023-06-14,4.3,Cash,Yes,Not Returned
+Ahmedabad,Female,63,Books,38.24,28,149.31,2023-10-11,4.3,Wallet,Yes,Returned
+Kolkata,Male,40,Electronics,86.26,8,189.23,2023-09-16,3.4,Cash,No,Returned
+Hyderabad,Male,23,Toys,489.32,25,2126.57,2023-07-08,2.6,Net Banking,Yes,Returned
+Mumbai,Female,61,Clothing,105.24,38,1082.09,2023-01-21,1.3,Net Banking,No,Returned
+Ahmedabad,Female,39,Toys,285.64,6,262.09,2023-07-19,4.9,Net Banking,Yes,Not Returned
+Lucknow,Male,62,Groceries,101.61,44,1192.84,2023-07-16,4.2,Cash,No,Not Returned
+Chennai,Male,60,Toys,65.66,28,522.25,2023-07-06,2.7,Net Banking,No,Not Returned
+Pune,Female,18,Toys,110.25,25,472.73,2023-09-18,2.6,Net Banking,Yes,Returned
+Mumbai,Female,54,Toys,232.49,25,1277.74,2023-11-12,4.5,Credit Card,No,Not Returned
+Bengaluru,Male,37,Books,104.42,39,1154.49,2023-09-15,4.6,UPI,No,Not Returned
+Bengaluru,Male,49,Groceries,386.14,29,2121.67,2023-05-29,1.3,Credit Card,Yes,Returned
+Pune,Male,25,Electronics,478.01,35,4828.73,2023-09-02,2.5,UPI,No,Returned
+Chennai,Female,20,Clothing,167.47,36,1615.27,2023-02-21,2.7,Cash,No,Returned
+Pune,Male,50,Books,194.13,36,1800.88,2023-09-10,2.5,Wallet,No,Not Returned
+Pune,Female,45,Electronics,105.84,25,728.43,2023-04-14,3.6,Cash,Yes,Not Returned
+Pune,Male,27,Toys,53.75,40,631.22,2023-03-14,1.3,Credit Card,No,Not Returned
+Kolkata,Female,44,Toys,119.67,39,518.87,2023-12-15,4.1,UPI,No,Returned
+Ahmedabad,Female,28,Clothing,209.69,46,1825.52,2023-02-08,4.8,Net Banking,No,Not Returned
+Kolkata,Female,58,Electronics,211.25,2,118.12,2023-03-22,2.6,Credit Card,Yes,Not Returned
+Lucknow,Female,39,Toys,91.28,45,626.46,2023-02-14,2.8,Cash,Yes,Not Returned
+Delhi,Female,51,Electronics,17.77,39,194.72,2023-06-24,4.7,Net Banking,Yes,Returned
+Hyderabad,Male,49,Electronics,114.44,16,457.29,2023-06-29,2.6,Net Banking,No,Returned
+Kolkata,Male,33,Electronics,268.73,22,693.67,2023-10-02,1.8,Net Banking,Yes,Not Returned
+Lucknow,Female,62,Clothing,157.26,40,1317.86,2023-11-06,2.5,Wallet,Yes,Returned
+Mumbai,Male,18,Groceries,416.53,38,2978.5,2023-07-03,3.1,Credit Card,Yes,Not Returned
+Mumbai,Female,35,Electronics,466.22,5,417.74,2023-11-22,3.6,UPI,Yes,Returned
+Pune,Male,38,Books,265.46,13,740.86,2023-08-03,1.4,UPI,No,Returned
+Jaipur,Male,38,Toys,447.92,44,4267.57,2023-12-30,3.8,Cash,No,Returned
+Bengaluru,Female,55,Clothing,253.34,5,336.14,2023-10-03,3.4,Credit Card,No,Returned
+Kolkata,Female,34,Books,171.64,35,1688.65,2023-11-13,1.1,Net Banking,Yes,Returned
+Delhi,Female,26,Toys,42.1,18,181.89,2023-12-14,2.8,Wallet,Yes,Not Returned
+Kolkata,Female,45,Clothing,220.11,4,151.21,2023-03-12,3.1,UPI,No,Returned
+Ahmedabad,Female,32,Electronics,486.85,16,1085.54,2023-04-12,5.0,Wallet,No,Not Returned
+Jaipur,Male,43,Groceries,383.22,22,1597.48,2023-11-20,4.6,UPI,No,Returned
+Hyderabad,Female,31,Electronics,497.6,28,1821.19,2023-04-01,1.8,Cash,No,Returned
+Delhi,Male,34,Clothing,123.45,29,421.33,2023-03-30,1.1,Cash,No,Not Returned
+Lucknow,Male,22,Clothing,321.77,28,905.65,2023-09-16,1.7,Wallet,No,Returned
+Jaipur,Female,20,Clothing,491.59,24,2126.93,2023-12-19,2.3,Credit Card,Yes,Returned
+Ahmedabad,Female,58,Groceries,352.39,31,1157.31,2023-12-11,3.3,UPI,No,Not Returned
+Chennai,Female,32,Books,492.03,38,4743.42,2023-05-23,2.5,Net Banking,Yes,Not Returned
+Delhi,Female,59,Toys,107.31,25,278.41,2023-12-14,4.8,UPI,Yes,Returned
+Bengaluru,Male,22,Clothing,99.02,15,413.05,2023-09-12,1.6,Wallet,No,Not Returned
+Hyderabad,Male,52,Electronics,208.48,3,87.28,2023-01-15,1.8,Cash,Yes,Returned
+Pune,Male,50,Groceries,174.99,34,1482.45,2023-05-21,1.5,Wallet,No,Returned
+Delhi,Female,51,Groceries,368.64,38,1849.09,2023-02-03,4.5,Credit Card,No,Not Returned
+Jaipur,Female,51,Toys,120.69,48,1368.76,2023-05-16,2.5,Net Banking,No,Not Returned
+Jaipur,Male,57,Clothing,31.96,2,15.85,2023-04-17,2.9,Credit Card,No,Not Returned
+Chennai,Female,35,Clothing,256.25,22,582.76,2023-09-23,4.4,Cash,No,Returned
+Chennai,Female,65,Books,391.48,17,883.51,2023-05-06,2.5,Wallet,No,Not Returned
+Bengaluru,Male,21,Groceries,136.92,35,522.16,2023-05-25,3.7,Net Banking,No,Returned
+Mumbai,Male,51,Toys,412.12,35,1525.09,2023-08-28,2.5,Credit Card,Yes,Not Returned
+Pune,Female,45,Electronics,478.65,49,5648.68,2023-04-03,2.9,Wallet,Yes,Not Returned
+Kolkata,Female,65,Groceries,439.36,38,4642.21,2023-06-03,3.5,Credit Card,Yes,Not Returned
+Hyderabad,Female,32,Books,224.64,41,1067.53,2023-12-19,2.5,Wallet,Yes,Not Returned
+Ahmedabad,Male,40,Books,128.93,9,251.97,2023-07-09,3.1,Cash,Yes,Not Returned
+Jaipur,Male,53,Toys,133.15,37,663.02,2023-11-30,3.0,Credit Card,Yes,Returned
+Kolkata,Female,42,Groceries,202.9,39,1945.65,2023-07-14,1.3,Cash,Yes,Not Returned
+Kolkata,Female,22,Books,56.34,32,504.94,2023-12-12,2.8,Cash,Yes,Returned
+Kolkata,Female,44,Clothing,440.46,27,3340.23,2023-05-22,2.7,UPI,Yes,Not Returned
+Ahmedabad,Female,39,Clothing,170.93,36,1087.38,2023-07-20,2.8,Credit Card,No,Returned
+Hyderabad,Male,24,Electronics,321.0,46,1967.99,2023-06-14,3.2,UPI,No,Not Returned
+Ahmedabad,Female,34,Electronics,274.68,23,715.57,2023-11-01,2.6,Credit Card,Yes,Not Returned
+Pune,Male,52,Groceries,317.51,33,1349.12,2023-04-23,2.9,UPI,No,Not Returned
+Mumbai,Male,30,Clothing,346.65,33,1190.43,2023-08-17,3.8,Credit Card,Yes,Not Returned
+Bengaluru,Male,35,Clothing,350.9,49,3402.49,2023-06-11,4.8,UPI,Yes,Not Returned
+Bengaluru,Female,54,Toys,459.9,40,4928.07,2023-08-17,4.8,Wallet,No,Returned
+Delhi,Female,60,Toys,223.57,8,316.16,2023-03-01,3.8,Wallet,Yes,Returned
+Lucknow,Female,27,Toys,258.16,26,1853.21,2023-02-26,1.4,Wallet,Yes,Returned
+Jaipur,Male,61,Books,387.56,46,4222.57,2023-01-19,4.3,Net Banking,Yes,Returned
+Kolkata,Female,36,Clothing,190.48,20,427.26,2023-09-18,4.2,Wallet,No,Returned
+Mumbai,Female,57,Books,316.12,40,1717.64,2023-09-11,2.6,Net Banking,No,Not Returned
+Ahmedabad,Female,32,Groceries,207.62,36,1520.25,2023-06-09,4.9,Credit Card,Yes,Not Returned
+Delhi,Male,65,Clothing,246.77,13,835.99,2023-07-22,3.6,UPI,Yes,Not Returned
+Chennai,Female,53,Groceries,481.13,50,7048.63,2023-01-13,3.1,Credit Card,No,Returned
+Kolkata,Male,54,Clothing,51.07,31,471.58,2023-09-17,2.7,Cash,No,Returned
+Lucknow,Female,23,Clothing,11.24,21,30.6,2023-09-19,2.8,UPI,Yes,Returned
+Pune,Male,36,Toys,498.86,24,1561.69,2023-02-03,3.5,Credit Card,Yes,Not Returned
+Pune,Male,34,Books,113.35,27,795.71,2023-11-09,4.8,UPI,No,Not Returned
+Kolkata,Female,41,Toys,441.33,41,3331.37,2023-09-11,1.2,Credit Card,No,Returned
+Ahmedabad,Male,22,Electronics,285.16,24,2014.34,2023-07-06,2.9,Cash,Yes,Returned
+Kolkata,Female,53,Books,345.45,30,1229.13,2023-02-22,2.9,UPI,No,Not Returned
+Lucknow,Male,62,Electronics,360.33,31,2997.94,2023-10-07,1.3,Wallet,No,Not Returned
+Jaipur,Male,41,Groceries,296.85,8,488.49,2023-08-08,1.6,Wallet,Yes,Not Returned
+Jaipur,Female,21,Groceries,325.7,5,350.15,2023-09-02,1.3,Net Banking,Yes,Returned
+Mumbai,Male,19,Books,452.36,46,5345.88,2023-10-20,4.0,UPI,No,Not Returned
+Pune,Female,55,Electronics,405.94,13,1478.89,2023-01-03,4.6,Net Banking,Yes,Not Returned
+Pune,Male,55,Electronics,31.77,30,216.05,2023-03-30,1.9,Wallet,Yes,Not Returned
+Pune,Male,33,Electronics,363.23,18,1270.63,2023-02-17,4.9,Net Banking,Yes,Not Returned
+Pune,Male,57,Clothing,204.46,38,1029.25,2023-04-30,2.6,UPI,Yes,Returned
+Chennai,Male,24,Books,359.1,32,2153.77,2023-01-16,1.6,Wallet,No,Returned
+Jaipur,Male,23,Groceries,13.83,8,24.08,2023-12-19,3.1,Cash,Yes,Not Returned
+Lucknow,Male,30,Books,463.45,12,1305.35,2023-05-08,3.0,Cash,No,Returned
+Chennai,Female,61,Groceries,447.39,39,3561.94,2023-10-01,1.5,Credit Card,Yes,Returned
+Ahmedabad,Male,30,Clothing,279.05,11,701.76,2023-04-26,3.5,Net Banking,No,Not Returned
+Delhi,Male,51,Toys,29.53,21,97.44,2023-05-25,1.1,Cash,No,Not Returned
+Kolkata,Female,30,Clothing,151.01,8,343.33,2023-08-04,4.9,Wallet,Yes,Not Returned
+Mumbai,Male,64,Books,294.02,8,365.72,2023-02-23,1.1,Net Banking,Yes,Not Returned
+Jaipur,Female,50,Groceries,213.25,49,1789.47,2023-04-15,3.8,UPI,Yes,Not Returned
+Kolkata,Female,39,Toys,305.27,9,547.42,2023-07-09,1.9,Credit Card,No,Returned
+Bengaluru,Female,62,Groceries,437.58,13,1081.98,2023-05-11,2.2,Wallet,No,Returned
+Bengaluru,Male,42,Groceries,160.66,5,126.94,2023-11-23,4.6,Net Banking,Yes,Returned
+Mumbai,Male,27,Books,360.65,33,2079.76,2023-06-09,4.0,UPI,Yes,Not Returned
+Mumbai,Female,33,Groceries,497.72,46,5079.28,2023-01-12,4.8,Cash,Yes,Returned
+Hyderabad,Female,35,Groceries,289.49,32,1957.84,2023-03-08,2.7,Credit Card,No,Not Returned
+Lucknow,Male,34,Toys,39.28,22,210.88,2023-10-20,3.5,Credit Card,Yes,Returned
+Chennai,Female,49,Groceries,146.07,2,48.35,2023-12-19,2.3,UPI,No,Not Returned
+Lucknow,Male,44,Electronics,125.05,22,506.11,2023-03-24,2.8,UPI,No,Returned
+Mumbai,Female,20,Electronics,494.36,39,2309.98,2023-02-23,4.9,Wallet,No,Returned
+Ahmedabad,Male,53,Electronics,233.31,48,1706.91,2023-10-13,3.5,Wallet,No,Not Returned
+Lucknow,Female,41,Clothing,42.08,44,451.51,2023-07-05,4.0,Cash,No,Returned
+Pune,Female,31,Clothing,346.4,38,2708.25,2023-09-24,3.1,Net Banking,No,Returned
+Mumbai,Female,34,Electronics,425.82,36,3213.66,2023-10-10,4.1,Wallet,No,Not Returned
+Ahmedabad,Male,55,Groceries,275.68,12,750.21,2023-12-18,1.8,Net Banking,No,Not Returned
+Ahmedabad,Female,59,Electronics,192.88,36,1044.56,2023-04-11,4.3,UPI,Yes,Returned
+Bengaluru,Male,44,Books,203.91,2,75.04,2023-08-08,3.0,Wallet,Yes,Not Returned
+Delhi,Female,63,Electronics,363.17,2,99.01,2023-09-15,3.8,Credit Card,No,Returned
+Jaipur,Male,29,Toys,159.45,39,1706.49,2023-03-20,4.3,Wallet,Yes,Returned
+Delhi,Female,24,Clothing,89.03,28,406.54,2023-09-27,1.3,Net Banking,No,Returned
+Lucknow,Male,40,Toys,267.97,28,1101.61,2023-08-01,3.1,Credit Card,Yes,Returned
+Kolkata,Male,27,Books,73.5,4,31.8,2023-11-22,1.4,UPI,Yes,Returned
+Mumbai,Female,31,Groceries,265.51,36,2212.61,2023-02-09,3.5,Credit Card,Yes,Returned
+Chennai,Male,65,Toys,178.33,9,465.36,2023-02-18,1.2,UPI,No,Not Returned
+Kolkata,Male,21,Books,353.42,3,230.94,2023-10-23,1.3,Wallet,No,Returned
+Kolkata,Male,50,Books,315.75,6,557.61,2023-02-02,4.3,Cash,Yes,Not Returned
+Delhi,Male,28,Books,34.5,5,21.17,2023-03-27,4.6,Net Banking,No,Returned
+Jaipur,Male,43,Toys,402.03,13,1114.39,2023-10-29,2.9,Wallet,Yes,Not Returned
+Lucknow,Male,36,Groceries,477.44,32,4311.97,2023-02-25,3.4,UPI,No,Not Returned
+Delhi,Female,25,Books,193.81,35,1358.96,2023-03-03,4.2,Cash,No,Returned
+Mumbai,Female,53,Clothing,397.92,19,1571.74,2023-05-03,2.4,Wallet,Yes,Returned
+Ahmedabad,Female,32,Toys,373.8,20,2128.62,2023-08-31,3.5,Wallet,Yes,Not Returned
+Bengaluru,Male,61,Clothing,470.95,43,4945.54,2023-09-01,2.4,Wallet,Yes,Not Returned
+Jaipur,Male,40,Toys,99.77,42,735.1,2023-05-19,4.4,Cash,No,Returned
+Delhi,Female,40,Toys,240.2,31,2206.67,2023-08-15,4.4,Cash,No,Not Returned
+Pune,Male,47,Electronics,33.88,46,277.39,2023-01-18,2.1,UPI,Yes,Returned
+Ahmedabad,Male,63,Books,120.84,25,621.68,2023-09-14,1.3,Wallet,No,Returned
+Mumbai,Female,59,Groceries,195.15,8,443.11,2023-08-08,3.4,UPI,No,Returned
+Chennai,Female,38,Books,35.08,29,162.27,2023-09-26,1.4,Cash,No,Returned
+Lucknow,Female,35,Toys,373.92,11,740.27,2023-03-31,2.7,Credit Card,No,Returned
+Lucknow,Male,63,Clothing,269.46,15,556.66,2023-12-25,4.5,Cash,Yes,Not Returned
+Kolkata,Male,54,Groceries,83.8,30,488.21,2023-12-14,2.8,Credit Card,No,Not Returned
+Delhi,Female,19,Electronics,45.04,7,38.88,2023-12-11,3.5,Wallet,No,Returned
+Jaipur,Female,60,Groceries,393.77,43,4092.01,2023-11-25,4.4,Credit Card,Yes,Returned
+Lucknow,Male,46,Toys,74.68,21,330.66,2023-01-25,4.3,UPI,Yes,Not Returned
+Bengaluru,Female,19,Groceries,498.57,18,1630.27,2023-07-16,3.7,UPI,No,Returned
+Pune,Male,29,Books,371.78,47,2294.04,2023-09-16,3.1,Wallet,No,Returned
+Ahmedabad,Female,19,Toys,331.18,17,1557.9,2023-10-25,1.1,Cash,Yes,Not Returned
+Delhi,Female,46,Clothing,99.47,32,681.22,2023-08-14,4.0,UPI,Yes,Not Returned
+Hyderabad,Male,21,Electronics,339.23,11,619.22,2023-09-27,4.9,Cash,No,Returned
+Chennai,Female,65,Books,27.65,14,45.09,2023-08-19,4.9,Cash,No,Not Returned
+Delhi,Female,42,Books,30.63,31,113.77,2023-12-29,4.6,UPI,No,Not Returned
+Jaipur,Male,50,Clothing,220.91,10,586.09,2023-02-11,1.6,Credit Card,Yes,Not Returned
+Bengaluru,Female,29,Electronics,244.46,44,2748.76,2023-12-17,2.9,Cash,No,Not Returned
+Ahmedabad,Male,64,Groceries,219.47,39,2200.17,2023-08-18,1.6,UPI,Yes,Not Returned
+Lucknow,Female,33,Toys,174.65,33,1093.09,2023-11-26,3.8,Cash,Yes,Returned
+Delhi,Female,24,Electronics,8.95,41,77.63,2023-09-10,3.1,UPI,Yes,Not Returned
+Ahmedabad,Male,57,Electronics,297.56,13,922.54,2023-07-29,2.7,UPI,No,Not Returned
+Kolkata,Male,51,Groceries,443.73,16,1850.83,2023-07-13,4.9,Net Banking,Yes,Not Returned
+Delhi,Male,40,Books,346.01,29,1694.19,2023-05-16,3.3,Wallet,Yes,Not Returned
+Jaipur,Male,44,Books,475.41,36,4985.85,2023-05-19,4.7,Cash,No,Returned
+Chennai,Male,29,Groceries,263.36,45,3500.24,2023-06-10,3.4,UPI,Yes,Not Returned
+Ahmedabad,Male,49,Books,415.5,25,2550.68,2023-05-07,2.3,Wallet,Yes,Returned
+Jaipur,Male,52,Toys,381.56,13,656.27,2023-01-05,2.9,Credit Card,No,Not Returned
+Chennai,Male,46,Electronics,57.25,9,150.89,2023-11-01,3.3,Wallet,No,Returned
+Bengaluru,Female,54,Toys,206.7,40,2115.74,2023-04-23,2.2,Wallet,No,Not Returned
+Pune,Male,24,Clothing,55.42,46,573.58,2023-08-08,1.5,Cash,Yes,Returned
+Delhi,Female,49,Electronics,274.77,9,629.14,2023-06-21,1.5,Net Banking,Yes,Returned
+Pune,Female,44,Toys,421.64,28,2024.34,2023-08-02,2.5,Cash,Yes,Not Returned
+Bengaluru,Male,59,Electronics,111.44,29,495.77,2023-08-20,1.8,Cash,No,Not Returned
+Ahmedabad,Male,28,Electronics,352.87,20,1564.16,2023-08-17,2.7,Cash,Yes,Not Returned
+Kolkata,Female,65,Clothing,65.0,16,303.23,2023-02-03,3.8,Wallet,Yes,Returned
+Lucknow,Female,51,Clothing,402.32,45,5019.83,2023-03-28,4.1,Wallet,Yes,Not Returned
+Pune,Female,64,Clothing,93.46,2,37.21,2023-02-13,4.1,UPI,Yes,Not Returned
+Mumbai,Male,30,Toys,209.29,49,2785.13,2023-05-28,4.3,Cash,Yes,Not Returned
+Jaipur,Male,45,Toys,243.24,19,915.39,2023-03-28,4.8,Cash,No,Returned
+Lucknow,Female,41,Books,284.99,28,1659.88,2023-09-01,1.6,Net Banking,No,Returned
+Chennai,Male,64,Clothing,450.35,6,528.62,2023-02-26,2.9,Net Banking,No,Not Returned
+Chennai,Male,59,Groceries,98.14,25,349.96,2023-03-30,2.1,UPI,Yes,Not Returned
+Bengaluru,Female,38,Books,495.66,31,4455.83,2023-03-26,1.2,Net Banking,Yes,Returned
+Pune,Male,52,Electronics,193.42,36,948.75,2023-03-14,2.0,Wallet,No,Not Returned
+Pune,Female,38,Clothing,67.95,40,580.49,2023-10-02,1.9,UPI,No,Not Returned
+Lucknow,Male,41,Groceries,267.07,8,463.11,2023-11-28,4.0,Cash,Yes,Not Returned
+Pune,Female,61,Electronics,38.04,34,264.34,2023-04-29,3.9,Net Banking,No,Returned
+Mumbai,Female,24,Toys,302.97,35,2743.24,2023-09-09,2.0,UPI,Yes,Not Returned
+Hyderabad,Female,18,Toys,88.19,36,553.76,2023-10-15,1.5,Net Banking,Yes,Not Returned
+Hyderabad,Female,20,Books,144.55,19,610.64,2023-06-17,5.0,Wallet,Yes,Returned
+Ahmedabad,Female,28,Books,35.31,1,4.04,2023-07-07,2.4,Cash,Yes,Not Returned
+Ahmedabad,Male,36,Electronics,79.9,31,714.34,2023-01-13,1.3,Cash,Yes,Returned
+Jaipur,Female,56,Clothing,332.63,16,1427.09,2023-03-28,3.4,Credit Card,Yes,Returned
+Delhi,Female,35,Electronics,32.4,32,155.94,2023-03-15,2.5,Wallet,No,Returned
+Bengaluru,Male,60,Toys,195.3,47,2076.74,2023-04-20,2.3,Net Banking,Yes,Not Returned
+Chennai,Male,36,Toys,90.26,9,106.78,2023-08-05,2.1,Net Banking,Yes,Returned
+Hyderabad,Male,37,Clothing,83.5,25,227.12,2023-12-18,3.7,Credit Card,Yes,Returned
+Ahmedabad,Female,42,Electronics,251.96,23,1191.09,2023-06-06,3.7,UPI,No,Returned
+Mumbai,Male,64,Groceries,377.02,46,4314.12,2023-12-30,5.0,Credit Card,No,Returned
+Chennai,Male,28,Groceries,221.48,15,568.89,2023-11-05,3.0,Credit Card,Yes,Returned
+Bengaluru,Male,57,Clothing,296.39,50,2257.72,2023-10-08,1.1,UPI,Yes,Returned
+Pune,Female,46,Groceries,187.03,6,174.07,2023-06-28,2.4,Wallet,No,Not Returned
+Chennai,Female,27,Groceries,452.38,30,3858.12,2023-09-08,1.6,Wallet,Yes,Returned
+Hyderabad,Male,34,Groceries,110.53,32,830.07,2023-07-10,5.0,Net Banking,Yes,Not Returned
+Jaipur,Female,23,Clothing,484.72,13,1863.08,2023-02-09,1.4,Net Banking,No,Returned
+Delhi,Male,44,Books,176.44,25,1053.96,2023-11-12,2.5,Cash,No,Returned
+Kolkata,Female,24,Toys,51.34,40,470.53,2023-11-30,3.2,Credit Card,Yes,Returned
+Kolkata,Female,28,Books,171.7,8,193.9,2023-10-10,2.2,UPI,Yes,Not Returned
+Delhi,Male,32,Toys,100.32,43,551.19,2023-12-05,3.5,Credit Card,Yes,Returned
+Delhi,Female,32,Groceries,499.2,9,1016.03,2023-01-21,4.8,Net Banking,No,Not Returned
+Pune,Male,18,Toys,13.16,40,154.94,2023-05-26,3.2,Wallet,No,Returned
+Lucknow,Female,38,Toys,282.55,7,425.7,2023-11-16,3.3,Cash,Yes,Returned
+Mumbai,Male,57,Groceries,156.07,42,927.64,2023-04-08,2.3,Wallet,Yes,Returned
+Ahmedabad,Female,30,Clothing,310.76,25,1719.44,2023-09-14,4.0,Credit Card,Yes,Returned
+Delhi,Male,64,Electronics,424.52,21,2282.9,2023-04-14,1.7,Wallet,No,Returned
+Delhi,Female,42,Books,442.6,49,2649.58,2023-02-07,2.4,Net Banking,No,Not Returned
+Pune,Female,56,Clothing,99.98,27,689.43,2023-11-01,2.9,Credit Card,No,Returned
+Mumbai,Male,18,Books,230.39,13,411.72,2023-08-02,1.2,UPI,No,Returned
+Lucknow,Male,30,Books,311.72,16,616.15,2023-01-11,4.9,Credit Card,Yes,Returned
+Bengaluru,Male,37,Books,84.84,10,125.26,2023-08-04,1.5,UPI,Yes,Returned
+Lucknow,Female,27,Groceries,313.78,14,1065.21,2023-03-29,1.3,UPI,Yes,Returned
+Kolkata,Male,18,Toys,486.43,48,5134.4,2023-09-21,2.2,Net Banking,Yes,Not Returned
+Bengaluru,Male,55,Toys,338.24,30,2706.2,2023-07-27,4.4,Net Banking,Yes,Returned
+Mumbai,Male,56,Books,170.37,5,186.87,2023-12-29,3.5,Credit Card,Yes,Returned
+Pune,Female,65,Clothing,86.39,6,78.64,2023-09-04,4.1,Credit Card,No,Returned
+Ahmedabad,Female,27,Clothing,117.95,9,313.36,2023-08-23,4.6,Cash,Yes,Not Returned
+Chennai,Female,50,Clothing,46.17,50,597.18,2023-12-07,4.9,Wallet,Yes,Not Returned
+Mumbai,Male,43,Electronics,220.95,33,1420.97,2023-12-31,2.5,UPI,No,Returned
+Ahmedabad,Male,27,Books,243.12,35,1295.69,2023-05-04,2.6,Wallet,Yes,Not Returned
+Mumbai,Male,31,Groceries,309.23,35,1302.82,2023-03-15,3.3,Net Banking,Yes,Returned
+Hyderabad,Male,61,Books,267.24,9,343.62,2023-03-14,3.6,Credit Card,No,Returned
+Bengaluru,Female,37,Electronics,13.25,17,51.17,2023-03-14,1.8,UPI,No,Not Returned
+Pune,Female,46,Toys,213.49,47,2538.46,2023-02-25,3.5,Credit Card,No,Returned
+Ahmedabad,Female,33,Books,90.38,2,37.65,2023-05-01,5.0,Wallet,Yes,Returned
+Hyderabad,Male,45,Groceries,208.9,25,973.41,2023-09-22,1.0,Credit Card,No,Not Returned
+Chennai,Female,25,Electronics,225.48,28,1469.07,2024-01-01,3.8,UPI,Yes,Not Returned
+Ahmedabad,Female,59,Groceries,166.37,45,1625.69,2023-07-13,2.7,Net Banking,Yes,Not Returned
+Kolkata,Male,29,Groceries,477.19,31,3969.46,2023-08-21,3.8,Net Banking,No,Returned
+Kolkata,Female,38,Toys,192.63,19,581.87,2023-08-20,3.7,Credit Card,Yes,Returned
+Delhi,Male,49,Toys,258.3,24,1767.81,2023-03-23,4.9,Wallet,Yes,Returned
+Ahmedabad,Male,61,Books,90.57,49,484.83,2023-05-28,2.7,Cash,Yes,Not Returned
+Bengaluru,Male,59,Toys,319.94,22,1843.87,2023-09-01,1.5,Net Banking,No,Returned
+Mumbai,Male,27,Electronics,100.2,18,249.21,2023-01-25,4.7,Net Banking,No,Returned
+Mumbai,Male,26,Electronics,420.87,13,744.63,2023-09-15,3.2,UPI,No,Not Returned
+Kolkata,Male,45,Clothing,245.34,36,1101.26,2023-07-16,1.8,Wallet,No,Not Returned
+Chennai,Male,45,Toys,227.73,47,1886.74,2023-12-28,4.9,Credit Card,Yes,Not Returned
+Kolkata,Male,43,Books,47.26,26,201.32,2023-05-09,4.7,Credit Card,No,Returned
+Chennai,Male,59,Electronics,394.06,8,544.32,2023-05-01,3.2,Net Banking,No,Returned
+Mumbai,Male,54,Groceries,173.84,23,444.62,2023-11-23,3.4,Cash,No,Not Returned
+Hyderabad,Male,50,Electronics,97.16,21,543.28,2023-11-27,4.8,Credit Card,No,Returned
+Pune,Male,18,Clothing,249.26,27,748.53,2023-11-23,4.2,Net Banking,Yes,Not Returned
+Hyderabad,Female,33,Toys,212.54,35,808.39,2023-02-16,2.7,Wallet,No,Not Returned
+Mumbai,Female,63,Groceries,11.99,25,68.58,2023-01-12,1.2,Cash,Yes,Returned
+Lucknow,Female,54,Clothing,489.68,18,1962.45,2023-11-08,1.3,Net Banking,Yes,Not Returned
+Lucknow,Male,29,Groceries,222.15,45,2122.08,2023-03-19,2.7,Credit Card,Yes,Not Returned
+Kolkata,Female,46,Books,441.16,7,691.72,2023-05-14,3.9,UPI,Yes,Not Returned
+Pune,Male,32,Toys,120.3,1,26.04,2023-02-15,3.8,Net Banking,Yes,Not Returned
+Lucknow,Male,25,Clothing,464.83,13,904.51,2023-04-13,2.2,Credit Card,Yes,Not Returned
+Hyderabad,Male,29,Toys,132.59,18,627.43,2023-09-19,1.4,Cash,No,Not Returned
+Delhi,Female,28,Groceries,208.0,8,275.51,2023-11-10,1.4,Net Banking,No,Not Returned
+Mumbai,Female,62,Groceries,129.89,7,170.73,2023-12-22,4.5,UPI,No,Returned
+Jaipur,Male,26,Books,222.63,4,159.03,2023-03-21,3.8,Wallet,Yes,Returned
+Chennai,Female,22,Books,240.6,27,1283.9,2023-11-08,2.6,Cash,Yes,Returned
+Mumbai,Male,25,Groceries,373.72,40,2827.58,2023-12-22,2.7,Net Banking,Yes,Not Returned
+Jaipur,Female,60,Electronics,45.62,22,180.33,2023-03-14,2.2,Net Banking,Yes,Not Returned
+Pune,Female,22,Clothing,423.76,5,390.7,2023-03-11,3.0,UPI,Yes,Not Returned
+Delhi,Female,29,Clothing,407.44,43,2776.56,2023-05-27,2.5,Net Banking,No,Returned
+Hyderabad,Female,51,Electronics,305.47,50,3175.73,2023-11-25,2.1,Net Banking,Yes,Not Returned
+Jaipur,Male,20,Clothing,466.55,29,3936.14,2023-03-12,3.4,Net Banking,Yes,Not Returned
+Delhi,Male,26,Electronics,485.4,40,2099.54,2023-06-27,3.1,Wallet,No,Returned
+Lucknow,Male,43,Clothing,190.66,50,2280.89,2023-02-16,4.1,Cash,No,Not Returned
+Mumbai,Female,50,Electronics,361.2,11,893.08,2023-03-07,1.4,Wallet,Yes,Not Returned
+Bengaluru,Male,28,Groceries,113.03,5,91.68,2023-04-05,4.4,UPI,Yes,Not Returned
+Chennai,Female,55,Toys,316.81,1,48.0,2023-11-16,3.9,Wallet,Yes,Returned
+Bengaluru,Male,42,Electronics,160.5,15,521.25,2023-06-08,2.0,Credit Card,No,Not Returned
+Delhi,Male,56,Groceries,108.47,30,778.53,2023-09-19,2.1,UPI,Yes,Not Returned
+Chennai,Male,34,Groceries,228.32,18,557.77,2023-04-22,1.0,UPI,Yes,Returned
+Delhi,Female,21,Toys,320.33,39,3112.62,2023-10-06,1.8,Wallet,Yes,Not Returned
+Mumbai,Male,25,Toys,90.54,33,855.1,2023-02-14,4.1,Wallet,Yes,Not Returned
+Hyderabad,Male,51,Electronics,408.48,30,3389.65,2023-11-17,3.6,UPI,No,Not Returned
+Bengaluru,Male,50,Groceries,312.36,2,116.3,2023-06-29,3.6,Cash,No,Not Returned
+Kolkata,Male,35,Electronics,29.84,10,55.83,2023-09-10,1.3,UPI,No,Returned
+Ahmedabad,Female,38,Clothing,339.23,37,3587.84,2023-05-13,4.5,UPI,No,Returned
+Delhi,Female,55,Groceries,59.92,18,275.46,2023-03-30,3.6,UPI,No,Returned
+Lucknow,Male,21,Electronics,440.06,44,5596.72,2023-11-07,1.6,Wallet,No,Not Returned
+Jaipur,Female,43,Electronics,206.8,27,1424.89,2023-03-01,3.1,Net Banking,Yes,Returned
+Delhi,Male,54,Clothing,34.64,31,156.98,2023-10-10,4.7,Net Banking,No,Not Returned
+Kolkata,Female,25,Groceries,171.3,22,740.55,2023-10-18,1.2,Cash,Yes,Returned
+Jaipur,Female,38,Electronics,234.66,32,2217.82,2023-12-04,4.8,Credit Card,No,Returned
+Ahmedabad,Male,40,Groceries,400.27,2,143.83,2023-04-08,2.4,Credit Card,Yes,Returned
+Delhi,Female,22,Electronics,20.02,39,229.76,2023-02-25,1.7,Wallet,Yes,Not Returned
+Jaipur,Female,24,Clothing,343.63,7,240.59,2023-06-17,4.6,UPI,No,Not Returned
+Delhi,Male,55,Electronics,87.21,44,578.47,2023-06-24,4.4,Wallet,Yes,Not Returned
+Lucknow,Female,56,Toys,116.76,43,805.87,2023-05-08,2.3,Cash,No,Returned
+Lucknow,Female,42,Clothing,414.44,47,4593.88,2023-01-05,1.8,Net Banking,Yes,Not Returned
+Hyderabad,Female,61,Books,241.81,49,3113.17,2023-09-23,1.3,UPI,Yes,Not Returned
+Ahmedabad,Male,31,Toys,265.58,27,808.57,2023-12-21,4.4,Cash,No,Not Returned
+Kolkata,Female,46,Books,446.72,5,250.88,2023-01-23,4.7,Net Banking,No,Not Returned
+Chennai,Male,48,Books,225.02,5,174.03,2023-11-01,4.9,Credit Card,No,Not Returned
+Bengaluru,Male,61,Toys,175.82,39,1809.34,2023-10-18,2.0,Net Banking,No,Returned
+Delhi,Female,53,Toys,410.38,27,2274.44,2023-05-25,4.7,Credit Card,No,Returned
+Kolkata,Female,39,Clothing,436.62,13,1520.87,2023-03-18,2.1,Credit Card,Yes,Returned
+Jaipur,Male,26,Clothing,441.21,48,4576.65,2023-04-10,3.5,UPI,No,Returned
+Delhi,Male,27,Clothing,287.93,8,372.51,2023-03-08,3.7,Wallet,Yes,Returned
+Lucknow,Female,20,Electronics,223.71,31,1838.76,2023-05-14,3.5,UPI,Yes,Returned
+Bengaluru,Female,54,Books,410.01,8,332.0,2023-08-07,4.5,Net Banking,Yes,Returned
+Chennai,Male,22,Toys,290.99,39,1641.6,2023-06-02,3.9,Wallet,No,Not Returned
+Pune,Male,56,Toys,140.11,25,659.18,2023-04-17,4.7,Net Banking,Yes,Returned
+Ahmedabad,Male,22,Groceries,351.87,9,623.08,2023-01-15,3.9,UPI,No,Not Returned
+Pune,Female,29,Groceries,252.3,16,646.73,2023-12-05,2.8,Net Banking,Yes,Not Returned
+Jaipur,Female,30,Electronics,48.21,14,116.87,2023-11-10,1.7,Wallet,No,Not Returned
+Chennai,Female,44,Books,159.59,15,296.78,2023-03-25,4.6,UPI,No,Not Returned
+Delhi,Male,44,Groceries,96.89,16,458.26,2023-03-16,3.5,UPI,No,Not Returned
+Mumbai,Female,42,Toys,487.54,3,283.8,2023-05-28,4.3,Wallet,Yes,Returned
+Jaipur,Female,57,Groceries,304.44,7,546.11,2023-09-07,4.7,UPI,No,Returned
+Kolkata,Male,49,Toys,349.71,5,300.38,2023-03-25,3.0,UPI,No,Returned
+Pune,Male,33,Clothing,22.58,4,23.49,2023-07-23,4.4,Credit Card,Yes,Returned
+Pune,Male,59,Groceries,490.82,42,5533.51,2023-10-25,4.2,Net Banking,Yes,Returned
+Delhi,Male,19,Toys,118.36,27,567.27,2023-11-03,3.8,Net Banking,Yes,Not Returned
+Lucknow,Female,56,Toys,264.52,25,890.33,2023-07-14,3.0,Cash,Yes,Not Returned
+Jaipur,Male,44,Books,292.39,3,97.25,2023-04-21,4.7,UPI,Yes,Not Returned
+Delhi,Male,23,Books,66.05,40,687.15,2023-11-30,4.8,Wallet,No,Returned
+Ahmedabad,Male,24,Toys,240.05,17,1194.58,2023-11-14,1.6,Cash,Yes,Not Returned
+Ahmedabad,Female,65,Electronics,413.16,33,3665.28,2023-01-05,2.3,Wallet,No,Returned
+Bengaluru,Male,44,Electronics,67.69,25,342.64,2023-09-01,4.5,Net Banking,Yes,Returned
+Chennai,Female,57,Groceries,230.83,7,454.9,2023-12-20,2.5,Wallet,Yes,Not Returned
+Jaipur,Male,64,Clothing,345.26,39,2709.15,2023-04-21,3.9,Wallet,Yes,Not Returned
+Lucknow,Male,44,Groceries,213.18,18,505.57,2023-06-11,1.3,Credit Card,No,Returned
+Mumbai,Male,64,Clothing,266.09,10,521.12,2023-06-11,2.5,Cash,Yes,Returned
+Ahmedabad,Female,63,Toys,118.0,11,239.24,2023-06-07,5.0,Credit Card,No,Not Returned
+Ahmedabad,Female,31,Electronics,48.05,9,114.17,2023-06-24,3.6,Net Banking,No,Returned
+Chennai,Male,47,Electronics,351.52,48,3057.69,2023-09-06,2.6,Cash,No,Not Returned
+Jaipur,Female,19,Books,195.03,8,227.63,2023-12-29,1.1,Net Banking,No,Returned
+Bengaluru,Female,27,Groceries,155.33,8,174.54,2023-07-01,4.5,UPI,Yes,Returned
+Chennai,Male,43,Groceries,40.51,28,255.59,2023-10-31,4.3,Cash,Yes,Returned
+Pune,Male,61,Clothing,217.83,15,637.04,2023-01-12,2.3,Cash,Yes,Returned
+Bengaluru,Female,18,Clothing,243.46,18,1225.17,2023-12-26,4.7,Cash,Yes,Not Returned
+Jaipur,Male,46,Books,299.54,17,1239.28,2023-09-26,2.9,UPI,Yes,Returned
+Mumbai,Female,58,Electronics,26.32,22,101.56,2023-01-22,4.0,Net Banking,No,Not Returned
+Delhi,Female,51,Toys,250.11,21,1232.58,2023-05-27,3.9,Wallet,No,Not Returned
+Delhi,Female,59,Books,494.51,2,188.67,2023-09-09,4.9,Cash,No,Not Returned
+Hyderabad,Male,24,Books,279.69,8,478.88,2023-06-09,1.7,Cash,Yes,Not Returned
+Hyderabad,Female,41,Books,373.48,6,488.88,2023-02-08,3.8,Net Banking,Yes,Returned
+Bengaluru,Male,27,Toys,342.23,22,2121.58,2023-08-05,3.0,Wallet,Yes,Not Returned
+Pune,Male,37,Clothing,428.82,46,4847.82,2023-02-19,4.6,Wallet,Yes,Not Returned
+Jaipur,Male,52,Groceries,353.9,25,1522.78,2023-11-29,4.7,Net Banking,Yes,Not Returned
+Pune,Male,60,Electronics,347.54,38,1907.88,2023-12-15,2.5,Net Banking,No,Not Returned
+Chennai,Male,28,Clothing,358.49,31,2064.08,2023-01-07,3.7,Cash,No,Not Returned
+Delhi,Female,54,Books,331.41,15,1387.28,2023-01-27,2.0,Wallet,Yes,Not Returned
+Bengaluru,Male,38,Books,319.01,7,349.11,2023-08-28,1.1,Credit Card,Yes,Returned
+Bengaluru,Male,27,Books,394.0,38,3939.8,2023-04-28,4.8,Credit Card,Yes,Not Returned
+Delhi,Male,45,Toys,204.56,12,714.81,2023-01-24,2.7,Cash,No,Not Returned
+Mumbai,Male,63,Clothing,259.94,22,1481.54,2023-02-05,1.3,UPI,Yes,Returned
+Mumbai,Male,40,Electronics,81.58,25,561.92,2023-06-21,2.5,Cash,Yes,Not Returned
+Ahmedabad,Male,59,Books,36.99,4,24.02,2023-07-03,1.5,Wallet,No,Not Returned
+Chennai,Female,50,Groceries,15.59,40,65.52,2023-12-16,2.0,Wallet,No,Returned
+Pune,Male,39,Electronics,484.95,48,4664.43,2023-07-08,4.3,Net Banking,No,Returned
+Hyderabad,Female,27,Groceries,58.14,9,69.85,2023-02-09,2.2,Wallet,No,Returned
+Pune,Female,50,Electronics,91.74,21,334.29,2023-10-06,2.4,Wallet,No,Not Returned
+Bengaluru,Female,40,Toys,23.82,4,16.13,2023-03-13,3.1,Cash,No,Returned
+Bengaluru,Male,63,Groceries,48.6,6,54.01,2024-01-01,4.3,Net Banking,Yes,Returned
+Lucknow,Female,64,Toys,50.27,25,149.07,2023-02-22,1.0,UPI,Yes,Not Returned
+Chennai,Male,25,Clothing,497.56,40,3659.68,2023-11-11,4.7,Net Banking,Yes,Returned
+Ahmedabad,Female,61,Books,226.39,6,234.13,2023-06-19,2.5,Credit Card,No,Not Returned
+Pune,Female,44,Groceries,36.16,19,183.4,2023-08-22,3.0,Cash,Yes,Not Returned
+Delhi,Male,55,Books,300.27,50,4471.68,2023-07-03,2.5,Credit Card,Yes,Not Returned
+Pune,Male,64,Books,367.93,4,215.71,2023-07-06,4.4,UPI,No,Returned
+Hyderabad,Male,18,Clothing,141.79,31,1252.55,2023-08-03,3.7,Net Banking,No,Returned
+Pune,Female,23,Electronics,256.44,40,2382.01,2023-02-03,1.0,Credit Card,No,Not Returned
+Bengaluru,Male,36,Groceries,172.68,8,232.43,2023-11-20,2.8,Credit Card,No,Returned
+Chennai,Male,46,Electronics,333.67,4,195.73,2023-11-17,4.8,Net Banking,Yes,Not Returned
+Jaipur,Male,59,Clothing,482.12,42,5247.21,2023-10-31,4.9,Credit Card,No,Not Returned
+Ahmedabad,Female,21,Toys,108.02,36,1133.83,2023-04-17,3.3,Credit Card,No,Returned
+Pune,Male,34,Electronics,485.77,24,1485.11,2023-08-03,2.1,UPI,No,Not Returned
+Mumbai,Female,36,Clothing,354.44,2,119.84,2023-02-01,4.0,Net Banking,No,Not Returned
+Delhi,Female,50,Clothing,195.67,36,952.99,2023-03-14,2.4,Credit Card,Yes,Returned
+Mumbai,Male,61,Clothing,142.85,50,817.94,2023-08-31,2.9,Cash,No,Returned
+Pune,Female,33,Electronics,355.31,19,1952.17,2023-02-03,1.4,Credit Card,Yes,Returned
+Pune,Male,44,Electronics,291.0,32,1004.65,2023-04-08,4.5,Wallet,No,Not Returned
+Delhi,Male,23,Electronics,399.83,41,4424.01,2023-10-03,2.7,Wallet,No,Returned
+Kolkata,Female,24,Clothing,116.49,43,1298.41,2023-07-02,2.5,Net Banking,No,Not Returned
+Hyderabad,Female,64,Toys,22.85,26,89.54,2023-03-21,1.5,Net Banking,Yes,Not Returned
+Delhi,Female,19,Clothing,59.19,5,75.52,2023-02-11,2.2,Credit Card,Yes,Returned
+Chennai,Female,35,Electronics,126.2,31,950.31,2023-02-22,2.4,Net Banking,No,Returned
+Bengaluru,Female,41,Groceries,73.94,9,133.01,2023-11-16,1.7,UPI,No,Not Returned
+Chennai,Male,60,Electronics,150.33,34,904.56,2023-11-08,4.3,Net Banking,Yes,Returned
+Jaipur,Female,38,Clothing,262.78,49,1713.86,2023-10-20,4.0,Net Banking,No,Returned
+Chennai,Male,62,Electronics,370.32,36,2891.39,2023-04-26,3.9,Wallet,No,Returned
+Delhi,Female,27,Electronics,475.68,45,2512.21,2023-05-16,3.6,Net Banking,No,Not Returned
+Mumbai,Male,21,Books,130.51,16,477.07,2023-12-10,1.6,Credit Card,No,Not Returned
+Lucknow,Male,32,Clothing,223.92,20,1015.97,2023-12-18,3.5,Cash,Yes,Returned
+Jaipur,Male,37,Toys,215.08,18,1129.13,2023-10-27,2.3,Credit Card,Yes,Not Returned
+Hyderabad,Female,48,Books,388.93,11,975.87,2023-08-15,1.3,Cash,No,Returned
+Kolkata,Male,36,Books,455.85,47,5026.29,2023-03-10,2.6,Cash,No,Returned
+Jaipur,Female,40,Books,273.02,22,1783.86,2023-10-29,1.4,Wallet,Yes,Returned
+Chennai,Female,47,Books,140.39,40,1209.88,2023-10-12,2.3,Wallet,Yes,Returned
+Delhi,Male,21,Groceries,411.03,10,1016.48,2023-02-11,4.6,UPI,No,Returned
+Ahmedabad,Female,26,Books,473.09,49,5983.83,2023-08-22,1.8,UPI,Yes,Returned
+Lucknow,Male,31,Electronics,76.02,21,457.22,2023-03-14,3.6,UPI,Yes,Returned
+Ahmedabad,Female,57,Groceries,276.56,42,2412.36,2023-02-08,4.6,Cash,No,Not Returned
+Mumbai,Female,33,Groceries,440.18,4,366.85,2023-07-14,2.6,Cash,Yes,Not Returned
+Hyderabad,Male,42,Clothing,77.27,16,314.17,2023-11-11,4.9,Net Banking,No,Not Returned
+Lucknow,Female,35,Groceries,341.56,28,2728.97,2023-12-23,4.7,Wallet,Yes,Returned
+Kolkata,Female,51,Groceries,264.4,4,204.65,2023-04-19,1.6,Net Banking,Yes,Not Returned
+Bengaluru,Male,48,Toys,86.99,39,426.54,2023-04-06,1.8,Credit Card,Yes,Not Returned
+Pune,Male,46,Clothing,173.33,3,102.63,2023-02-05,1.5,UPI,Yes,Not Returned
+Mumbai,Female,41,Groceries,258.33,9,300.26,2023-03-07,3.7,Wallet,No,Returned
+Delhi,Female,50,Books,255.01,33,2225.8,2023-09-05,1.8,UPI,No,Returned
+Jaipur,Female,48,Toys,222.41,1,52.3,2023-09-04,4.6,Credit Card,No,Not Returned
+Ahmedabad,Male,53,Electronics,105.43,29,844.41,2023-12-30,4.8,Wallet,No,Not Returned
+Kolkata,Male,23,Clothing,100.62,22,435.26,2023-03-16,4.8,Credit Card,No,Not Returned
+Mumbai,Male,37,Electronics,220.18,25,705.42,2023-07-08,3.7,Net Banking,No,Not Returned
+Delhi,Female,52,Toys,398.34,29,3309.45,2023-05-31,2.4,Wallet,No,Returned
+Jaipur,Male,42,Groceries,379.96,1,79.16,2023-09-27,4.7,Wallet,Yes,Returned
+Bengaluru,Male,46,Groceries,198.05,19,921.61,2023-02-03,2.9,Cash,No,Returned
+Kolkata,Male,56,Electronics,315.08,49,4521.19,2023-06-29,2.3,Cash,Yes,Returned
+Hyderabad,Male,52,Groceries,346.02,30,2953.33,2023-09-01,4.5,UPI,Yes,Not Returned
+Jaipur,Female,21,Clothing,480.88,16,974.45,2023-02-28,4.4,Cash,Yes,Not Returned
+Hyderabad,Male,30,Groceries,67.17,23,316.64,2023-08-08,2.9,Cash,Yes,Not Returned
+Mumbai,Female,50,Groceries,267.79,16,635.26,2023-03-12,3.9,UPI,No,Not Returned
+Mumbai,Female,20,Groceries,150.3,30,1331.78,2023-02-03,3.1,Wallet,Yes,Not Returned
+Lucknow,Female,22,Clothing,46.71,8,103.57,2023-05-22,1.7,Net Banking,No,Returned
+Mumbai,Female,34,Toys,401.13,36,3545.22,2023-04-15,3.2,Net Banking,No,Not Returned
+Delhi,Male,65,Toys,276.51,49,1622.84,2023-08-20,2.8,Wallet,No,Returned
+Ahmedabad,Female,38,Books,477.55,40,4021.53,2023-03-08,1.9,Wallet,Yes,Not Returned
+Bengaluru,Female,20,Books,314.33,19,1738.31,2023-03-02,3.1,Cash,No,Returned
+Hyderabad,Male,31,Groceries,421.62,44,2733.15,2023-07-25,3.0,Wallet,Yes,Returned
+Hyderabad,Female,26,Books,322.68,4,319.84,2023-10-27,3.7,UPI,No,Returned
+Hyderabad,Male,49,Books,166.96,10,480.22,2023-01-18,3.5,Credit Card,No,Returned
+Mumbai,Female,48,Electronics,427.48,13,1201.95,2023-03-09,4.3,Credit Card,No,Returned
+Mumbai,Male,21,Toys,254.89,49,1833.67,2023-09-12,1.3,Net Banking,No,Returned
+Lucknow,Female,64,Toys,54.99,41,637.64,2023-11-27,4.2,Wallet,Yes,Returned
+Hyderabad,Male,25,Toys,489.74,13,702.24,2024-01-01,3.4,Credit Card,No,Not Returned
+Hyderabad,Male,23,Books,453.01,11,1222.76,2023-06-29,1.8,UPI,Yes,Not Returned
+Mumbai,Male,47,Toys,40.69,32,272.35,2023-02-21,1.7,Wallet,Yes,Returned
+Bengaluru,Male,35,Books,132.0,43,733.28,2023-04-16,3.7,UPI,No,Not Returned
+Jaipur,Male,42,Clothing,400.75,47,2916.7,2023-03-23,2.9,Cash,No,Not Returned
+Ahmedabad,Male,48,Toys,79.68,45,541.06,2023-03-03,2.6,Cash,Yes,Returned
+Delhi,Female,29,Electronics,453.9,25,2612.41,2023-03-04,4.4,UPI,Yes,Not Returned
+Chennai,Female,39,Groceries,97.2,2,45.99,2023-05-11,4.0,Credit Card,No,Not Returned
+Kolkata,Male,42,Electronics,493.69,20,2595.41,2023-06-20,2.0,Net Banking,Yes,Returned
+Hyderabad,Female,56,Groceries,411.89,12,1112.32,2023-03-28,4.0,Credit Card,No,Not Returned
+Ahmedabad,Male,56,Groceries,286.3,24,967.05,2023-06-02,4.9,Cash,Yes,Not Returned
+Mumbai,Male,30,Books,252.79,6,357.45,2023-03-03,2.5,Cash,Yes,Not Returned
+Jaipur,Male,18,Groceries,238.9,14,343.24,2023-02-22,2.6,Wallet,Yes,Not Returned
+Delhi,Male,62,Clothing,444.11,5,515.42,2023-07-17,1.5,Wallet,Yes,Not Returned
+Delhi,Male,63,Clothing,364.12,50,5140.98,2023-08-30,2.1,Net Banking,No,Not Returned
+Jaipur,Male,30,Books,287.83,13,452.6,2023-04-30,3.9,Credit Card,No,Returned
+Kolkata,Female,46,Books,290.22,35,1709.79,2023-06-03,4.9,Net Banking,Yes,Not Returned
+Ahmedabad,Male,38,Books,207.92,34,1520.25,2023-07-12,2.0,Credit Card,Yes,Not Returned
+Pune,Female,32,Electronics,405.94,41,1999.5,2023-09-30,3.4,Net Banking,Yes,Returned
+Bengaluru,Female,30,Books,102.16,39,517.73,2023-03-22,1.1,Cash,Yes,Not Returned
+Mumbai,Male,40,Clothing,39.79,50,281.46,2023-02-26,1.2,Wallet,No,Returned
+Hyderabad,Male,36,Toys,53.76,43,306.26,2023-10-13,4.8,Wallet,No,Not Returned
+Hyderabad,Male,30,Electronics,378.81,37,2650.62,2023-04-01,4.4,UPI,No,Not Returned
+Mumbai,Female,33,Books,118.29,37,455.55,2023-12-15,3.2,Net Banking,Yes,Not Returned
+Pune,Female,63,Toys,173.16,36,1640.56,2023-08-31,1.2,Cash,No,Returned
+Bengaluru,Female,20,Groceries,480.27,47,6122.55,2023-07-11,2.9,Credit Card,Yes,Returned
+Kolkata,Male,44,Groceries,406.02,47,4876.24,2023-01-27,3.2,Net Banking,No,Returned
+Kolkata,Male,52,Clothing,20.74,35,140.67,2023-07-31,2.8,UPI,Yes,Not Returned
+Chennai,Male,22,Books,114.25,1,33.52,2023-02-25,1.6,Net Banking,Yes,Not Returned
+Hyderabad,Female,43,Clothing,30.57,27,189.11,2023-03-19,3.0,Cash,No,Not Returned
+Mumbai,Female,48,Books,185.51,30,628.64,2023-03-16,1.9,Credit Card,No,Returned
+Pune,Female,61,Books,169.6,41,1313.0,2023-06-23,4.7,Net Banking,Yes,Returned
+Bengaluru,Male,20,Books,212.59,21,1059.3,2023-06-27,4.7,UPI,No,Returned
+Ahmedabad,Female,30,Groceries,105.96,30,418.25,2023-12-05,2.8,UPI,No,Not Returned
+Lucknow,Male,32,Books,311.51,12,587.64,2023-04-10,3.2,Cash,Yes,Returned
+Bengaluru,Male,24,Toys,35.94,26,131.07,2023-09-26,4.8,UPI,No,Returned
+Jaipur,Male,55,Books,385.76,13,779.39,2023-06-20,4.8,Net Banking,Yes,Returned
+Jaipur,Female,21,Clothing,380.17,17,1621.14,2023-07-08,3.2,Wallet,No,Returned
+Chennai,Male,54,Clothing,406.5,36,3371.25,2023-04-23,1.5,Credit Card,No,Returned
+Lucknow,Female,21,Groceries,210.08,9,260.54,2023-05-07,2.2,UPI,No,Returned
+Jaipur,Male,33,Clothing,108.97,44,979.31,2023-04-15,3.7,Credit Card,No,Returned
+Kolkata,Male,57,Groceries,467.38,39,4340.99,2023-10-19,4.0,UPI,No,Returned
+Kolkata,Female,22,Books,174.39,32,864.06,2023-06-04,1.5,Credit Card,No,Returned
+Mumbai,Male,44,Clothing,198.78,30,641.85,2023-09-26,2.9,Cash,Yes,Returned
+Chennai,Male,56,Clothing,312.16,41,1971.26,2023-08-05,1.9,Net Banking,No,Returned
+Jaipur,Male,34,Toys,393.24,8,467.95,2023-01-05,1.8,Net Banking,No,Returned
+Chennai,Male,55,Electronics,370.0,39,3073.75,2023-01-11,4.1,Net Banking,No,Returned
+Delhi,Male,50,Electronics,367.19,32,2922.34,2023-04-27,4.8,Credit Card,Yes,Not Returned
+Kolkata,Female,51,Books,40.56,37,152.85,2023-03-18,1.5,UPI,Yes,Returned
+Jaipur,Female,57,Electronics,279.67,28,2138.07,2023-08-30,1.1,Cash,Yes,Not Returned
+Ahmedabad,Male,34,Electronics,462.39,36,2798.52,2023-09-17,4.8,Cash,No,Returned
+Pune,Male,58,Electronics,486.02,23,1564.16,2023-06-08,1.0,Credit Card,No,Not Returned
+Chennai,Male,58,Clothing,25.59,35,101.39,2023-01-26,2.9,Wallet,Yes,Not Returned
+Kolkata,Female,40,Electronics,435.1,38,3856.68,2023-08-29,4.9,Credit Card,No,Not Returned
+Chennai,Female,33,Clothing,309.35,9,454.9,2023-10-21,3.4,UPI,No,Returned
+Bengaluru,Female,24,Books,97.08,9,166.46,2023-09-04,4.4,Credit Card,Yes,Not Returned
+Hyderabad,Female,25,Toys,59.56,36,241.55,2023-10-08,4.3,Cash,Yes,Not Returned
+Jaipur,Male,19,Books,80.92,42,1007.11,2023-01-07,1.8,Net Banking,Yes,Not Returned
+Chennai,Male,22,Electronics,467.82,13,1679.58,2023-11-30,4.1,Cash,No,Not Returned
+Delhi,Female,34,Books,16.44,22,69.28,2023-10-19,3.0,Wallet,No,Returned
+Delhi,Female,28,Clothing,245.21,40,1146.23,2023-01-07,3.7,Cash,No,Not Returned
+Kolkata,Male,43,Books,382.84,16,624.43,2023-12-01,4.8,UPI,Yes,Not Returned
+Jaipur,Female,40,Clothing,98.41,4,63.24,2023-01-12,3.6,Credit Card,Yes,Not Returned
+Ahmedabad,Male,34,Clothing,263.36,19,1001.84,2023-06-11,1.2,UPI,Yes,Not Returned
+Ahmedabad,Male,36,Books,14.91,40,87.91,2023-01-28,4.4,Wallet,No,Not Returned
+Kolkata,Male,22,Groceries,116.96,25,646.77,2023-05-22,3.6,Cash,Yes,Returned
+Mumbai,Male,55,Electronics,370.68,9,351.6,2023-09-08,2.7,Cash,Yes,Not Returned
+Ahmedabad,Male,59,Toys,445.46,49,4031.19,2023-01-07,3.1,Wallet,Yes,Not Returned
+Lucknow,Female,57,Clothing,129.12,14,243.78,2023-05-10,3.1,Net Banking,No,Returned
+Pune,Male,25,Toys,179.34,7,242.56,2023-06-28,2.1,Cash,Yes,Returned
+Delhi,Female,58,Groceries,65.66,30,272.34,2023-08-08,2.2,UPI,No,Returned
+Delhi,Male,19,Electronics,109.1,2,63.79,2023-09-29,3.6,UPI,No,Returned
+Chennai,Female,43,Books,481.12,22,1686.76,2023-05-28,4.6,Wallet,No,Returned
+Hyderabad,Female,28,Electronics,458.8,37,2393.43,2023-06-07,4.5,Wallet,Yes,Not Returned
+Jaipur,Male,55,Toys,13.48,46,97.35,2023-03-22,1.2,Wallet,No,Returned
+Jaipur,Female,32,Clothing,88.14,24,535.03,2023-04-29,4.2,Cash,Yes,Not Returned
+Pune,Male,58,Books,68.55,16,220.9,2023-06-25,4.1,Net Banking,No,Returned
+Bengaluru,Female,38,Toys,180.14,16,743.06,2023-09-28,1.9,UPI,No,Not Returned
+Chennai,Male,30,Groceries,408.27,31,2885.62,2023-05-21,4.5,Credit Card,Yes,Not Returned
+Lucknow,Male,62,Electronics,96.95,49,1397.72,2023-04-06,1.5,Credit Card,Yes,Not Returned
+Mumbai,Male,27,Clothing,265.02,35,2054.85,2023-08-31,4.2,Credit Card,No,Returned
+Mumbai,Female,26,Electronics,214.62,49,1292.76,2023-09-26,2.1,UPI,No,Not Returned
+Ahmedabad,Female,39,Clothing,447.41,16,1502.35,2023-04-09,3.7,Net Banking,No,Returned
+Pune,Female,27,Electronics,223.91,22,1194.6,2023-12-05,2.9,Credit Card,Yes,Not Returned
+Hyderabad,Female,56,Electronics,222.31,48,1696.14,2023-04-06,4.0,Wallet,Yes,Not Returned
+Lucknow,Male,55,Electronics,263.64,37,2691.02,2023-02-23,4.6,Cash,No,Not Returned
+Bengaluru,Female,38,Clothing,250.43,1,69.57,2023-05-09,4.7,UPI,Yes,Returned
+Hyderabad,Female,28,Groceries,192.22,6,131.18,2023-11-06,1.5,Net Banking,Yes,Returned
+Jaipur,Male,61,Electronics,336.74,45,3516.39,2023-08-07,3.6,Wallet,Yes,Returned
+Pune,Female,46,Electronics,214.6,34,1601.18,2023-03-17,3.4,Credit Card,Yes,Returned
+Delhi,Male,23,Groceries,177.59,23,630.29,2023-07-11,4.0,Cash,No,Not Returned
+Mumbai,Male,53,Electronics,349.15,32,1335.16,2023-05-18,2.9,Wallet,Yes,Not Returned
+Lucknow,Male,33,Clothing,265.33,13,506.85,2023-09-05,2.0,Credit Card,Yes,Returned
+Kolkata,Female,43,Clothing,463.68,45,2295.93,2023-08-25,1.7,Net Banking,Yes,Returned
+Jaipur,Female,50,Books,90.73,46,960.52,2023-09-24,2.7,Cash,Yes,Not Returned
+Pune,Male,55,Books,471.1,35,3271.32,2023-04-06,1.5,Credit Card,No,Returned
+Lucknow,Male,34,Clothing,196.15,50,2127.97,2023-03-22,2.6,Cash,No,Not Returned
+Jaipur,Male,18,Books,60.19,2,32.43,2023-06-07,2.3,Wallet,No,Returned
+Delhi,Male,58,Toys,247.72,11,572.92,2023-09-13,2.3,Net Banking,No,Returned
+Ahmedabad,Male,37,Books,349.88,48,4736.23,2023-03-05,1.1,UPI,No,Returned
+Pune,Female,38,Electronics,90.13,20,351.98,2023-03-10,1.8,Cash,No,Not Returned
+Bengaluru,Male,27,Electronics,458.31,26,2045.55,2023-09-07,3.3,Net Banking,No,Not Returned
+Jaipur,Male,62,Clothing,153.22,50,1220.06,2023-05-19,2.9,Net Banking,No,Returned
+Hyderabad,Female,63,Groceries,195.47,44,1286.29,2023-10-09,4.6,Net Banking,Yes,Returned
+Mumbai,Female,40,Groceries,249.34,50,2269.1,2023-11-25,4.9,Cash,Yes,Not Returned
+Lucknow,Female,19,Toys,395.25,42,3646.39,2023-06-28,4.3,Wallet,Yes,Returned
+Kolkata,Female,45,Books,485.4,12,1300.55,2023-03-14,2.8,Wallet,Yes,Returned
+Pune,Male,34,Groceries,10.33,46,72.82,2023-09-04,2.9,Wallet,Yes,Returned
+Jaipur,Male,55,Books,394.88,4,205.64,2023-08-26,3.2,Credit Card,No,Returned
+Delhi,Female,23,Clothing,161.87,3,67.3,2023-11-07,2.8,Cash,Yes,Not Returned
+Delhi,Male,19,Electronics,41.63,38,165.92,2023-09-10,4.8,Credit Card,No,Not Returned
+Bengaluru,Male,47,Books,464.09,30,2549.67,2023-03-01,2.3,Wallet,No,Not Returned
+Hyderabad,Female,18,Electronics,262.09,5,348.11,2023-07-02,4.4,UPI,Yes,Not Returned
+Mumbai,Female,45,Toys,243.51,25,1462.87,2023-02-21,3.5,Net Banking,No,Not Returned
+Kolkata,Male,33,Groceries,103.72,15,219.08,2023-01-24,4.2,Cash,No,Not Returned
+Mumbai,Male,23,Electronics,237.48,30,984.06,2023-07-08,2.0,Wallet,No,Not Returned
+Delhi,Female,37,Electronics,86.54,49,737.3,2023-10-19,3.1,UPI,Yes,Not Returned
+Bengaluru,Male,57,Groceries,424.12,13,916.43,2023-07-06,1.3,UPI,No,Not Returned
+Kolkata,Female,65,Toys,251.8,46,1288.72,2023-05-27,2.9,Wallet,No,Returned
+Delhi,Male,65,Groceries,14.57,36,100.59,2023-04-09,2.1,UPI,No,Returned
+Jaipur,Female,22,Electronics,50.07,34,238.35,2023-02-22,2.5,Cash,Yes,Not Returned
+Jaipur,Male,20,Books,207.23,3,125.43,2023-07-28,1.8,Wallet,No,Returned
+Lucknow,Female,26,Groceries,159.35,7,292.25,2023-05-14,2.1,Cash,No,Returned
+Kolkata,Female,55,Clothing,128.08,43,1356.82,2023-10-05,1.8,Cash,No,Not Returned
+Jaipur,Female,30,Groceries,305.01,13,656.0,2023-03-06,3.8,UPI,No,Returned
+Ahmedabad,Female,33,Electronics,274.23,38,2965.39,2023-08-26,3.1,Wallet,No,Not Returned
+Jaipur,Female,64,Groceries,195.25,45,1676.96,2023-04-14,2.9,Wallet,No,Not Returned
+Jaipur,Male,64,Groceries,164.57,45,1626.49,2023-07-28,2.7,Credit Card,Yes,Not Returned
+Hyderabad,Female,51,Toys,278.48,25,1738.87,2023-09-24,1.1,UPI,No,Returned
+Delhi,Female,26,Toys,461.9,8,917.11,2023-03-22,1.6,UPI,No,Returned
+Kolkata,Female,58,Toys,387.04,34,1372.37,2023-09-30,1.9,Credit Card,No,Returned
+Ahmedabad,Male,60,Groceries,94.21,26,720.75,2023-01-09,2.7,Net Banking,Yes,Not Returned
+Bengaluru,Female,18,Groceries,44.86,43,374.75,2023-12-01,3.5,Net Banking,Yes,Returned
+Lucknow,Male,56,Books,456.21,45,2299.65,2023-07-12,3.6,Wallet,Yes,Returned
+Hyderabad,Male,65,Clothing,218.47,45,2797.19,2023-07-24,3.8,Cash,Yes,Returned
+Lucknow,Female,31,Electronics,39.52,50,264.84,2023-03-14,4.5,Credit Card,Yes,Returned
+Pune,Male,22,Toys,151.21,44,1498.96,2023-11-13,3.4,Credit Card,Yes,Not Returned
+Hyderabad,Male,35,Electronics,305.02,22,1394.49,2023-05-06,2.3,Net Banking,Yes,Returned
+Bengaluru,Female,45,Clothing,132.6,38,1237.0,2023-08-06,4.9,Net Banking,Yes,Returned
+Ahmedabad,Female,26,Toys,214.45,14,601.53,2023-11-18,3.5,Credit Card,Yes,Returned
+Mumbai,Male,32,Toys,32.29,50,428.62,2023-12-14,3.9,Net Banking,Yes,Returned
+Delhi,Female,22,Toys,336.3,45,4127.6,2023-07-19,1.5,Credit Card,Yes,Returned
+Jaipur,Male,53,Groceries,132.18,41,845.08,2023-12-01,4.6,Net Banking,No,Returned
+Kolkata,Male,33,Groceries,342.2,36,2648.47,2023-03-19,2.4,Net Banking,No,Returned
+Hyderabad,Male,26,Clothing,227.98,46,2607.08,2023-01-09,3.3,Credit Card,Yes,Returned
+Chennai,Female,37,Books,457.63,39,1820.4,2023-02-12,2.3,Credit Card,Yes,Not Returned
+Jaipur,Male,30,Clothing,407.53,28,1964.53,2023-11-11,1.1,Credit Card,Yes,Not Returned
+Jaipur,Male,58,Toys,153.33,39,1637.04,2023-02-01,2.0,UPI,Yes,Not Returned
+Ahmedabad,Male,59,Clothing,145.59,36,1297.12,2023-07-15,3.5,UPI,No,Not Returned
+Pune,Male,27,Electronics,337.97,32,2901.82,2023-08-30,1.6,Net Banking,No,Returned
+Hyderabad,Female,20,Toys,272.02,46,2351.91,2023-03-18,2.9,Cash,Yes,Not Returned
+Pune,Female,63,Electronics,493.32,14,1830.45,2023-06-03,3.6,Credit Card,Yes,Returned
+Jaipur,Male,24,Toys,461.06,39,3614.55,2023-04-13,3.9,Wallet,No,Returned
+Chennai,Male,61,Electronics,168.09,26,876.28,2023-08-22,1.9,Cash,Yes,Not Returned
+Ahmedabad,Female,42,Books,441.19,40,4945.7,2023-12-14,3.8,UPI,No,Returned
+Mumbai,Male,43,Electronics,9.45,2,5.26,2023-11-17,2.7,UPI,No,Returned
+Mumbai,Male,24,Groceries,360.67,22,798.66,2023-11-16,4.2,Wallet,No,Returned
+Pune,Female,44,Clothing,227.59,27,1724.25,2023-06-29,4.2,UPI,No,Returned
+Kolkata,Female,23,Books,422.09,47,2608.71,2023-10-24,3.0,Credit Card,No,Not Returned
+Chennai,Male,59,Books,272.71,7,429.25,2023-10-25,3.8,Wallet,No,Not Returned
+Pune,Female,23,Groceries,268.69,28,1777.41,2023-07-11,2.5,UPI,No,Returned
+Hyderabad,Male,59,Groceries,332.51,33,2390.24,2023-05-13,3.7,Wallet,No,Not Returned
+Delhi,Female,26,Toys,383.74,45,4163.5,2023-03-10,3.1,Credit Card,Yes,Returned
+Hyderabad,Male,37,Clothing,496.31,46,2456.94,2023-03-19,2.4,UPI,Yes,Returned
+Lucknow,Male,36,Clothing,336.77,37,2978.08,2023-01-24,3.2,Wallet,Yes,Not Returned
+Hyderabad,Female,42,Toys,330.15,38,2724.14,2023-08-16,4.5,Wallet,No,Returned
+Pune,Male,42,Electronics,128.36,42,702.32,2023-03-04,2.8,Wallet,Yes,Not Returned
+Bengaluru,Female,45,Toys,307.64,31,1465.89,2023-03-13,1.6,Credit Card,Yes,Not Returned
+Chennai,Female,43,Electronics,50.13,37,456.2,2023-06-12,2.2,Cash,No,Returned
+Delhi,Female,18,Books,309.99,17,1205.35,2023-06-08,3.6,UPI,No,Returned
+Pune,Male,34,Books,428.18,44,4389.55,2023-10-05,4.5,Credit Card,Yes,Returned
+Bengaluru,Male,61,Groceries,59.33,25,386.48,2023-01-21,2.2,Wallet,Yes,Not Returned
+Pune,Male,18,Electronics,462.55,9,775.84,2023-08-27,4.8,Wallet,No,Returned
+Pune,Female,65,Electronics,322.2,28,1421.7,2023-01-27,2.3,Cash,No,Not Returned
+Delhi,Male,50,Clothing,496.48,9,1002.75,2023-03-23,4.6,Wallet,Yes,Returned
+Pune,Female,36,Groceries,240.47,43,1592.0,2023-05-07,4.2,Cash,No,Not Returned
+Chennai,Female,57,Electronics,377.84,15,800.4,2023-09-13,2.4,Wallet,Yes,Returned
+Chennai,Female,53,Clothing,390.78,14,1147.04,2023-02-15,3.0,UPI,No,Not Returned
+Pune,Female,40,Toys,283.14,50,3151.98,2023-03-11,4.0,Credit Card,No,Not Returned
+Pune,Male,48,Clothing,168.24,43,1548.94,2023-07-02,4.4,UPI,Yes,Returned
+Kolkata,Female,44,Clothing,214.48,42,1661.59,2023-03-19,1.4,Net Banking,Yes,Not Returned
+Bengaluru,Female,63,Groceries,141.43,18,491.38,2023-04-04,4.2,Credit Card,No,Not Returned
+Kolkata,Female,42,Groceries,295.72,35,2632.05,2023-09-13,2.3,UPI,No,Returned
+Hyderabad,Male,43,Clothing,310.42,28,2602.72,2023-02-04,2.2,Cash,No,Returned
+Kolkata,Female,49,Electronics,289.81,41,1837.58,2023-11-15,2.5,Wallet,No,Returned
+Chennai,Male,57,Toys,229.58,20,536.51,2023-09-18,2.1,Credit Card,No,Not Returned
+Mumbai,Female,33,Books,71.93,39,404.54,2023-03-31,1.5,Net Banking,No,Not Returned
+Hyderabad,Male,38,Toys,94.38,33,579.78,2023-06-22,4.3,Credit Card,Yes,Not Returned
+Delhi,Female,57,Electronics,237.0,17,864.4,2023-04-24,3.6,Wallet,No,Not Returned
+Bengaluru,Male,46,Groceries,398.63,34,3526.98,2023-07-01,2.3,Cash,No,Returned
+Mumbai,Female,53,Groceries,244.91,16,1020.88,2023-01-03,3.5,Wallet,No,Returned
+Mumbai,Female,65,Toys,325.51,15,1386.49,2023-05-13,1.2,Wallet,No,Not Returned
+Bengaluru,Male,46,Electronics,463.46,11,1271.0,2023-10-13,3.2,Net Banking,Yes,Returned
+Mumbai,Female,52,Toys,454.36,24,3173.86,2023-06-03,1.2,Net Banking,No,Returned
+Pune,Male,18,Books,111.88,34,450.13,2023-08-25,2.9,UPI,No,Not Returned
+Chennai,Male,61,Toys,270.36,42,2876.18,2023-04-07,2.9,Wallet,No,Returned
+Chennai,Male,47,Books,253.06,6,234.68,2023-12-22,2.5,UPI,No,Returned
+Lucknow,Female,31,Electronics,216.67,20,815.72,2023-07-11,3.4,Cash,No,Not Returned
+Hyderabad,Female,20,Toys,324.33,41,3826.37,2023-04-03,3.2,Cash,No,Not Returned
+Jaipur,Male,27,Clothing,422.07,34,1622.26,2023-09-03,1.3,UPI,Yes,Returned
+Jaipur,Male,54,Books,32.78,13,64.51,2023-12-24,2.9,Cash,Yes,Returned
+Pune,Female,52,Clothing,181.79,36,1767.05,2023-06-24,2.1,UPI,No,Not Returned
+Jaipur,Male,31,Groceries,339.5,10,849.17,2023-12-20,3.8,UPI,No,Not Returned
+Pune,Female,46,Books,334.88,48,4367.61,2023-05-08,4.6,Cash,No,Not Returned
+Hyderabad,Male,50,Clothing,94.58,1,28.26,2023-12-14,4.5,Wallet,No,Not Returned
+Ahmedabad,Female,33,Electronics,268.58,20,1587.47,2023-10-24,4.1,Cash,Yes,Not Returned
+Ahmedabad,Male,58,Clothing,110.07,35,454.04,2023-01-28,3.9,Cash,No,Returned
+Pune,Male,27,Electronics,48.46,23,292.85,2023-07-12,1.3,UPI,No,Returned
+Bengaluru,Male,52,Toys,340.0,13,533.85,2023-10-30,2.0,UPI,No,Returned
+Pune,Female,61,Electronics,63.46,22,334.93,2023-09-16,1.2,Credit Card,Yes,Returned
+Hyderabad,Male,38,Clothing,55.25,45,617.64,2023-10-07,1.1,Net Banking,Yes,Returned
+Chennai,Male,21,Electronics,276.93,20,1377.22,2023-06-16,3.9,Wallet,No,Returned
+Mumbai,Male,44,Books,238.07,31,2038.59,2023-09-24,1.2,Net Banking,No,Not Returned
+Kolkata,Female,30,Clothing,343.1,23,1243.95,2023-01-04,4.0,Credit Card,No,Returned
+Pune,Female,45,Groceries,54.62,21,174.54,2023-01-05,4.3,Wallet,No,Returned
+Delhi,Female,63,Toys,95.05,37,658.81,2023-03-18,3.3,Credit Card,No,Not Returned
+Ahmedabad,Male,52,Books,139.72,5,161.75,2023-04-08,1.6,Cash,Yes,Returned
+Ahmedabad,Female,64,Toys,225.83,42,1426.72,2023-01-03,4.8,UPI,No,Not Returned
+Pune,Female,55,Groceries,412.1,24,1366.98,2023-10-20,2.5,Net Banking,Yes,Returned
+Chennai,Male,53,Books,337.2,25,1447.71,2023-03-21,4.5,Cash,No,Returned
+Bengaluru,Female,47,Electronics,268.61,13,1027.44,2023-09-22,3.1,UPI,No,Returned
+Ahmedabad,Male,21,Books,359.85,21,1727.25,2023-04-06,2.5,Wallet,No,Returned
+Mumbai,Female,38,Electronics,232.54,50,2506.64,2023-06-22,4.1,Credit Card,Yes,Returned
+Ahmedabad,Male,44,Toys,249.44,20,1347.88,2023-02-05,3.0,Credit Card,Yes,Returned
+Pune,Male,62,Toys,253.64,18,571.06,2023-08-06,4.5,Credit Card,Yes,Not Returned
+Delhi,Male,33,Books,173.64,39,1888.2,2023-08-11,2.5,Credit Card,No,Returned
+Jaipur,Female,53,Electronics,330.31,33,2810.91,2023-05-11,3.7,Cash,No,Not Returned
+Bengaluru,Male,50,Electronics,83.12,49,805.04,2023-11-01,2.2,UPI,No,Not Returned
+Ahmedabad,Male,65,Toys,441.11,18,909.36,2023-03-05,2.1,Net Banking,Yes,Not Returned
+Lucknow,Male,27,Groceries,332.15,15,925.91,2023-04-13,4.1,Credit Card,Yes,Returned
+Lucknow,Female,56,Groceries,7.26,5,5.17,2023-06-02,2.9,UPI,No,Not Returned
+Hyderabad,Female,42,Toys,175.7,40,1308.75,2023-04-18,2.8,Net Banking,No,Returned
+Hyderabad,Male,48,Books,312.31,39,1427.07,2023-04-29,4.8,Credit Card,No,Not Returned
+Mumbai,Female,32,Electronics,277.46,41,1574.44,2023-07-12,4.0,UPI,Yes,Not Returned
+Pune,Female,25,Books,42.49,41,362.3,2023-10-15,3.1,Credit Card,No,Returned
+Hyderabad,Male,65,Clothing,151.85,33,1114.55,2023-05-02,2.5,Cash,Yes,Not Returned
+Chennai,Female,41,Toys,324.21,28,2318.13,2023-05-07,3.3,Cash,Yes,Returned
+Lucknow,Male,49,Books,493.79,18,2148.97,2023-03-22,3.0,Cash,No,Not Returned
+Lucknow,Male,28,Toys,336.77,4,157.09,2023-10-30,1.6,Net Banking,No,Not Returned
+Lucknow,Female,48,Groceries,317.23,14,662.67,2023-03-03,4.9,UPI,Yes,Not Returned
+Delhi,Female,19,Groceries,230.61,8,338.1,2023-01-28,3.1,UPI,No,Returned
+Hyderabad,Female,43,Electronics,112.39,11,194.8,2023-10-10,4.9,Net Banking,No,Not Returned
+Hyderabad,Female,38,Books,152.26,41,1414.63,2023-11-27,2.9,Cash,No,Not Returned
+Kolkata,Male,57,Groceries,226.61,42,2060.83,2023-03-10,3.6,UPI,No,Returned
+Lucknow,Male,30,Toys,307.13,12,639.2,2023-10-21,3.9,Wallet,No,Not Returned
+Kolkata,Male,42,Toys,17.65,6,19.1,2023-06-22,3.1,Net Banking,No,Returned
+Delhi,Female,19,Clothing,165.36,24,835.4,2023-10-06,3.7,UPI,No,Not Returned
+Mumbai,Female,45,Toys,242.63,12,663.57,2023-04-07,4.9,UPI,Yes,Not Returned
+Hyderabad,Male,19,Toys,488.18,47,5088.65,2023-04-30,3.0,Credit Card,Yes,Not Returned
+Lucknow,Male,18,Groceries,341.24,47,4462.82,2023-12-06,3.1,Credit Card,Yes,Returned
+Pune,Male,60,Electronics,345.62,49,3771.77,2023-02-26,2.7,UPI,No,Returned
+Mumbai,Female,48,Clothing,55.37,13,119.55,2023-12-07,1.1,Wallet,Yes,Not Returned
+Jaipur,Female,23,Toys,453.51,12,554.98,2023-12-05,3.9,Cash,No,Returned
+Delhi,Female,51,Groceries,10.85,4,10.0,2023-04-06,3.4,Cash,Yes,Returned
+Bengaluru,Female,40,Books,440.47,13,1312.72,2023-05-12,3.4,Credit Card,Yes,Returned
+Bengaluru,Female,30,Electronics,74.82,33,571.64,2023-04-14,2.0,UPI,Yes,Not Returned
+Delhi,Male,26,Clothing,491.07,28,3393.51,2023-01-08,4.6,Net Banking,No,Not Returned
+Ahmedabad,Male,18,Groceries,318.28,33,1264.43,2023-01-16,4.4,Net Banking,Yes,Not Returned
+Pune,Female,48,Groceries,155.95,14,649.39,2023-04-12,2.2,Credit Card,Yes,Not Returned
+Ahmedabad,Female,32,Toys,24.5,5,28.88,2023-09-17,4.0,UPI,Yes,Returned
+Pune,Male,31,Toys,110.22,46,1515.89,2023-01-13,2.7,Cash,Yes,Returned
+Hyderabad,Female,24,Electronics,200.57,47,2187.54,2023-09-03,3.2,Cash,No,Not Returned
+Hyderabad,Female,28,Books,444.43,16,729.33,2023-05-17,3.6,Credit Card,No,Returned
+Bengaluru,Female,33,Clothing,462.76,26,3342.54,2023-11-08,1.5,Net Banking,Yes,Not Returned
+Mumbai,Male,29,Groceries,154.7,1,15.97,2023-09-08,2.3,UPI,Yes,Returned
+Lucknow,Male,56,Books,491.99,37,4654.02,2023-10-22,2.7,Net Banking,No,Not Returned
+Pune,Female,65,Books,305.15,44,3878.03,2023-12-04,1.4,Net Banking,Yes,Returned
+Mumbai,Male,28,Groceries,76.81,36,437.91,2023-03-30,3.9,UPI,Yes,Not Returned
+Hyderabad,Male,26,Electronics,386.45,15,1466.79,2023-02-01,3.6,Cash,Yes,Not Returned
+Pune,Male,30,Electronics,377.27,39,2056.24,2023-01-01,3.3,Wallet,No,Returned
+Mumbai,Male,19,Toys,181.0,4,75.27,2023-12-22,1.7,Cash,No,Returned
+Delhi,Female,18,Toys,354.63,15,1400.1,2023-03-01,2.1,Wallet,No,Not Returned
+Chennai,Male,49,Clothing,8.46,15,37.44,2023-11-12,2.7,Net Banking,No,Returned
+Mumbai,Male,65,Groceries,494.22,32,2789.63,2023-04-28,4.7,Credit Card,No,Returned
+Ahmedabad,Male,56,Toys,452.46,32,4271.27,2023-05-13,3.2,UPI,Yes,Returned
+Chennai,Male,18,Clothing,486.16,24,2976.75,2023-11-12,4.8,UPI,No,Returned
+Delhi,Female,19,Electronics,121.12,34,873.79,2023-12-24,3.2,Credit Card,No,Returned
+Hyderabad,Female,24,Groceries,464.05,17,2189.47,2023-04-06,3.1,Cash,Yes,Not Returned
+Pune,Male,50,Electronics,95.61,35,855.27,2023-03-18,1.3,UPI,Yes,Not Returned
+Delhi,Female,35,Groceries,445.28,45,3445.1,2023-02-17,4.4,Cash,No,Not Returned
+Chennai,Female,20,Clothing,435.57,9,1122.2,2023-09-23,2.9,Credit Card,No,Returned
+Jaipur,Female,28,Clothing,335.4,24,1799.39,2023-01-05,1.5,UPI,No,Returned
+Pune,Male,32,Books,315.77,14,1047.49,2023-07-16,4.4,Credit Card,No,Not Returned
+Pune,Male,45,Books,185.08,8,256.13,2023-09-09,3.6,Credit Card,Yes,Not Returned
+Kolkata,Male,48,Clothing,233.38,45,2204.31,2023-08-22,4.7,Credit Card,No,Returned
+Kolkata,Female,35,Toys,53.82,15,131.65,2023-07-25,1.2,Wallet,No,Not Returned
+Ahmedabad,Male,45,Toys,157.13,39,1520.26,2023-12-17,1.6,UPI,Yes,Not Returned
+Mumbai,Male,64,Toys,379.63,7,279.49,2023-06-01,3.0,Credit Card,Yes,Returned
+Kolkata,Female,54,Groceries,404.18,33,3833.34,2023-02-01,4.1,Wallet,Yes,Not Returned
+Jaipur,Female,52,Groceries,158.86,44,2011.33,2023-06-18,2.0,UPI,Yes,Not Returned
+Bengaluru,Male,56,Toys,495.68,4,366.6,2023-11-14,1.3,Wallet,Yes,Returned
+Ahmedabad,Male,65,Groceries,159.87,10,379.71,2023-10-13,2.6,Net Banking,Yes,Returned
+Lucknow,Female,48,Books,217.84,30,1191.95,2023-07-09,3.3,Wallet,No,Returned
+Ahmedabad,Female,59,Groceries,178.05,38,1655.99,2023-02-26,4.6,UPI,No,Returned
+Chennai,Male,51,Toys,13.95,28,54.61,2023-09-02,3.5,Net Banking,No,Not Returned
+Bengaluru,Female,46,Clothing,86.22,25,537.45,2023-02-26,1.9,UPI,No,Returned
+Pune,Female,21,Toys,347.54,9,341.52,2023-11-19,4.3,Wallet,Yes,Returned
+Ahmedabad,Female,58,Groceries,494.02,21,2510.57,2023-07-29,1.7,Cash,Yes,Returned
+Bengaluru,Female,39,Groceries,460.77,7,790.56,2023-05-03,3.7,UPI,No,Returned
+Chennai,Male,23,Books,262.7,22,1560.62,2023-05-11,4.8,Cash,Yes,Not Returned
+Hyderabad,Female,31,Groceries,467.11,23,1205.26,2023-09-27,4.7,Net Banking,Yes,Returned
+Kolkata,Male,21,Clothing,129.34,50,743.54,2023-10-31,2.2,Wallet,Yes,Returned
+Chennai,Female,27,Groceries,127.22,9,215.83,2023-08-03,1.0,Net Banking,Yes,Not Returned
+Lucknow,Female,43,Books,75.69,26,589.57,2023-02-24,3.0,UPI,Yes,Returned
+Chennai,Male,29,Clothing,144.87,30,1261.84,2023-08-23,3.3,Credit Card,Yes,Returned
+Ahmedabad,Male,20,Books,85.49,21,488.22,2023-07-21,1.1,UPI,Yes,Returned
+Ahmedabad,Male,48,Clothing,421.04,37,3652.22,2023-05-28,4.6,Credit Card,No,Returned
+Lucknow,Female,30,Electronics,178.92,8,169.62,2023-11-08,4.3,Wallet,No,Returned
+Ahmedabad,Female,64,Clothing,175.79,42,2173.69,2023-12-22,4.4,Cash,No,Returned
+Pune,Female,35,Toys,319.59,22,1613.22,2023-05-26,4.0,Net Banking,No,Returned
+Pune,Male,51,Books,117.76,49,1306.06,2023-09-07,4.3,Wallet,Yes,Returned
+Jaipur,Female,22,Electronics,408.58,13,1503.33,2023-07-30,1.9,Cash,Yes,Returned
+Hyderabad,Male,25,Electronics,348.91,44,4394.8,2023-01-27,2.7,Cash,No,Not Returned
+Ahmedabad,Male,54,Groceries,420.05,18,2039.18,2023-08-31,3.4,UPI,Yes,Returned
+Mumbai,Male,32,Toys,296.0,8,428.43,2023-09-20,2.3,UPI,Yes,Not Returned
+Pune,Female,21,Toys,132.4,1,29.06,2023-01-16,3.8,Cash,No,Not Returned
+Pune,Male,36,Electronics,194.69,48,1221.43,2023-01-12,1.2,Cash,Yes,Not Returned
+Hyderabad,Female,49,Books,23.96,36,173.13,2023-12-05,2.3,Net Banking,No,Not Returned
+Chennai,Female,22,Clothing,492.36,34,4789.77,2023-03-08,2.3,Credit Card,Yes,Not Returned
+Kolkata,Male,43,Clothing,232.61,16,770.67,2023-01-31,5.0,Net Banking,Yes,Not Returned
+Ahmedabad,Male,36,Clothing,269.48,6,457.05,2023-01-06,2.6,UPI,Yes,Not Returned
+Lucknow,Female,19,Toys,392.14,8,473.85,2023-12-10,2.1,Net Banking,No,Returned
+Pune,Male,48,Clothing,497.18,15,1575.61,2023-02-24,1.2,Credit Card,Yes,Returned
+Lucknow,Male,25,Books,303.45,34,2273.35,2023-03-01,3.7,Wallet,No,Returned
+Lucknow,Female,47,Groceries,100.5,34,913.77,2023-04-23,3.7,Cash,No,Returned
+Pune,Male,18,Groceries,216.54,15,906.89,2023-09-24,3.9,Credit Card,Yes,Returned
+Bengaluru,Male,41,Clothing,231.88,21,1148.35,2023-03-11,2.9,UPI,No,Returned
+Kolkata,Male,59,Electronics,474.94,41,5212.03,2023-08-16,1.6,Net Banking,No,Not Returned
+Ahmedabad,Female,43,Toys,471.58,50,6545.16,2023-10-07,4.7,Wallet,No,Returned
+Hyderabad,Male,50,Books,409.51,33,1921.41,2023-09-12,1.5,UPI,No,Not Returned
+Hyderabad,Male,57,Books,216.53,37,1667.75,2023-07-12,2.4,Cash,Yes,Not Returned
+Ahmedabad,Male,45,Electronics,285.81,48,2728.04,2023-07-03,1.0,Credit Card,Yes,Not Returned
+Mumbai,Female,31,Groceries,272.74,6,279.35,2023-04-15,1.3,UPI,Yes,Not Returned
+Jaipur,Male,41,Clothing,154.73,35,889.03,2023-10-12,2.2,Credit Card,No,Not Returned
+Pune,Male,35,Electronics,498.96,29,4186.09,2023-06-04,1.9,Net Banking,No,Returned
+Delhi,Male,29,Books,241.51,37,1807.72,2023-03-02,4.9,Net Banking,No,Returned
+Kolkata,Male,34,Toys,381.43,38,2000.64,2023-12-18,2.7,Cash,Yes,Not Returned
+Lucknow,Male,34,Electronics,39.13,16,177.96,2023-06-10,3.9,Wallet,Yes,Not Returned
+Hyderabad,Male,35,Books,445.43,24,2130.17,2023-06-09,4.3,Cash,Yes,Not Returned
+Lucknow,Female,58,Electronics,83.05,10,175.56,2023-10-26,2.3,Wallet,Yes,Returned
+Delhi,Male,45,Clothing,271.6,36,2527.16,2023-03-11,1.4,UPI,Yes,Not Returned
+Hyderabad,Female,56,Electronics,42.81,12,126.65,2023-11-24,2.4,Net Banking,Yes,Not Returned
+Chennai,Male,34,Groceries,75.91,18,343.11,2023-01-10,1.7,Cash,No,Not Returned
+Kolkata,Female,31,Groceries,423.94,39,3268.08,2023-03-28,3.6,Net Banking,Yes,Not Returned
+Kolkata,Male,26,Toys,82.93,24,514.47,2023-10-28,3.4,Cash,Yes,Not Returned
+Hyderabad,Female,56,Books,206.59,8,318.95,2023-03-24,4.8,Net Banking,Yes,Returned
+Pune,Female,57,Groceries,411.63,33,2988.29,2023-04-15,2.9,Net Banking,Yes,Returned
+Delhi,Female,59,Clothing,238.51,31,2183.98,2023-08-28,2.1,Wallet,Yes,Returned
+Jaipur,Female,35,Groceries,249.77,38,2566.04,2023-07-02,1.6,UPI,No,Not Returned
+Mumbai,Male,21,Clothing,174.33,21,1046.24,2023-08-22,3.0,Cash,No,Returned
+Delhi,Male,19,Clothing,82.48,2,48.05,2023-08-20,4.0,Credit Card,No,Not Returned
+Mumbai,Female,58,Clothing,104.49,44,692.17,2023-01-01,4.2,UPI,No,Not Returned
+Ahmedabad,Female,60,Electronics,410.94,27,3183.91,2023-11-16,4.6,Credit Card,Yes,Not Returned
+Delhi,Female,40,Groceries,460.83,5,240.16,2023-12-30,4.5,UPI,No,Not Returned
+Kolkata,Female,52,Electronics,284.12,50,3316.94,2023-03-30,4.9,Credit Card,Yes,Not Returned
+Delhi,Female,28,Books,430.62,6,568.25,2023-02-10,2.8,Wallet,No,Not Returned
+Mumbai,Female,47,Electronics,10.66,26,37.88,2023-06-15,4.3,UPI,Yes,Not Returned
+Ahmedabad,Female,57,Electronics,235.11,19,1164.22,2023-11-27,3.4,Wallet,Yes,Returned
+Lucknow,Male,44,Electronics,351.83,42,2306.74,2023-01-10,2.9,UPI,No,Not Returned
+Mumbai,Female,49,Groceries,193.18,21,509.53,2023-04-16,3.3,Wallet,Yes,Returned
+Delhi,Male,64,Books,298.34,11,419.56,2023-02-13,3.1,Wallet,No,Returned
+Delhi,Female,27,Books,343.82,18,1044.46,2023-07-22,3.4,Net Banking,Yes,Returned
+Ahmedabad,Male,33,Books,19.65,35,160.82,2023-11-07,2.9,Cash,Yes,Returned
+Kolkata,Male,26,Toys,319.88,16,1088.29,2023-11-07,3.9,UPI,Yes,Not Returned
+Kolkata,Female,38,Groceries,144.12,35,528.43,2023-03-10,1.2,Cash,Yes,Not Returned
+Lucknow,Female,50,Toys,34.43,11,64.67,2023-11-01,1.8,Credit Card,Yes,Returned
+Mumbai,Female,53,Clothing,400.02,1,65.7,2023-09-19,2.1,Credit Card,Yes,Returned
+Chennai,Female,50,Books,412.42,29,3419.06,2023-03-18,4.4,Credit Card,Yes,Not Returned
+Pune,Male,20,Clothing,277.23,8,274.52,2023-07-31,1.7,Cash,Yes,Returned
+Kolkata,Female,22,Clothing,28.22,37,262.26,2023-10-28,3.5,Credit Card,No,Returned
+Pune,Female,59,Groceries,251.61,32,831.8,2023-01-11,1.9,Cash,No,Returned
+Delhi,Female,40,Books,72.66,17,161.37,2023-02-26,2.6,UPI,No,Not Returned
+Kolkata,Female,25,Groceries,366.14,17,1024.22,2023-10-22,1.2,Cash,No,Not Returned
+Jaipur,Male,56,Clothing,153.86,42,1440.84,2023-09-25,2.5,Net Banking,No,Returned
+Delhi,Female,21,Electronics,221.96,40,2260.34,2023-10-11,3.4,UPI,Yes,Not Returned
+Delhi,Male,27,Electronics,457.17,8,638.97,2023-08-10,4.6,Net Banking,No,Returned
+Delhi,Female,30,Books,311.61,11,771.81,2023-05-24,2.2,Cash,Yes,Not Returned
+Pune,Female,37,Toys,266.32,33,1893.78,2023-06-12,4.2,Wallet,Yes,Not Returned
+Ahmedabad,Female,61,Electronics,431.91,9,636.81,2023-09-14,1.1,Cash,Yes,Returned
+Delhi,Male,18,Clothing,494.77,50,4794.44,2023-04-20,4.2,UPI,Yes,Returned
+Chennai,Female,29,Clothing,92.55,9,210.19,2023-02-25,4.0,Credit Card,Yes,Not Returned
+Delhi,Female,55,Clothing,360.68,21,1090.11,2023-05-30,1.8,Net Banking,Yes,Not Returned
+Pune,Female,18,Groceries,17.61,46,134.53,2023-11-29,2.1,UPI,Yes,Returned
+Hyderabad,Male,33,Groceries,101.59,25,629.54,2023-07-02,3.8,Credit Card,Yes,Not Returned
+Hyderabad,Male,22,Books,419.57,49,5006.68,2023-09-08,4.4,Net Banking,Yes,Returned
+Jaipur,Female,40,Groceries,70.64,15,306.64,2023-02-19,3.8,UPI,Yes,Returned
+Mumbai,Male,51,Toys,406.46,49,5021.31,2023-03-22,2.6,Cash,Yes,Not Returned
+Chennai,Female,40,Books,41.01,49,467.08,2023-11-15,3.1,Credit Card,Yes,Returned
+Jaipur,Male,28,Groceries,438.59,1,97.24,2023-02-04,4.2,Wallet,Yes,Not Returned
+Ahmedabad,Male,23,Groceries,422.47,34,1973.38,2023-09-07,2.9,UPI,No,Not Returned
+Pune,Female,51,Books,477.51,36,3223.62,2023-07-23,2.7,Credit Card,Yes,Not Returned
+Ahmedabad,Female,64,Books,158.75,23,977.19,2023-07-04,2.8,Credit Card,No,Not Returned
+Lucknow,Male,36,Groceries,41.97,10,119.64,2023-03-01,3.0,UPI,Yes,Returned
+Lucknow,Female,40,Groceries,140.01,18,411.73,2023-04-07,2.3,Net Banking,No,Returned
+Ahmedabad,Male,62,Books,426.06,37,1840.64,2023-02-25,1.2,Net Banking,No,Returned
+Ahmedabad,Female,21,Books,181.13,17,505.59,2023-04-19,1.3,Credit Card,Yes,Returned
+Jaipur,Male,45,Books,54.1,49,576.21,2023-08-19,1.7,Wallet,Yes,Not Returned
+Hyderabad,Male,46,Electronics,451.84,3,297.96,2023-03-04,1.3,Wallet,Yes,Returned
+Bengaluru,Male,46,Toys,53.93,36,292.96,2023-03-19,2.4,UPI,Yes,Not Returned
+Chennai,Male,28,Clothing,64.45,22,285.64,2023-02-14,4.8,Credit Card,Yes,Not Returned
+Kolkata,Female,19,Clothing,149.22,2,67.03,2023-03-02,3.9,Wallet,Yes,Not Returned
+Jaipur,Female,37,Clothing,474.86,10,1081.24,2023-08-14,4.8,Cash,Yes,Not Returned
+Hyderabad,Male,48,Groceries,437.87,21,1167.49,2023-09-03,2.7,Credit Card,No,Not Returned
+Jaipur,Female,25,Groceries,80.77,5,79.76,2023-12-07,4.1,Wallet,No,Returned
+Ahmedabad,Female,28,Groceries,29.75,42,138.21,2023-11-14,4.4,Net Banking,Yes,Returned
+Bengaluru,Male,24,Electronics,473.08,32,1615.49,2023-01-11,2.2,Net Banking,No,Returned
+Ahmedabad,Female,50,Electronics,189.95,8,372.46,2023-08-26,3.9,Credit Card,Yes,Not Returned
+Hyderabad,Female,21,Electronics,211.04,15,928.11,2023-08-05,1.5,Cash,Yes,Returned
+Ahmedabad,Female,25,Groceries,200.81,32,1200.71,2023-05-12,1.3,Net Banking,No,Returned
+Pune,Female,53,Books,437.58,44,5081.32,2023-09-26,3.2,Cash,No,Not Returned
+Bengaluru,Female,39,Electronics,451.2,47,4735.88,2023-09-17,3.0,Cash,No,Returned
+Jaipur,Female,53,Books,161.51,12,355.4,2023-04-01,3.0,Net Banking,No,Not Returned
+Hyderabad,Male,39,Books,90.12,18,192.01,2023-08-27,4.3,Credit Card,Yes,Returned
+Delhi,Male,42,Groceries,476.48,36,3129.97,2023-07-09,1.1,Net Banking,Yes,Not Returned
+Kolkata,Female,44,Groceries,248.34,32,895.43,2023-05-28,2.5,Net Banking,Yes,Not Returned
+Hyderabad,Female,29,Books,95.48,24,511.6,2023-09-29,4.5,Net Banking,Yes,Returned
+Kolkata,Male,40,Electronics,399.21,26,1415.74,2023-04-01,2.3,Net Banking,Yes,Returned
+Delhi,Male,58,Books,10.16,36,56.56,2023-09-14,2.9,Credit Card,No,Returned
+Kolkata,Female,47,Electronics,401.89,5,509.55,2023-07-12,4.8,Net Banking,No,Not Returned
+Hyderabad,Male,63,Clothing,488.41,2,179.73,2023-02-27,4.5,Wallet,Yes,Not Returned
+Jaipur,Female,27,Groceries,348.82,31,2763.85,2023-10-04,1.0,Credit Card,Yes,Not Returned
+Bengaluru,Male,38,Groceries,316.84,44,2435.94,2023-08-10,1.9,Wallet,Yes,Not Returned
+Pune,Male,46,Books,293.69,5,262.29,2023-11-09,3.1,UPI,No,Not Returned
+Kolkata,Female,24,Clothing,396.92,28,2784.42,2023-01-27,4.2,Cash,No,Not Returned
+Delhi,Male,36,Clothing,138.03,9,203.84,2023-10-12,2.0,Cash,Yes,Returned
+Hyderabad,Female,48,Electronics,226.66,28,1328.93,2023-12-31,2.4,Wallet,No,Not Returned
+Mumbai,Female,65,Toys,234.99,10,455.35,2023-08-20,1.6,UPI,Yes,Not Returned
+Ahmedabad,Male,37,Electronics,495.55,44,3422.89,2023-07-12,4.7,UPI,No,Returned
+Ahmedabad,Male,45,Electronics,256.93,34,1462.5,2023-06-25,1.6,Cash,Yes,Returned
+Pune,Female,28,Electronics,347.88,6,255.02,2023-09-22,1.2,Credit Card,No,Not Returned
+Jaipur,Female,26,Electronics,367.3,6,507.14,2023-02-27,4.8,Cash,No,Not Returned
+Hyderabad,Male,33,Groceries,58.11,48,542.8,2023-10-19,3.7,Cash,Yes,Not Returned
+Pune,Male,24,Toys,236.25,25,1324.96,2023-01-27,3.8,Cash,Yes,Returned
+Ahmedabad,Male,61,Electronics,301.72,16,848.83,2023-11-05,4.1,Wallet,No,Not Returned
+Delhi,Female,58,Clothing,206.95,28,792.52,2023-07-15,3.9,Wallet,Yes,Not Returned
+Chennai,Female,29,Electronics,296.58,38,1501.95,2023-08-31,1.5,Cash,No,Returned
+Chennai,Female,44,Electronics,256.12,43,1646.35,2023-01-14,2.8,Cash,No,Not Returned
+Mumbai,Male,65,Toys,292.72,46,2031.21,2023-11-21,4.4,Net Banking,No,Not Returned
+Pune,Female,34,Groceries,346.98,21,1886.31,2023-10-23,1.9,Cash,No,Not Returned
+Chennai,Female,52,Electronics,7.48,12,26.05,2023-12-07,3.4,Net Banking,No,Not Returned
+Kolkata,Male,22,Toys,449.89,24,2565.24,2023-11-12,2.4,Net Banking,Yes,Not Returned
+Chennai,Male,31,Clothing,153.77,43,822.74,2023-03-20,3.2,Credit Card,No,Returned
+Ahmedabad,Male,33,Toys,173.61,26,1234.49,2023-08-02,3.1,Net Banking,No,Returned
+Lucknow,Male,42,Groceries,56.34,40,343.85,2023-10-10,4.1,Credit Card,Yes,Returned
+Ahmedabad,Female,43,Electronics,191.27,14,601.21,2023-05-24,3.1,UPI,No,Returned
+Bengaluru,Female,25,Clothing,401.16,31,2001.97,2023-03-02,4.4,Credit Card,Yes,Not Returned
+Pune,Male,58,Toys,428.55,39,3388.46,2023-11-17,3.1,Wallet,No,Not Returned
+Chennai,Male,20,Toys,6.14,41,55.66,2023-05-08,3.4,Net Banking,Yes,Returned
+Ahmedabad,Female,54,Clothing,172.64,1,31.12,2023-09-07,2.8,Credit Card,Yes,Returned
+Ahmedabad,Female,22,Electronics,123.66,36,1135.14,2023-06-23,4.9,Wallet,No,Returned
+Mumbai,Male,29,Electronics,73.0,17,124.85,2023-09-07,1.9,Credit Card,Yes,Not Returned
+Lucknow,Female,62,Books,108.47,5,69.71,2023-11-21,2.6,Cash,Yes,Returned
+Lucknow,Female,18,Books,125.82,36,544.41,2023-05-26,1.3,Wallet,No,Not Returned
+Hyderabad,Female,21,Toys,350.46,15,803.63,2023-07-10,4.9,UPI,Yes,Returned
+Mumbai,Female,47,Clothing,120.34,24,407.84,2023-08-20,4.9,UPI,Yes,Returned
+Hyderabad,Male,44,Toys,63.76,9,125.99,2023-10-24,2.7,Wallet,Yes,Not Returned
+Kolkata,Female,53,Electronics,147.16,9,304.55,2023-05-07,1.9,Credit Card,Yes,Not Returned
+Pune,Male,27,Clothing,337.32,11,594.38,2023-09-11,2.2,Net Banking,No,Returned
+Ahmedabad,Male,53,Books,180.4,5,131.68,2023-01-28,1.8,Cash,No,Not Returned
+Jaipur,Male,53,Toys,255.58,19,582.84,2023-09-20,4.9,Net Banking,Yes,Returned
+Pune,Male,54,Books,370.42,39,3138.75,2023-06-18,4.2,Credit Card,Yes,Returned
+Mumbai,Male,38,Clothing,65.06,20,270.75,2023-02-19,1.5,Cash,No,Returned
+Hyderabad,Male,33,Electronics,109.77,28,429.63,2023-12-04,5.0,Wallet,Yes,Returned
+Kolkata,Male,65,Books,305.58,32,2440.33,2023-02-27,1.2,Cash,Yes,Not Returned
+Pune,Male,53,Books,419.66,7,807.35,2023-05-08,3.6,UPI,No,Not Returned
+Mumbai,Female,19,Clothing,492.73,45,4293.36,2023-12-03,2.6,UPI,Yes,Returned
+Pune,Male,35,Clothing,422.16,33,3031.61,2023-02-25,2.2,Wallet,Yes,Returned
+Lucknow,Male,28,Electronics,191.0,17,929.88,2023-02-02,3.1,UPI,Yes,Not Returned
+Pune,Female,60,Electronics,173.27,2,76.6,2023-07-08,4.8,Cash,No,Returned
+Delhi,Male,34,Clothing,43.08,15,172.32,2023-11-04,1.9,UPI,No,Returned
+Lucknow,Male,65,Groceries,324.86,50,2132.01,2023-07-07,3.8,Net Banking,Yes,Not Returned
+Ahmedabad,Male,45,Clothing,366.52,29,1284.32,2023-11-01,4.1,Credit Card,Yes,Not Returned
+Kolkata,Male,46,Toys,429.31,13,564.2,2023-09-01,3.8,Cash,Yes,Returned
+Pune,Female,51,Electronics,11.14,45,66.69,2023-07-01,4.3,Cash,Yes,Not Returned
+Chennai,Female,60,Toys,214.12,5,212.4,2023-09-05,4.0,Cash,Yes,Returned
+Lucknow,Male,26,Clothing,319.89,21,1660.38,2023-08-11,2.2,UPI,No,Returned
+Mumbai,Male,22,Books,310.37,14,1240.91,2023-04-04,2.0,UPI,Yes,Returned
+Lucknow,Male,26,Groceries,115.83,20,324.95,2023-05-20,4.9,Cash,No,Not Returned
+Hyderabad,Male,55,Electronics,192.54,37,1158.14,2023-01-28,4.7,Cash,No,Returned
+Pune,Female,37,Books,206.98,24,562.93,2023-08-26,1.4,Wallet,Yes,Returned
+Mumbai,Male,26,Groceries,254.18,18,986.53,2023-12-03,1.5,Wallet,No,Not Returned
+Kolkata,Female,20,Toys,158.5,42,1750.15,2023-11-13,3.7,Credit Card,Yes,Returned
+Ahmedabad,Female,35,Electronics,495.75,1,56.0,2023-06-18,2.7,Wallet,No,Not Returned
+Lucknow,Male,32,Toys,416.35,39,2846.87,2023-06-04,1.5,Credit Card,Yes,Not Returned
+Lucknow,Female,61,Groceries,305.42,11,803.0,2023-08-10,3.3,Wallet,No,Returned
+Chennai,Female,57,Toys,483.95,13,1702.73,2023-08-31,1.5,Credit Card,Yes,Not Returned
+Bengaluru,Female,20,Books,345.67,30,2268.12,2023-10-08,1.3,Net Banking,No,Returned
+Mumbai,Male,22,Books,156.85,30,809.13,2023-04-02,2.0,Cash,No,Returned
+Ahmedabad,Female,50,Electronics,353.47,10,920.84,2023-12-16,1.9,Wallet,No,Returned
+Ahmedabad,Female,63,Electronics,241.93,47,3125.22,2023-05-01,4.2,Credit Card,No,Returned
+Lucknow,Male,41,Books,228.92,11,341.32,2023-03-16,1.7,Credit Card,No,Returned
+Delhi,Female,40,Books,76.24,40,889.85,2023-12-30,3.1,Credit Card,Yes,Returned
+Lucknow,Male,26,Books,78.8,20,331.7,2023-12-01,3.5,UPI,No,Returned
+Jaipur,Female,39,Toys,349.2,31,1393.57,2023-09-19,2.4,Credit Card,Yes,Returned
+Hyderabad,Female,53,Books,242.63,29,815.51,2023-07-21,2.9,Credit Card,Yes,Returned
+Delhi,Male,65,Toys,24.64,34,119.36,2023-03-22,2.9,UPI,Yes,Returned
+Pune,Female,58,Toys,400.17,16,973.62,2023-10-03,3.1,Cash,No,Not Returned
+Kolkata,Male,41,Electronics,75.41,33,448.56,2023-05-14,4.7,Wallet,Yes,Returned
+Lucknow,Female,25,Books,46.8,27,318.26,2023-05-06,3.0,UPI,Yes,Not Returned
+Chennai,Male,58,Clothing,443.75,13,742.41,2023-07-03,1.9,Cash,No,Not Returned
+Hyderabad,Female,29,Electronics,385.81,46,4438.85,2023-06-16,4.3,UPI,Yes,Not Returned
+Chennai,Male,18,Groceries,90.87,10,244.96,2023-10-18,3.0,Credit Card,No,Not Returned
+Mumbai,Female,23,Electronics,197.63,2,113.58,2023-02-13,3.8,UPI,Yes,Returned
+Bengaluru,Male,60,Clothing,128.63,46,952.38,2023-04-12,3.8,Cash,No,Returned
+Pune,Female,43,Electronics,396.41,25,1933.63,2023-06-09,4.5,Credit Card,Yes,Not Returned
+Hyderabad,Male,34,Books,293.97,25,2086.73,2023-03-27,4.8,Credit Card,No,Returned
+Chennai,Female,31,Groceries,216.69,48,2497.28,2023-01-26,3.4,Wallet,No,Returned
+Ahmedabad,Male,55,Electronics,7.02,7,8.39,2023-01-16,4.0,UPI,Yes,Returned
+Pune,Female,30,Books,289.63,43,2572.38,2023-12-05,1.3,Cash,Yes,Returned
+Mumbai,Male,53,Clothing,328.78,16,812.41,2023-11-30,2.1,Wallet,No,Returned
+Delhi,Female,28,Groceries,480.92,4,472.17,2023-08-02,2.1,Wallet,No,Returned
+Kolkata,Female,60,Toys,398.07,38,2153.06,2023-12-13,1.7,Net Banking,No,Not Returned
+Lucknow,Male,51,Groceries,219.57,50,2257.49,2023-11-29,3.3,Net Banking,Yes,Returned
+Bengaluru,Female,42,Groceries,362.34,13,1254.56,2023-01-18,2.3,Net Banking,No,Not Returned
+Bengaluru,Female,57,Books,156.94,48,1600.6,2023-10-04,1.4,Wallet,Yes,Returned
+Kolkata,Female,23,Clothing,190.86,47,2631.2,2023-02-03,2.9,Wallet,Yes,Not Returned
+Bengaluru,Female,29,Electronics,123.38,40,1175.27,2023-10-13,2.6,UPI,Yes,Returned
+Lucknow,Female,32,Electronics,208.16,4,102.78,2023-04-03,2.1,UPI,No,Returned
+Hyderabad,Female,24,Toys,211.77,43,2136.32,2023-09-07,1.5,Net Banking,No,Not Returned
+Lucknow,Male,51,Toys,152.34,17,500.19,2023-01-16,2.1,Credit Card,Yes,Not Returned
+Pune,Female,49,Groceries,212.2,24,1221.03,2023-12-18,2.1,UPI,Yes,Returned
+Bengaluru,Female,56,Books,63.34,16,234.72,2023-05-09,4.3,UPI,No,Returned
+Kolkata,Male,57,Groceries,410.2,10,463.75,2023-07-28,4.5,Cash,Yes,Returned
+Bengaluru,Female,18,Groceries,420.48,19,1813.15,2023-11-29,3.0,Wallet,Yes,Returned
+Chennai,Male,44,Clothing,440.73,49,2788.05,2023-11-28,4.0,Wallet,No,Not Returned
+Chennai,Male,26,Groceries,60.6,13,111.98,2023-03-19,2.9,UPI,Yes,Returned
+Delhi,Male,44,Books,252.75,3,134.74,2023-04-20,4.6,Wallet,No,Not Returned
+Delhi,Male,57,Groceries,255.98,26,1600.58,2023-02-27,3.1,UPI,No,Returned
+Mumbai,Female,43,Groceries,19.33,43,132.36,2023-07-12,1.8,Cash,Yes,Not Returned
+Ahmedabad,Male,65,Electronics,276.03,35,1618.93,2023-11-15,1.9,Net Banking,No,Not Returned
+Hyderabad,Male,40,Groceries,336.2,17,1299.86,2023-10-19,4.9,Cash,Yes,Returned
+Bengaluru,Female,61,Clothing,492.7,13,1731.13,2023-06-17,4.5,Net Banking,No,Not Returned
+Hyderabad,Male,64,Groceries,311.49,11,564.63,2023-05-17,3.0,UPI,Yes,Not Returned
+Jaipur,Male,43,Toys,129.3,20,544.04,2023-11-25,4.9,Net Banking,No,Returned
+Pune,Female,63,Books,59.52,31,467.42,2023-01-28,4.0,UPI,Yes,Not Returned
+Mumbai,Female,32,Toys,10.94,45,113.69,2023-06-14,2.3,Cash,No,Not Returned
+Delhi,Female,35,Electronics,419.28,12,1430.57,2023-12-24,4.9,Net Banking,Yes,Not Returned
+Kolkata,Male,56,Books,66.85,41,631.68,2023-03-29,1.6,Cash,Yes,Not Returned
+Mumbai,Male,58,Electronics,487.52,43,2605.21,2023-01-13,2.4,Cash,No,Returned
+Jaipur,Male,44,Books,476.95,33,3739.65,2023-01-18,3.6,Wallet,Yes,Returned
+Pune,Male,39,Books,55.02,32,451.44,2023-07-24,1.8,Cash,No,Not Returned
+Pune,Female,53,Clothing,148.73,27,849.09,2023-12-20,3.9,Cash,No,Not Returned
+Lucknow,Female,26,Clothing,28.74,3,10.71,2023-02-13,2.5,UPI,Yes,Not Returned
+Jaipur,Female,61,Groceries,221.0,30,1827.1,2023-08-10,4.0,Wallet,Yes,Returned
+Bengaluru,Female,43,Clothing,222.57,22,829.64,2023-07-04,3.7,Net Banking,No,Returned
+Delhi,Male,42,Toys,225.07,6,159.78,2023-03-26,4.2,Credit Card,No,Returned
+Bengaluru,Male,53,Toys,87.61,37,745.8,2023-10-02,2.9,Wallet,Yes,Not Returned
+Kolkata,Male,58,Toys,319.2,31,1690.81,2023-02-20,1.9,Cash,No,Returned
+Mumbai,Female,22,Clothing,427.67,37,4469.07,2023-09-01,3.7,Wallet,No,Not Returned
+Mumbai,Female,55,Books,454.91,16,1623.37,2023-05-21,1.3,Credit Card,Yes,Not Returned
+Chennai,Female,62,Clothing,325.16,35,1876.02,2023-07-12,3.3,Net Banking,Yes,Returned
+Pune,Female,47,Books,7.67,22,29.38,2023-01-09,1.9,Cash,Yes,Returned
+Pune,Male,38,Books,247.2,3,115.34,2023-09-03,3.0,Net Banking,Yes,Returned
+Hyderabad,Female,64,Clothing,280.17,46,1900.29,2023-09-08,2.6,Wallet,No,Not Returned
+Chennai,Male,57,Toys,177.04,49,2231.02,2023-10-24,3.6,UPI,No,Not Returned
+Ahmedabad,Male,49,Toys,401.76,47,2251.66,2023-09-27,2.7,Cash,No,Not Returned
+Delhi,Female,24,Toys,12.03,36,44.33,2023-05-26,4.8,Cash,Yes,Not Returned
+Delhi,Male,21,Toys,336.28,31,1112.13,2023-08-17,3.5,UPI,Yes,Not Returned
+Kolkata,Male,19,Electronics,329.16,45,2838.26,2023-04-07,2.1,Cash,Yes,Not Returned
+Chennai,Male,65,Electronics,494.52,35,2151.18,2023-04-13,4.8,Wallet,No,Returned
+Jaipur,Male,25,Groceries,433.61,35,4495.68,2023-12-28,2.4,Credit Card,No,Not Returned
+Delhi,Male,64,Toys,13.82,11,44.69,2023-08-05,3.5,Net Banking,No,Not Returned
+Jaipur,Female,22,Groceries,287.05,43,3695.37,2023-03-08,4.0,Net Banking,Yes,Not Returned
+Jaipur,Female,50,Clothing,444.31,2,238.03,2023-10-15,1.6,Credit Card,No,Not Returned
+Kolkata,Male,27,Electronics,160.25,35,882.93,2023-09-26,1.2,UPI,Yes,Not Returned
+Delhi,Female,47,Electronics,198.81,5,219.16,2024-01-01,2.2,Net Banking,Yes,Returned
+Lucknow,Male,60,Books,478.81,7,701.5,2023-12-18,1.1,UPI,Yes,Returned
+Jaipur,Male,59,Books,38.05,28,159.12,2023-05-29,5.0,Net Banking,No,Not Returned
+Jaipur,Female,37,Toys,207.49,1,38.41,2023-10-18,4.3,Cash,No,Not Returned
+Hyderabad,Female,19,Clothing,58.75,39,447.91,2023-03-03,2.9,Cash,Yes,Returned
+Pune,Female,64,Electronics,242.92,44,1464.92,2023-07-05,1.5,Cash,No,Returned
+Delhi,Male,55,Groceries,287.26,1,63.86,2023-01-06,4.7,UPI,Yes,Not Returned
+Hyderabad,Male,18,Electronics,302.94,2,114.9,2023-04-30,3.3,Cash,Yes,Not Returned
+Mumbai,Male,56,Electronics,214.61,1,40.89,2023-09-01,4.3,UPI,No,Returned
+Lucknow,Female,21,Clothing,133.61,4,125.72,2023-10-07,4.8,Wallet,Yes,Returned
+Bengaluru,Female,34,Toys,336.75,38,2007.17,2023-04-17,3.5,Net Banking,No,Returned
+Bengaluru,Female,49,Toys,298.79,47,2838.29,2023-01-05,2.2,Credit Card,Yes,Not Returned
+Kolkata,Male,50,Clothing,464.53,13,893.66,2023-02-16,1.9,UPI,Yes,Returned
+Jaipur,Female,58,Groceries,388.59,9,627.61,2023-03-30,2.0,Net Banking,Yes,Returned
+Lucknow,Female,30,Toys,53.59,32,450.55,2023-07-18,1.6,Net Banking,Yes,Returned
+Kolkata,Female,31,Electronics,463.2,42,4728.28,2023-05-12,2.2,Cash,No,Returned
+Chennai,Male,39,Toys,103.66,19,389.44,2023-08-09,3.2,Wallet,Yes,Returned
+Ahmedabad,Female,23,Electronics,481.02,48,4303.74,2023-11-01,2.6,Cash,Yes,Not Returned
+Kolkata,Male,21,Clothing,102.68,26,653.49,2023-02-12,2.2,UPI,No,Not Returned
+Delhi,Female,27,Electronics,356.69,2,116.67,2023-05-06,2.3,UPI,Yes,Not Returned
+Delhi,Male,63,Books,446.19,38,3829.88,2023-12-25,3.3,Credit Card,Yes,Returned
+Mumbai,Male,46,Toys,273.21,24,1822.74,2023-09-17,4.8,Cash,Yes,Returned
+Jaipur,Male,25,Toys,219.64,38,2242.41,2023-01-30,4.7,Credit Card,Yes,Not Returned
+Ahmedabad,Female,27,Toys,140.84,6,206.41,2023-03-02,2.3,UPI,Yes,Not Returned
+Mumbai,Female,18,Clothing,166.87,3,138.55,2023-11-16,1.1,Net Banking,No,Returned
+Delhi,Female,19,Toys,218.26,2,63.85,2023-12-03,2.9,UPI,Yes,Not Returned
+Hyderabad,Female,37,Toys,396.38,25,1291.52,2023-12-06,4.9,UPI,No,Not Returned
+Ahmedabad,Female,28,Electronics,283.94,37,2600.02,2023-10-06,4.0,Cash,Yes,Returned
+Delhi,Female,50,Books,284.81,4,214.51,2023-10-30,3.3,Cash,No,Not Returned
+Delhi,Male,47,Electronics,130.05,45,614.54,2023-04-09,2.1,Wallet,No,Not Returned
+Pune,Female,30,Electronics,366.58,50,2006.2,2023-08-27,2.5,UPI,Yes,Not Returned
+Lucknow,Male,61,Clothing,498.44,5,420.62,2023-01-19,4.8,Wallet,No,Not Returned
+Lucknow,Male,18,Clothing,296.99,13,616.4,2023-03-04,1.2,Credit Card,Yes,Not Returned
+Kolkata,Male,54,Clothing,59.78,31,300.18,2023-03-08,1.6,Net Banking,No,Returned
+Delhi,Female,65,Toys,389.27,49,4061.32,2023-02-16,4.8,Net Banking,No,Not Returned
+Hyderabad,Female,56,Clothing,492.12,4,350.45,2023-05-04,3.5,Net Banking,Yes,Not Returned
+Jaipur,Male,49,Clothing,308.5,7,309.96,2023-02-17,3.7,Wallet,Yes,Not Returned
+Mumbai,Female,31,Books,334.32,6,546.29,2023-03-02,4.9,UPI,Yes,Returned
+Lucknow,Male,34,Books,158.78,30,518.09,2023-12-05,2.3,Cash,Yes,Returned
+Bengaluru,Male,27,Books,296.73,23,1575.35,2023-05-31,1.8,Cash,No,Returned
+Lucknow,Male,29,Electronics,494.71,33,4805.69,2023-11-25,1.4,UPI,No,Returned
+Jaipur,Female,64,Electronics,373.38,45,4164.86,2023-07-27,3.5,Net Banking,Yes,Returned
+Hyderabad,Female,55,Clothing,189.24,48,2618.84,2023-08-26,1.9,Cash,Yes,Not Returned
+Hyderabad,Female,58,Clothing,183.91,31,1583.8,2023-10-31,2.1,Cash,No,Returned
+Lucknow,Female,44,Electronics,224.97,24,884.56,2023-04-11,4.2,Wallet,Yes,Returned
+Jaipur,Female,24,Books,49.36,1,4.99,2023-04-07,2.2,Wallet,No,Returned
+Bengaluru,Male,42,Clothing,343.46,15,1302.3,2023-07-18,1.4,UPI,No,Not Returned
+Lucknow,Female,46,Toys,471.46,9,595.33,2023-09-29,3.9,Cash,Yes,Not Returned
+Lucknow,Male,59,Books,233.1,23,704.0,2023-01-05,4.1,Credit Card,No,Returned
+Delhi,Male,32,Clothing,286.7,4,295.32,2023-03-01,3.8,Cash,Yes,Not Returned
+Delhi,Female,61,Groceries,455.41,10,582.07,2023-03-27,4.5,Cash,Yes,Returned
+Mumbai,Male,62,Groceries,273.4,22,1715.29,2023-07-18,2.6,Cash,Yes,Not Returned
+Pune,Male,63,Books,434.24,2,182.12,2023-02-20,2.2,Cash,Yes,Not Returned
+Mumbai,Female,52,Groceries,82.29,6,97.12,2023-06-07,2.0,UPI,No,Not Returned
+Lucknow,Female,29,Clothing,151.83,40,927.96,2023-11-07,3.6,Wallet,No,Not Returned
+Hyderabad,Male,42,Electronics,28.44,26,158.07,2023-02-12,3.8,Cash,No,Returned
+Delhi,Female,26,Groceries,177.3,49,2275.82,2023-05-06,4.0,Cash,No,Returned
+Pune,Female,51,Books,115.17,18,333.5,2023-07-18,2.9,Cash,Yes,Not Returned
+Hyderabad,Male,58,Books,379.78,14,1574.03,2023-06-13,1.0,Wallet,No,Returned
+Delhi,Male,47,Books,453.35,42,4614.18,2023-07-16,1.6,Wallet,No,Returned
+Mumbai,Female,45,Toys,8.41,45,81.41,2023-10-20,3.9,Credit Card,Yes,Returned
+Lucknow,Female,35,Toys,190.5,26,699.96,2023-11-20,3.1,Cash,No,Returned
+Bengaluru,Female,58,Toys,50.44,45,509.24,2024-01-01,2.7,Wallet,Yes,Returned
+Jaipur,Male,19,Clothing,325.28,35,2275.64,2023-06-09,1.1,Wallet,Yes,Not Returned
+Kolkata,Male,20,Clothing,36.84,2,15.21,2023-08-22,3.2,Wallet,Yes,Not Returned
+Jaipur,Female,27,Clothing,14.33,41,103.06,2023-03-06,4.2,Net Banking,No,Not Returned
+Jaipur,Female,21,Clothing,179.99,27,1354.79,2023-09-01,4.3,UPI,Yes,Not Returned
+Lucknow,Male,61,Groceries,221.73,29,955.55,2023-12-02,3.0,Cash,No,Not Returned
+Lucknow,Female,35,Groceries,465.96,48,6067.06,2023-09-25,2.4,Credit Card,No,Returned
+Lucknow,Male,46,Clothing,207.25,1,36.37,2023-09-02,2.7,Credit Card,No,Not Returned
+Bengaluru,Male,37,Electronics,409.86,47,4617.62,2023-11-16,2.8,Net Banking,Yes,Not Returned
+Bengaluru,Female,50,Groceries,85.09,37,645.37,2023-08-14,3.8,Cash,Yes,Not Returned
+Chennai,Male,58,Books,238.99,31,1387.05,2023-07-26,3.3,Net Banking,Yes,Returned
+Kolkata,Female,45,Books,169.47,22,1048.44,2023-05-15,2.7,Cash,Yes,Returned
+Chennai,Male,21,Groceries,462.73,23,1551.33,2023-02-22,3.2,Credit Card,Yes,Not Returned
+Hyderabad,Male,38,Groceries,362.24,25,2293.11,2023-07-08,2.1,Credit Card,Yes,Returned
+Pune,Female,24,Groceries,56.34,19,144.18,2023-02-12,3.1,Net Banking,No,Not Returned
+Pune,Female,60,Toys,55.09,50,524.5,2023-07-06,4.5,Credit Card,No,Returned
+Lucknow,Female,62,Books,260.91,7,532.22,2023-05-07,3.6,Wallet,Yes,Not Returned
+Ahmedabad,Female,60,Groceries,185.2,3,165.36,2023-06-02,2.2,UPI,No,Returned
+Mumbai,Female,20,Clothing,8.91,32,82.31,2023-12-02,3.8,Wallet,No,Returned
+Pune,Male,35,Groceries,202.73,21,1039.03,2023-06-13,3.2,Net Banking,Yes,Not Returned
+Mumbai,Female,53,Toys,304.32,48,2185.49,2023-12-30,2.1,Credit Card,No,Returned
+Ahmedabad,Female,19,Clothing,432.92,13,1486.43,2023-02-14,2.1,UPI,Yes,Not Returned
+Mumbai,Female,62,Electronics,390.14,34,1769.89,2023-12-31,3.9,Net Banking,No,Not Returned
+Chennai,Female,49,Electronics,388.06,22,2352.97,2023-06-02,4.6,UPI,No,Returned
+Mumbai,Male,18,Electronics,36.02,42,197.29,2023-01-03,3.8,Credit Card,Yes,Returned
+Delhi,Male,42,Groceries,281.24,1,70.31,2023-11-07,1.2,UPI,No,Returned
+Hyderabad,Male,44,Toys,115.58,18,353.33,2023-06-08,2.4,Cash,Yes,Not Returned
+Lucknow,Female,27,Books,424.45,10,531.22,2023-03-27,1.3,Credit Card,No,Returned
+Mumbai,Female,44,Books,476.13,16,1285.39,2023-04-21,1.6,Net Banking,Yes,Returned
+Ahmedabad,Male,25,Books,229.78,31,1148.3,2023-02-13,3.6,Net Banking,Yes,Returned
+Chennai,Female,64,Groceries,259.72,44,2640.2,2023-12-24,3.5,Cash,No,Returned
+Pune,Male,44,Electronics,249.43,21,917.27,2023-03-29,3.7,Net Banking,Yes,Not Returned
+Delhi,Female,39,Electronics,459.5,41,2997.05,2023-08-22,1.1,Cash,Yes,Returned
+Ahmedabad,Male,59,Clothing,231.63,38,2545.85,2023-02-22,3.5,Wallet,No,Returned
+Hyderabad,Male,51,Groceries,109.03,22,397.86,2023-01-19,1.4,UPI,Yes,Not Returned
+Delhi,Female,54,Books,473.22,23,2597.66,2023-06-16,4.0,Cash,Yes,Not Returned
+Mumbai,Female,27,Electronics,417.02,25,1787.97,2023-10-27,3.3,Cash,No,Not Returned
+Mumbai,Male,64,Groceries,293.07,36,2334.61,2023-12-02,3.7,Credit Card,Yes,Not Returned
+Chennai,Female,30,Electronics,254.81,39,2378.34,2023-09-03,5.0,Credit Card,No,Returned
+Jaipur,Male,30,Groceries,477.47,38,3031.91,2023-06-04,4.3,UPI,Yes,Returned
+Pune,Male,56,Groceries,370.16,19,1536.28,2023-07-08,2.2,Wallet,No,Returned
+Ahmedabad,Female,38,Books,183.89,35,1347.18,2023-03-29,1.6,Cash,Yes,Returned
+Ahmedabad,Male,50,Groceries,163.72,32,1559.51,2023-06-06,4.6,Wallet,Yes,Not Returned
+Ahmedabad,Male,53,Clothing,223.21,38,2532.71,2023-08-20,2.5,UPI,No,Returned
+Mumbai,Female,25,Clothing,58.94,28,357.26,2023-03-22,3.3,Wallet,Yes,Returned
+Jaipur,Female,65,Clothing,136.18,33,885.7,2023-04-25,2.5,Credit Card,No,Returned
+Jaipur,Female,65,Groceries,147.31,42,1604.17,2023-10-06,1.3,Cash,No,Not Returned
+Kolkata,Female,32,Groceries,442.66,35,3179.01,2023-07-07,1.2,Net Banking,No,Not Returned
+Delhi,Male,39,Clothing,150.2,5,221.04,2023-08-14,4.0,UPI,Yes,Returned
+Hyderabad,Male,21,Clothing,173.77,9,424.62,2023-09-01,2.3,UPI,No,Returned
+Jaipur,Female,32,Clothing,143.25,20,743.65,2023-10-09,3.0,Wallet,Yes,Not Returned
+Mumbai,Male,27,Groceries,255.08,47,2742.97,2023-07-08,3.6,Wallet,Yes,Returned
+Chennai,Female,58,Electronics,235.46,48,1508.82,2023-08-29,1.1,Wallet,Yes,Returned
+Jaipur,Female,26,Electronics,244.82,9,522.34,2023-05-06,2.6,Net Banking,No,Not Returned
+Jaipur,Female,34,Groceries,249.0,19,1050.09,2023-02-14,2.8,Credit Card,Yes,Returned
+Mumbai,Female,29,Books,490.01,36,1872.76,2023-03-24,4.5,Cash,Yes,Not Returned
+Jaipur,Female,42,Groceries,109.66,50,688.08,2023-09-08,4.0,Cash,Yes,Not Returned
+Bengaluru,Male,39,Electronics,85.61,4,90.09,2023-01-03,2.4,Wallet,Yes,Not Returned
+Kolkata,Male,30,Toys,406.32,24,999.28,2023-04-02,4.5,Net Banking,Yes,Not Returned
+Bengaluru,Female,22,Toys,188.9,24,1222.52,2023-02-14,3.1,Wallet,Yes,Returned
+Jaipur,Female,20,Electronics,75.68,14,196.92,2023-11-30,1.4,Wallet,Yes,Returned
+Bengaluru,Male,55,Groceries,358.57,46,2573.52,2023-12-13,3.6,Cash,Yes,Returned
+Bengaluru,Female,44,Electronics,482.64,29,3675.04,2023-08-03,2.7,Net Banking,No,Not Returned
+Chennai,Male,18,Toys,23.61,32,91.1,2023-11-27,2.5,Wallet,Yes,Returned
+Hyderabad,Male,29,Groceries,312.18,33,1681.88,2023-02-15,3.0,Net Banking,Yes,Not Returned
+Chennai,Male,30,Electronics,439.45,42,2453.79,2023-03-13,2.4,Net Banking,No,Not Returned
+Pune,Female,63,Toys,156.21,46,1186.27,2023-01-13,2.5,Cash,Yes,Not Returned
+Hyderabad,Female,26,Books,142.02,10,322.05,2023-12-07,1.0,Wallet,No,Returned
+Delhi,Female,37,Groceries,459.4,29,3173.83,2023-07-11,4.4,UPI,No,Not Returned
+Kolkata,Male,34,Clothing,173.78,42,952.81,2023-03-19,4.0,Wallet,Yes,Returned
+Bengaluru,Female,18,Clothing,286.96,42,2990.0,2023-05-29,4.1,UPI,No,Not Returned
+Lucknow,Female,62,Groceries,227.57,13,845.11,2023-06-26,1.7,UPI,No,Not Returned
+Delhi,Male,21,Groceries,226.18,28,1865.56,2023-01-20,1.7,Wallet,No,Not Returned
+Kolkata,Male,41,Groceries,42.93,38,433.04,2023-07-01,4.3,Net Banking,Yes,Not Returned
+Bengaluru,Male,34,Groceries,203.11,35,944.87,2023-05-01,3.2,Cash,No,Returned
+Kolkata,Male,19,Groceries,126.31,17,388.29,2023-08-13,1.9,Wallet,Yes,Not Returned
+Jaipur,Male,51,Electronics,90.44,32,735.92,2023-03-07,4.4,Cash,No,Returned
+Mumbai,Male,25,Electronics,185.99,27,738.65,2023-11-20,1.5,UPI,Yes,Not Returned
+Jaipur,Female,39,Toys,352.7,42,4092.03,2023-11-05,3.7,Credit Card,Yes,Returned
+Chennai,Male,24,Books,248.1,25,1342.94,2023-07-23,2.1,Cash,No,Returned
+Kolkata,Male,19,Electronics,153.31,11,478.72,2023-08-15,3.6,UPI,No,Returned
+Mumbai,Female,30,Electronics,465.04,5,320.84,2023-08-16,4.5,UPI,Yes,Returned
+Mumbai,Female,63,Electronics,495.17,15,1249.07,2023-06-26,3.7,Wallet,No,Returned
+Ahmedabad,Female,46,Clothing,432.24,28,2135.32,2023-05-28,1.2,UPI,No,Returned
+Kolkata,Female,30,Books,182.97,30,1220.73,2023-08-31,1.6,UPI,Yes,Not Returned
+Bengaluru,Female,54,Books,490.13,28,1665.37,2023-10-01,3.4,Wallet,Yes,Not Returned
+Kolkata,Male,24,Books,279.07,8,559.84,2023-01-24,4.7,Credit Card,No,Returned
+Hyderabad,Female,35,Toys,179.47,45,1576.87,2023-02-04,4.0,UPI,No,Returned
+Ahmedabad,Male,30,Toys,408.76,20,2312.44,2023-06-16,2.2,Net Banking,Yes,Returned
+Kolkata,Male,45,Electronics,247.65,35,1533.98,2024-01-01,3.5,Cash,Yes,Not Returned
+Jaipur,Female,46,Groceries,60.51,46,659.2,2023-07-24,4.8,Wallet,Yes,Not Returned
+Chennai,Female,40,Electronics,429.05,15,873.75,2023-04-11,1.5,Cash,Yes,Not Returned
+Bengaluru,Female,34,Clothing,450.55,22,1993.11,2023-02-22,2.4,Wallet,No,Not Returned
+Chennai,Female,61,Groceries,79.56,31,712.18,2023-08-23,3.8,UPI,No,Returned
+Pune,Male,56,Books,88.07,8,144.27,2023-06-13,4.7,Cash,Yes,Returned
+Pune,Male,43,Toys,11.47,34,94.17,2023-07-24,4.9,Cash,Yes,Returned
+Jaipur,Male,31,Electronics,20.31,37,102.61,2023-04-22,1.9,Cash,Yes,Returned
+Kolkata,Female,19,Clothing,358.03,26,2192.47,2023-03-22,1.3,Credit Card,No,Not Returned
+Delhi,Female,46,Toys,119.93,8,278.92,2023-06-18,2.0,Net Banking,Yes,Not Returned
+Jaipur,Female,59,Groceries,26.23,26,84.08,2023-09-27,4.5,Credit Card,No,Returned
+Bengaluru,Male,31,Toys,293.75,38,1866.28,2023-02-25,2.9,Credit Card,Yes,Returned
+Hyderabad,Male,58,Books,192.57,17,380.74,2023-10-11,3.4,Wallet,No,Not Returned
+Jaipur,Male,60,Groceries,229.44,42,1997.03,2023-04-17,4.7,Credit Card,Yes,Returned
+Lucknow,Male,65,Clothing,453.72,6,450.07,2023-09-09,2.0,Credit Card,Yes,Returned
+Pune,Male,64,Toys,352.86,10,708.1,2023-10-29,2.2,Credit Card,Yes,Returned
+Mumbai,Male,21,Books,262.73,8,381.03,2023-02-02,1.8,Net Banking,Yes,Not Returned
+Ahmedabad,Male,24,Books,274.11,39,3186.1,2023-07-28,2.9,Wallet,No,Not Returned
+Bengaluru,Female,59,Clothing,426.86,1,56.82,2023-07-28,4.6,Net Banking,Yes,Returned
+Bengaluru,Female,64,Clothing,283.68,47,3804.65,2023-07-28,2.7,Credit Card,Yes,Returned
+Hyderabad,Female,36,Electronics,419.39,35,3797.88,2023-10-28,4.7,UPI,No,Not Returned
+Pune,Female,31,Books,27.87,35,131.67,2023-12-22,4.5,Cash,No,Returned
+Mumbai,Male,55,Clothing,135.31,44,628.32,2023-08-17,2.1,Wallet,Yes,Not Returned
+Delhi,Male,59,Clothing,179.51,30,696.96,2023-08-31,3.7,UPI,Yes,Returned
+Chennai,Female,32,Books,372.11,9,648.17,2023-03-30,1.2,Wallet,No,Returned
+Lucknow,Male,60,Electronics,183.58,5,176.93,2023-05-26,3.6,Wallet,No,Returned
+Bengaluru,Male,44,Groceries,473.22,31,2184.7,2023-05-21,2.0,Wallet,No,Returned
+Kolkata,Male,33,Books,296.35,50,4314.16,2023-11-27,4.9,UPI,Yes,Returned
+Delhi,Female,63,Toys,187.34,7,226.3,2023-08-26,2.1,Net Banking,Yes,Returned
+Chennai,Male,61,Toys,199.53,27,843.08,2023-11-15,3.1,Cash,No,Not Returned
+Mumbai,Male,33,Books,14.46,25,72.68,2023-12-23,1.2,UPI,No,Returned
+Ahmedabad,Female,40,Electronics,314.06,26,871.41,2023-01-19,2.8,Cash,No,Not Returned
+Lucknow,Male,62,Groceries,322.29,15,1341.2,2023-03-09,4.3,Credit Card,Yes,Not Returned
+Kolkata,Female,42,Clothing,326.01,17,796.47,2023-05-07,3.4,Net Banking,Yes,Returned
+Hyderabad,Female,32,Electronics,220.95,39,1247.1,2023-08-16,3.9,Net Banking,Yes,Not Returned
+Delhi,Female,52,Electronics,468.66,42,2285.17,2023-08-27,4.2,UPI,No,Not Returned
+Lucknow,Male,35,Electronics,32.12,22,124.63,2023-12-13,1.7,Credit Card,No,Not Returned
+Bengaluru,Male,58,Toys,439.51,49,4361.86,2023-06-01,1.7,Net Banking,Yes,Not Returned
+Delhi,Male,46,Books,440.95,26,3007.21,2023-10-13,4.9,Net Banking,Yes,Not Returned
+Hyderabad,Female,35,Groceries,289.31,15,1166.22,2023-02-12,4.9,Cash,Yes,Not Returned
+Mumbai,Male,27,Books,58.33,34,418.79,2023-03-29,3.2,Net Banking,Yes,Returned
+Kolkata,Male,33,Books,149.25,50,917.03,2023-01-01,1.7,UPI,Yes,Returned
+Lucknow,Male,22,Toys,17.3,37,183.13,2023-03-18,4.7,Wallet,Yes,Not Returned
+Mumbai,Female,29,Toys,126.14,10,268.62,2023-04-24,3.7,UPI,Yes,Returned
+Hyderabad,Male,52,Books,85.69,10,131.56,2023-01-21,2.6,Credit Card,Yes,Not Returned
+Delhi,Female,37,Groceries,205.53,2,74.07,2023-10-31,3.7,Wallet,Yes,Not Returned
+Ahmedabad,Female,56,Electronics,319.88,11,768.41,2023-03-31,2.9,Wallet,Yes,Not Returned
+Kolkata,Male,61,Groceries,97.29,41,1126.33,2023-08-10,3.9,Wallet,Yes,Not Returned
+Jaipur,Male,61,Groceries,248.08,48,3324.8,2023-04-20,3.3,Credit Card,No,Not Returned
+Kolkata,Male,46,Books,30.91,48,203.69,2023-10-05,2.1,Wallet,Yes,Not Returned
+Pune,Female,30,Clothing,325.88,27,2269.4,2023-06-19,4.8,Credit Card,Yes,Returned
+Chennai,Male,52,Clothing,485.88,39,2082.5,2023-11-19,4.8,Cash,No,Not Returned
+Hyderabad,Female,60,Groceries,372.32,18,828.46,2023-03-11,1.9,Net Banking,Yes,Not Returned
+Bengaluru,Female,29,Clothing,20.9,43,227.74,2023-12-11,3.2,Wallet,No,Returned
+Hyderabad,Female,57,Books,169.91,50,875.11,2023-07-02,4.1,Cash,Yes,Returned
+Kolkata,Male,44,Toys,104.87,42,1120.52,2023-11-09,4.8,Net Banking,No,Returned
+Hyderabad,Male,58,Groceries,386.28,45,3072.43,2023-12-04,4.2,Wallet,No,Not Returned
+Mumbai,Male,28,Clothing,9.34,11,28.31,2023-08-11,4.1,Wallet,No,Not Returned
+Delhi,Male,48,Electronics,422.79,32,1430.56,2023-03-23,2.9,UPI,Yes,Returned
+Mumbai,Male,18,Electronics,112.86,1,30.28,2023-02-26,1.2,UPI,Yes,Returned
+Jaipur,Male,25,Electronics,102.66,35,965.49,2023-09-29,2.9,UPI,No,Returned
+Chennai,Male,47,Groceries,292.36,11,595.25,2023-05-27,4.9,UPI,No,Returned
+Chennai,Male,56,Books,461.59,24,1923.83,2023-04-24,3.0,UPI,No,Returned
+Kolkata,Female,28,Clothing,460.47,48,6011.33,2023-07-04,3.2,Credit Card,Yes,Returned
+Ahmedabad,Male,62,Books,467.95,31,2406.23,2023-05-11,4.2,Net Banking,Yes,Returned
+Chennai,Male,36,Toys,205.46,20,809.79,2023-11-03,2.0,Cash,Yes,Returned
+Mumbai,Male,18,Electronics,374.22,15,1439.36,2023-02-20,4.8,UPI,No,Returned
+Lucknow,Female,64,Electronics,370.03,30,2551.82,2023-05-11,3.9,UPI,Yes,Not Returned
+Delhi,Male,40,Electronics,254.24,1,44.29,2023-03-31,1.8,Cash,No,Not Returned
+Delhi,Female,25,Groceries,380.49,8,761.07,2023-05-09,4.8,Wallet,Yes,Not Returned
+Delhi,Female,46,Clothing,285.74,37,1076.95,2023-04-25,2.9,Wallet,Yes,Not Returned
+Kolkata,Female,27,Groceries,359.42,25,1887.19,2023-11-28,4.3,Wallet,Yes,Not Returned
+Bengaluru,Male,42,Electronics,405.22,13,1427.79,2023-03-14,2.0,Cash,Yes,Returned
+Ahmedabad,Male,62,Groceries,163.21,15,319.18,2023-07-04,4.5,Cash,Yes,Not Returned
+Kolkata,Female,58,Toys,122.01,9,128.87,2023-04-04,2.8,UPI,No,Returned
+Pune,Female,24,Electronics,281.32,50,3588.03,2023-06-02,4.5,Net Banking,Yes,Not Returned
+Ahmedabad,Female,61,Clothing,262.71,32,2420.74,2023-04-22,1.9,Wallet,No,Returned
+Kolkata,Male,37,Groceries,329.7,45,1963.3,2023-03-27,2.4,Cash,Yes,Returned
+Delhi,Female,32,Groceries,374.63,14,592.41,2023-04-10,1.3,Cash,Yes,Returned
+Chennai,Female,60,Toys,488.62,5,464.22,2023-05-01,4.1,UPI,Yes,Not Returned
+Bengaluru,Male,55,Toys,388.08,16,750.7,2023-07-06,2.8,Net Banking,No,Not Returned
+Bengaluru,Female,50,Toys,369.99,1,97.64,2023-10-19,3.7,Cash,No,Returned
+Delhi,Female,18,Groceries,61.72,2,24.31,2023-12-08,2.3,Credit Card,No,Not Returned
+Jaipur,Female,25,Books,25.56,34,149.68,2023-02-26,1.4,Wallet,Yes,Returned
+Mumbai,Female,61,Electronics,176.63,31,649.98,2023-06-13,2.9,Net Banking,Yes,Returned
+Ahmedabad,Male,31,Electronics,48.74,49,518.66,2023-11-24,1.5,Net Banking,Yes,Returned
+Mumbai,Male,44,Toys,490.21,1,91.58,2023-03-19,3.2,Net Banking,Yes,Not Returned
+Lucknow,Female,63,Books,217.2,48,1170.62,2023-10-20,3.5,Cash,No,Returned
+Kolkata,Male,35,Clothing,239.66,21,1173.39,2023-11-08,1.1,Net Banking,Yes,Not Returned
+Hyderabad,Female,34,Books,387.98,49,2152.19,2023-03-26,1.9,UPI,Yes,Returned
+Mumbai,Female,61,Books,389.13,11,1170.2,2023-01-23,3.1,Credit Card,Yes,Not Returned
+Mumbai,Female,50,Groceries,477.69,33,3738.68,2023-10-08,3.9,Credit Card,Yes,Returned
+Chennai,Female,30,Groceries,208.79,27,1174.62,2023-05-16,2.1,Credit Card,Yes,Returned
+Ahmedabad,Male,42,Clothing,435.98,41,2184.33,2023-10-05,4.9,Cash,Yes,Not Returned
+Mumbai,Male,27,Electronics,8.5,47,111.17,2023-12-06,3.3,Credit Card,Yes,Not Returned
+Chennai,Male,40,Groceries,159.13,10,320.45,2023-10-27,3.8,UPI,Yes,Returned
+Delhi,Male,39,Groceries,248.96,1,69.73,2023-02-13,1.7,Cash,No,Returned
+Hyderabad,Female,18,Clothing,162.93,32,766.72,2023-04-02,3.8,Wallet,Yes,Not Returned
+Delhi,Male,33,Clothing,31.0,39,360.96,2023-06-15,4.3,Cash,Yes,Returned
+Chennai,Male,42,Groceries,322.04,35,3363.44,2023-10-21,1.4,Wallet,Yes,Returned
+Mumbai,Female,44,Books,430.53,26,2657.46,2023-04-12,1.1,UPI,Yes,Returned
+Jaipur,Female,38,Books,210.52,29,1079.94,2023-02-11,1.9,Credit Card,Yes,Returned
+Hyderabad,Female,35,Clothing,411.44,45,2781.39,2023-02-16,2.2,Net Banking,Yes,Returned
+Kolkata,Male,65,Clothing,303.69,23,1096.79,2023-02-20,2.2,UPI,No,Returned
+Delhi,Male,27,Groceries,131.41,21,783.75,2023-07-30,3.6,Wallet,No,Returned
+Hyderabad,Male,58,Toys,373.46,27,1295.74,2023-02-15,4.4,Net Banking,No,Returned
+Ahmedabad,Female,60,Groceries,7.15,24,29.43,2023-01-06,4.5,Cash,Yes,Returned
+Mumbai,Male,35,Books,207.87,18,535.31,2023-08-19,2.1,Wallet,Yes,Returned
+Lucknow,Female,59,Toys,253.66,10,491.43,2023-09-14,3.1,Wallet,Yes,Returned
+Bengaluru,Male,43,Groceries,284.88,6,493.83,2023-11-08,1.2,Net Banking,Yes,Not Returned
+Chennai,Male,19,Books,90.82,2,47.94,2023-01-20,2.7,Cash,No,Returned
+Bengaluru,Female,40,Clothing,113.27,43,1341.32,2023-09-17,1.1,Wallet,Yes,Returned
+Hyderabad,Female,21,Books,409.82,19,1550.12,2023-03-08,1.5,Credit Card,No,Not Returned
+Jaipur,Male,47,Electronics,282.1,38,2265.28,2023-05-31,2.3,Net Banking,Yes,Returned
+Lucknow,Female,28,Books,430.63,45,5302.88,2023-09-01,4.7,UPI,No,Returned
+Delhi,Female,45,Groceries,467.33,44,5929.68,2023-12-22,3.4,Wallet,Yes,Not Returned
+Hyderabad,Male,34,Books,399.01,50,5336.64,2023-11-26,4.6,Net Banking,No,Returned
+Pune,Male,59,Groceries,183.41,4,143.74,2023-01-01,4.5,Wallet,No,Not Returned
+Mumbai,Female,33,Clothing,286.44,32,1315.23,2023-02-28,4.1,Wallet,Yes,Returned
+Hyderabad,Male,51,Toys,347.73,16,1299.42,2023-09-26,3.7,Wallet,Yes,Not Returned
+Pune,Male,43,Toys,480.77,46,3932.57,2023-10-26,1.3,Wallet,Yes,Returned
+Lucknow,Male,50,Electronics,444.7,15,1504.85,2023-02-18,3.1,Cash,Yes,Not Returned
+Delhi,Female,62,Clothing,142.44,34,864.46,2023-08-20,3.7,UPI,No,Not Returned
+Kolkata,Female,41,Electronics,244.85,47,3303.51,2023-12-30,2.6,Net Banking,Yes,Not Returned
+Ahmedabad,Female,62,Groceries,31.4,46,161.09,2023-11-19,1.8,Wallet,No,Not Returned
+Jaipur,Female,22,Groceries,443.57,6,399.19,2023-04-06,1.3,Net Banking,Yes,Not Returned
+Lucknow,Female,42,Toys,296.9,7,612.69,2023-05-13,4.8,Net Banking,No,Returned
+Jaipur,Male,43,Groceries,137.01,6,119.37,2023-05-07,3.9,Credit Card,No,Not Returned
+Mumbai,Male,40,Books,168.4,2,54.51,2023-02-25,2.1,Credit Card,Yes,Not Returned
+Pune,Female,25,Groceries,445.16,38,4307.49,2023-11-16,2.0,Credit Card,No,Not Returned
+Mumbai,Male,55,Groceries,414.85,28,2337.34,2023-10-13,3.6,Credit Card,Yes,Not Returned
+Bengaluru,Male,19,Electronics,116.45,35,682.19,2023-11-11,2.1,Credit Card,Yes,Not Returned
+Kolkata,Male,38,Clothing,56.99,34,488.14,2023-07-28,3.8,Credit Card,Yes,Returned
+Ahmedabad,Male,63,Toys,13.65,31,78.71,2023-03-06,2.1,UPI,No,Not Returned
+Delhi,Female,43,Groceries,345.31,47,3728.2,2023-01-31,4.2,Credit Card,No,Not Returned
+Lucknow,Female,58,Electronics,399.4,49,2428.25,2023-09-22,3.5,Wallet,Yes,Not Returned
+Pune,Male,54,Clothing,378.95,46,5146.92,2023-07-15,2.8,UPI,No,Not Returned
+Pune,Male,19,Clothing,434.55,12,1129.08,2023-12-27,4.6,Net Banking,Yes,Returned
+Chennai,Male,40,Books,109.98,8,171.57,2023-01-31,2.9,Wallet,No,Not Returned
+Ahmedabad,Male,44,Groceries,384.57,8,877.8,2023-07-03,1.7,Wallet,No,Not Returned
+Hyderabad,Female,49,Toys,236.52,7,280.41,2023-06-03,4.0,Net Banking,Yes,Returned
+Chennai,Female,63,Electronics,308.12,6,250.3,2023-01-15,5.0,Wallet,Yes,Not Returned
+Hyderabad,Female,27,Electronics,448.28,17,1525.68,2023-02-04,2.3,Wallet,No,Returned
+Mumbai,Female,42,Books,72.61,30,601.77,2023-11-06,1.6,Net Banking,Yes,Not Returned
+Kolkata,Male,59,Electronics,287.48,25,1376.2,2023-09-20,1.9,Credit Card,Yes,Not Returned
+Lucknow,Female,33,Clothing,267.11,33,1732.98,2023-12-18,3.5,Wallet,Yes,Not Returned
+Bengaluru,Male,39,Clothing,281.48,35,1194.03,2023-02-19,1.8,Wallet,Yes,Not Returned
+Delhi,Male,19,Clothing,109.03,38,1062.06,2023-08-20,4.3,Cash,Yes,Returned
+Hyderabad,Female,40,Books,36.28,14,104.63,2023-09-16,4.0,Credit Card,No,Returned
+Mumbai,Female,47,Books,136.38,40,1140.89,2023-02-09,1.5,Wallet,Yes,Returned
+Pune,Female,61,Electronics,363.43,35,2721.18,2023-12-02,4.9,Wallet,Yes,Returned
+Bengaluru,Male,37,Toys,53.78,16,181.0,2023-06-01,4.9,UPI,Yes,Not Returned
+Chennai,Male,61,Clothing,102.44,22,501.51,2023-08-06,4.4,UPI,Yes,Not Returned
+Mumbai,Female,38,Clothing,13.3,28,102.46,2023-09-09,2.8,UPI,No,Not Returned
+Jaipur,Male,21,Electronics,225.02,28,852.56,2023-01-28,3.4,Cash,Yes,Not Returned
+Chennai,Female,33,Toys,301.9,49,3390.22,2023-11-13,4.3,Wallet,Yes,Not Returned
+Mumbai,Female,56,Clothing,282.52,50,1466.13,2023-03-02,2.8,Cash,Yes,Returned
+Hyderabad,Male,39,Electronics,18.5,14,48.9,2023-07-21,1.2,Credit Card,No,Not Returned
+Mumbai,Male,53,Books,340.85,50,4458.76,2023-01-04,4.9,Wallet,No,Returned
+Delhi,Female,33,Toys,226.71,10,339.64,2023-02-10,1.2,UPI,Yes,Not Returned
+Kolkata,Female,40,Electronics,128.47,7,119.72,2023-09-13,1.9,Wallet,Yes,Not Returned
+Hyderabad,Female,50,Electronics,45.99,49,378.17,2023-03-10,4.1,Credit Card,No,Not Returned
+Ahmedabad,Male,45,Electronics,428.92,21,1858.27,2023-06-08,4.1,Net Banking,Yes,Returned
+Ahmedabad,Male,40,Groceries,182.27,35,1476.24,2023-05-29,1.8,Wallet,Yes,Returned
+Jaipur,Male,50,Books,226.71,11,579.4,2023-04-19,2.5,Credit Card,Yes,Not Returned
+Delhi,Male,65,Books,400.7,10,649.51,2023-12-06,3.9,Cash,No,Returned
+Kolkata,Female,50,Toys,469.95,41,2125.62,2023-10-02,1.2,Credit Card,No,Not Returned
+Bengaluru,Male,20,Books,156.04,16,483.28,2023-03-30,5.0,Credit Card,Yes,Returned
+Ahmedabad,Male,43,Books,119.81,41,886.5,2023-06-21,4.7,Wallet,Yes,Returned
+Pune,Female,22,Electronics,403.44,28,1206.79,2023-03-26,3.5,UPI,Yes,Returned
+Delhi,Male,40,Groceries,491.38,20,2527.91,2023-09-09,4.1,Credit Card,No,Not Returned
+Jaipur,Female,50,Groceries,450.56,15,1705.63,2023-07-29,3.3,Wallet,Yes,Returned
+Bengaluru,Female,20,Groceries,57.14,24,318.38,2023-08-28,3.8,Wallet,Yes,Returned
+Ahmedabad,Female,29,Electronics,155.68,6,152.58,2023-08-29,1.1,Wallet,No,Returned
+Delhi,Male,35,Toys,400.31,22,1974.78,2023-10-31,3.3,Net Banking,Yes,Returned
+Mumbai,Female,36,Toys,373.27,27,2356.24,2023-02-25,3.8,Cash,No,Returned
+Chennai,Male,40,Electronics,44.16,50,561.25,2023-08-01,4.7,UPI,No,Not Returned
+Ahmedabad,Female,34,Books,88.17,21,322.23,2023-09-20,3.4,Credit Card,No,Not Returned
+Mumbai,Female,41,Clothing,143.77,7,101.28,2023-09-07,3.6,UPI,No,Not Returned
+Mumbai,Male,29,Groceries,466.41,44,2853.13,2023-07-29,2.6,Wallet,No,Returned
+Kolkata,Female,53,Clothing,179.71,24,1049.04,2023-10-31,2.3,Credit Card,No,Returned
+Chennai,Female,39,Electronics,28.75,16,108.93,2023-01-16,3.4,Net Banking,Yes,Not Returned
+Ahmedabad,Male,52,Toys,192.45,37,1434.28,2023-09-20,2.3,UPI,No,Returned
+Pune,Male,21,Groceries,321.2,15,1251.04,2023-02-28,1.0,Credit Card,Yes,Returned
+Delhi,Male,21,Electronics,399.29,16,816.07,2023-05-04,2.0,Wallet,No,Not Returned
+Lucknow,Female,45,Toys,267.64,31,1163.04,2023-05-22,3.9,UPI,No,Returned
+Lucknow,Male,29,Clothing,448.29,6,591.6,2023-05-11,1.8,Net Banking,Yes,Not Returned
+Pune,Male,35,Clothing,209.44,45,1513.86,2023-05-11,2.0,Net Banking,No,Not Returned
+Bengaluru,Male,63,Electronics,11.92,29,35.55,2023-11-09,3.5,Cash,Yes,Returned
+Hyderabad,Male,44,Electronics,433.38,7,687.01,2023-10-12,2.8,UPI,No,Returned
+Chennai,Female,45,Books,381.18,26,1444.68,2023-10-23,3.2,Credit Card,Yes,Not Returned
+Mumbai,Male,37,Books,370.33,40,4025.17,2023-09-06,3.3,Cash,No,Returned
+Kolkata,Male,39,Books,59.26,16,114.65,2023-11-05,3.9,Net Banking,No,Returned
+Mumbai,Female,60,Groceries,421.1,11,558.27,2023-04-08,3.4,UPI,Yes,Not Returned
+Mumbai,Female,63,Toys,357.96,19,1724.08,2023-11-18,4.8,UPI,No,Returned
+Hyderabad,Male,20,Clothing,441.5,16,1388.25,2023-11-25,3.7,Wallet,Yes,Returned
+Mumbai,Male,26,Electronics,232.4,40,2018.41,2023-05-26,2.1,Cash,No,Returned
+Jaipur,Male,31,Books,61.46,12,200.6,2023-01-14,2.7,Net Banking,Yes,Not Returned
+Hyderabad,Female,22,Electronics,210.09,2,81.41,2023-07-22,4.5,Net Banking,No,Returned
+Bengaluru,Female,63,Groceries,312.89,9,549.04,2023-02-23,2.9,Credit Card,Yes,Not Returned
+Jaipur,Female,63,Toys,269.51,5,151.03,2023-06-26,3.9,Wallet,No,Returned
+Pune,Female,32,Electronics,499.29,23,2001.62,2023-12-06,2.3,Net Banking,No,Not Returned
+Jaipur,Female,57,Electronics,164.04,48,1261.04,2023-03-04,4.6,Net Banking,No,Returned
+Delhi,Female,31,Books,15.29,41,185.46,2023-06-12,1.6,Cash,Yes,Not Returned
+Lucknow,Female,60,Groceries,395.18,37,4228.14,2023-08-17,2.6,Net Banking,Yes,Returned
+Ahmedabad,Male,50,Electronics,203.13,1,30.94,2023-05-05,3.0,Net Banking,No,Returned
+Chennai,Female,20,Clothing,278.05,20,661.7,2023-05-03,1.3,UPI,Yes,Not Returned
+Kolkata,Female,58,Toys,31.86,35,161.1,2023-12-18,3.6,Wallet,No,Returned
+Jaipur,Male,34,Books,191.62,44,2256.95,2023-11-14,2.2,Credit Card,Yes,Returned
+Delhi,Male,20,Clothing,395.64,9,496.19,2023-11-24,2.0,Cash,No,Returned
+Hyderabad,Female,46,Electronics,120.38,13,395.86,2023-05-14,4.9,Cash,No,Returned
+Ahmedabad,Male,26,Electronics,299.92,42,3052.65,2023-06-10,4.9,Net Banking,Yes,Not Returned
+Delhi,Female,60,Books,490.85,25,1345.2,2023-07-17,2.7,Net Banking,No,Not Returned
+Chennai,Female,23,Clothing,139.86,19,654.19,2023-07-27,3.6,Wallet,Yes,Not Returned
+Jaipur,Female,36,Groceries,230.6,7,382.92,2023-09-08,3.4,UPI,Yes,Not Returned
+Jaipur,Male,27,Toys,322.45,31,2271.44,2023-07-27,1.2,Credit Card,Yes,Returned
+Ahmedabad,Male,63,Electronics,375.83,40,2515.38,2023-04-01,3.0,Credit Card,Yes,Returned
+Jaipur,Female,57,Toys,412.95,15,1726.21,2023-06-12,1.5,Net Banking,Yes,Returned
+Pune,Female,23,Books,328.76,14,934.51,2023-03-29,1.7,Credit Card,Yes,Not Returned
+Kolkata,Male,35,Groceries,462.88,25,3115.41,2023-06-19,1.6,UPI,No,Returned
+Kolkata,Male,42,Toys,342.36,5,423.56,2023-09-16,3.0,UPI,No,Not Returned
+Lucknow,Female,20,Groceries,152.81,33,1379.77,2023-08-27,4.5,Wallet,Yes,Returned
+Ahmedabad,Male,49,Toys,212.57,24,769.51,2023-12-27,3.1,UPI,No,Returned
+Jaipur,Female,21,Electronics,491.34,14,1256.55,2023-02-05,1.6,UPI,Yes,Not Returned
+Hyderabad,Female,46,Toys,303.51,16,878.84,2023-11-27,2.8,Cash,No,Not Returned
+Jaipur,Female,29,Electronics,360.7,9,657.07,2023-11-05,3.1,Credit Card,No,Not Returned
+Delhi,Female,33,Electronics,51.86,37,288.0,2023-07-22,4.5,Net Banking,Yes,Not Returned
+Hyderabad,Male,38,Electronics,180.4,6,117.73,2023-12-30,2.1,Credit Card,Yes,Returned
+Chennai,Female,32,Electronics,21.57,3,8.68,2023-11-09,1.2,Net Banking,No,Not Returned
+Ahmedabad,Female,56,Electronics,235.54,15,597.02,2023-06-14,1.3,Wallet,No,Not Returned
+Lucknow,Male,48,Clothing,256.75,31,2106.32,2023-03-15,2.8,Wallet,Yes,Not Returned
+Bengaluru,Female,23,Groceries,413.67,46,3754.94,2023-04-13,4.3,Credit Card,Yes,Returned
+Pune,Female,40,Groceries,461.56,29,3402.65,2023-02-05,2.0,Cash,Yes,Returned
+Mumbai,Male,26,Toys,312.1,7,506.32,2023-08-22,4.8,UPI,Yes,Returned
+Bengaluru,Male,53,Books,390.64,22,2047.03,2023-08-20,1.7,Wallet,No,Returned
+Hyderabad,Male,23,Groceries,257.78,28,1516.76,2023-07-05,2.2,Cash,Yes,Not Returned
+Pune,Female,19,Toys,16.91,22,66.69,2023-04-17,4.6,Wallet,Yes,Returned
+Jaipur,Female,18,Groceries,39.22,32,297.17,2023-09-13,4.7,UPI,No,Returned
+Pune,Male,27,Groceries,270.68,12,886.96,2023-03-24,2.3,Cash,Yes,Not Returned
+Kolkata,Male,23,Clothing,101.91,36,561.87,2023-12-21,2.1,UPI,No,Returned
+Jaipur,Female,36,Books,489.3,46,5656.45,2023-01-23,2.1,Credit Card,No,Not Returned
+Ahmedabad,Female,29,Toys,100.13,6,156.01,2023-12-09,4.4,Credit Card,Yes,Returned
+Jaipur,Male,50,Clothing,333.73,15,1363.92,2023-10-05,1.1,Cash,Yes,Not Returned
+Ahmedabad,Male,56,Electronics,120.2,9,323.28,2023-12-04,2.7,UPI,No,Not Returned
+Pune,Female,33,Clothing,222.23,5,121.89,2023-03-12,4.2,Net Banking,No,Not Returned
+Kolkata,Female,33,Clothing,148.94,2,51.71,2023-09-01,4.0,UPI,No,Returned
+Bengaluru,Male,24,Groceries,72.7,1,17.74,2023-07-09,3.0,Credit Card,No,Returned
+Kolkata,Male,47,Electronics,320.78,18,1638.21,2023-06-30,3.6,Cash,Yes,Not Returned
+Ahmedabad,Female,45,Groceries,341.56,16,1597.53,2023-06-05,1.8,Credit Card,Yes,Returned
+Ahmedabad,Male,22,Clothing,8.96,44,78.42,2023-04-06,1.5,UPI,No,Not Returned
+Jaipur,Female,18,Electronics,10.97,23,36.17,2023-05-28,2.1,Credit Card,Yes,Not Returned
+Lucknow,Male,50,Electronics,249.28,31,1045.07,2023-05-05,1.8,Net Banking,No,Returned
+Mumbai,Female,52,Books,146.98,32,1406.06,2023-03-16,3.6,Credit Card,No,Not Returned
+Lucknow,Female,53,Books,281.65,48,3486.25,2023-09-12,2.4,Net Banking,No,Not Returned
+Lucknow,Female,45,Groceries,128.88,7,264.37,2023-01-13,1.0,Net Banking,Yes,Returned
+Pune,Male,32,Books,384.98,42,1971.21,2023-10-16,1.9,UPI,Yes,Not Returned
+Chennai,Female,61,Books,292.39,26,2101.82,2023-07-16,3.7,Cash,No,Not Returned
+Mumbai,Male,60,Electronics,249.56,42,1344.93,2023-06-10,1.3,Credit Card,Yes,Not Returned
+Delhi,Male,47,Clothing,149.82,34,1361.28,2023-09-04,4.2,Cash,No,Returned
+Jaipur,Female,62,Books,87.09,21,430.08,2023-10-25,3.5,Credit Card,No,Returned
+Kolkata,Female,40,Books,311.26,6,310.23,2023-08-25,2.2,Wallet,Yes,Not Returned
+Mumbai,Male,27,Clothing,366.65,22,915.11,2023-10-06,4.0,Wallet,No,Not Returned
+Jaipur,Male,22,Toys,352.78,23,820.31,2023-12-23,3.1,UPI,No,Returned
+Jaipur,Female,45,Groceries,284.31,24,1317.13,2023-10-11,4.0,UPI,Yes,Not Returned
+Jaipur,Female,54,Electronics,264.93,1,72.32,2023-03-21,2.5,Net Banking,Yes,Returned
+Chennai,Male,64,Groceries,389.83,16,1010.69,2023-09-13,2.1,Wallet,No,Not Returned
+Ahmedabad,Female,28,Clothing,254.58,5,221.64,2023-02-09,2.3,Credit Card,No,Returned
+Ahmedabad,Male,55,Groceries,161.24,47,2170.8,2023-12-20,4.4,Credit Card,Yes,Not Returned
+Hyderabad,Male,24,Toys,33.42,9,80.16,2023-04-28,4.0,Net Banking,No,Not Returned
+Bengaluru,Female,42,Groceries,454.59,33,3923.67,2023-06-24,2.8,UPI,No,Returned
+Kolkata,Female,41,Groceries,382.22,37,2747.85,2023-12-31,1.8,Wallet,Yes,Returned
+Jaipur,Male,57,Books,25.21,18,90.82,2023-05-09,2.7,Cash,Yes,Returned
+Jaipur,Male,41,Groceries,30.6,35,299.67,2023-01-26,2.8,Wallet,Yes,Returned
+Kolkata,Female,26,Toys,16.7,49,127.41,2023-03-06,3.8,UPI,No,Returned
+Jaipur,Female,57,Toys,81.23,29,359.06,2024-01-01,4.2,Net Banking,No,Not Returned
+Mumbai,Female,19,Electronics,123.61,45,892.67,2023-03-31,1.9,Cash,Yes,Not Returned
+Chennai,Male,41,Toys,362.15,8,845.64,2023-12-05,5.0,Credit Card,Yes,Returned
+Bengaluru,Male,25,Electronics,446.35,17,892.65,2023-07-05,3.0,Wallet,No,Returned
+Chennai,Female,18,Clothing,323.09,21,738.71,2023-03-27,4.8,UPI,Yes,Returned
+Lucknow,Female,39,Clothing,200.39,32,820.41,2023-12-22,1.5,UPI,Yes,Not Returned
+Delhi,Male,41,Groceries,67.93,29,425.72,2023-07-27,4.7,Cash,Yes,Returned
+Ahmedabad,Male,52,Clothing,390.5,8,319.32,2023-09-21,3.7,Cash,No,Returned
+Kolkata,Female,20,Electronics,374.23,14,905.8,2023-02-27,4.1,Wallet,Yes,Not Returned
+Kolkata,Female,42,Books,284.28,29,1658.14,2023-10-30,4.7,Wallet,Yes,Not Returned
+Lucknow,Male,23,Toys,327.74,45,3631.93,2023-07-30,3.8,Cash,No,Not Returned
+Pune,Male,29,Toys,218.02,43,2262.34,2023-02-11,3.1,Credit Card,No,Not Returned
+Pune,Male,36,Books,262.23,20,1055.54,2023-06-13,1.3,Net Banking,Yes,Not Returned
+Hyderabad,Female,46,Books,151.71,33,1260.36,2023-06-18,1.7,UPI,No,Not Returned
+Delhi,Female,52,Clothing,387.43,8,853.2,2023-04-02,1.5,Cash,No,Returned
+Hyderabad,Male,30,Clothing,227.97,21,796.7,2023-05-23,1.0,Net Banking,No,Returned
+Bengaluru,Female,32,Clothing,497.02,48,3969.58,2023-10-31,3.5,UPI,No,Returned
+Chennai,Male,42,Toys,52.81,48,377.53,2023-11-29,2.9,Credit Card,No,Not Returned
+Bengaluru,Female,61,Clothing,306.33,21,1760.64,2023-01-04,1.8,UPI,Yes,Returned
+Delhi,Male,65,Clothing,372.45,48,3950.44,2023-09-20,2.4,Wallet,No,Not Returned
+Bengaluru,Male,65,Electronics,240.75,32,2116.48,2023-10-10,4.4,UPI,Yes,Returned
+Mumbai,Female,54,Clothing,304.28,16,539.95,2023-06-09,4.2,UPI,No,Not Returned
+Mumbai,Male,65,Electronics,154.25,12,482.9,2023-11-17,4.0,UPI,No,Returned
+Chennai,Male,24,Electronics,233.6,43,1271.89,2023-12-13,1.1,UPI,Yes,Not Returned
+Lucknow,Male,21,Toys,345.6,33,1761.86,2023-09-18,3.5,Wallet,Yes,Returned
+Kolkata,Male,55,Books,491.5,6,698.51,2023-03-02,3.1,Net Banking,Yes,Not Returned
+Chennai,Male,56,Clothing,119.1,6,137.93,2023-08-10,4.3,Credit Card,No,Returned
+Delhi,Male,41,Groceries,458.54,42,4267.45,2023-06-28,3.5,Cash,Yes,Not Returned
+Jaipur,Male,52,Groceries,174.49,22,763.02,2023-05-01,2.0,Net Banking,Yes,Not Returned
+Hyderabad,Male,45,Books,19.21,12,55.24,2023-08-19,1.9,Credit Card,Yes,Not Returned
+Kolkata,Female,35,Electronics,337.93,40,3888.95,2023-10-12,2.7,Credit Card,No,Not Returned
+Lucknow,Male,39,Books,82.24,15,356.21,2023-09-01,3.5,Credit Card,No,Not Returned
+Ahmedabad,Male,24,Toys,335.11,36,2786.94,2023-09-09,3.9,Wallet,No,Returned
+Pune,Female,18,Electronics,429.97,14,696.76,2023-03-29,4.7,Cash,No,Returned
+Pune,Female,28,Books,117.5,25,581.85,2023-10-09,4.9,Credit Card,Yes,Not Returned
+Hyderabad,Male,27,Electronics,174.1,37,1093.2,2023-03-21,1.9,Wallet,Yes,Returned
+Kolkata,Male,20,Books,350.04,35,3010.8,2023-06-21,1.2,Net Banking,No,Returned
+Bengaluru,Male,21,Groceries,291.65,36,2507.79,2023-08-16,1.0,Wallet,No,Returned
+Mumbai,Male,32,Groceries,275.84,41,2514.94,2023-02-21,4.0,Credit Card,Yes,Returned
+Hyderabad,Female,19,Groceries,200.7,13,379.22,2023-05-22,3.3,Net Banking,Yes,Returned
+Pune,Male,46,Clothing,396.67,33,1466.92,2023-08-29,3.4,Cash,No,Not Returned
+Lucknow,Female,56,Electronics,321.15,8,281.54,2023-04-21,1.3,Credit Card,No,Returned
+Chennai,Female,43,Electronics,7.69,37,79.18,2023-11-06,4.6,Wallet,Yes,Returned
+Kolkata,Male,21,Clothing,245.4,14,995.48,2023-01-28,4.2,Wallet,No,Returned
+Kolkata,Female,20,Electronics,152.16,18,393.98,2023-02-20,1.4,UPI,No,Not Returned
+Mumbai,Female,24,Clothing,344.57,4,268.53,2023-05-06,4.8,Credit Card,No,Not Returned
+Bengaluru,Male,45,Books,336.37,50,3292.92,2023-07-10,3.1,Wallet,Yes,Returned
+Jaipur,Male,42,Books,95.85,37,412.54,2023-09-22,2.3,Wallet,No,Returned
+Jaipur,Female,43,Books,328.96,35,1930.4,2023-08-14,4.9,Wallet,Yes,Returned
+Delhi,Female,25,Clothing,477.42,39,2391.18,2023-04-03,2.5,Wallet,Yes,Returned
+Kolkata,Male,46,Electronics,212.9,37,2085.6,2023-04-16,1.6,UPI,No,Returned
+Delhi,Female,42,Toys,488.89,14,2010.73,2023-02-16,4.8,Net Banking,Yes,Not Returned
+Kolkata,Female,65,Electronics,422.33,18,1132.65,2023-12-04,4.5,Credit Card,No,Not Returned
+Ahmedabad,Male,60,Groceries,67.87,50,969.39,2023-01-05,2.1,Credit Card,Yes,Returned
+Chennai,Male,19,Electronics,304.65,18,637.82,2023-09-18,4.2,Cash,Yes,Not Returned
+Lucknow,Female,48,Toys,151.62,27,613.39,2023-04-28,3.8,UPI,Yes,Returned
+Kolkata,Female,29,Electronics,440.95,41,3490.65,2023-02-12,4.6,Cash,Yes,Not Returned
+Kolkata,Male,45,Clothing,374.55,30,2173.51,2023-03-19,3.5,Net Banking,Yes,Not Returned
+Lucknow,Male,35,Groceries,414.98,6,478.44,2023-06-08,2.6,Wallet,No,Returned
+Mumbai,Female,60,Groceries,428.83,47,4869.0,2023-03-18,4.9,Net Banking,No,Not Returned
+Mumbai,Female,58,Toys,141.14,44,871.9,2023-12-10,4.4,UPI,No,Returned
+Mumbai,Male,49,Toys,99.18,8,156.62,2023-05-23,4.2,UPI,No,Not Returned
+Chennai,Male,24,Clothing,64.96,35,309.33,2023-03-19,2.4,Net Banking,No,Returned
+Chennai,Female,38,Clothing,324.38,31,2610.7,2023-05-31,5.0,UPI,No,Not Returned
+Ahmedabad,Female,65,Toys,16.51,39,183.69,2023-06-19,2.9,Cash,No,Returned
+Kolkata,Female,57,Toys,64.43,17,275.03,2023-10-14,4.7,Credit Card,No,Returned
+Jaipur,Male,21,Groceries,221.67,33,1349.89,2023-03-06,5.0,Credit Card,No,Returned
+Chennai,Male,27,Electronics,115.28,42,635.13,2023-10-13,2.7,Wallet,No,Not Returned
+Hyderabad,Male,38,Groceries,460.29,41,4108.51,2023-07-18,1.2,Wallet,Yes,Not Returned
+Ahmedabad,Female,52,Books,311.77,39,1811.04,2023-05-14,2.0,Wallet,Yes,Returned
+Lucknow,Female,61,Electronics,311.1,24,856.69,2023-08-21,3.4,UPI,No,Returned
+Kolkata,Female,50,Groceries,134.63,47,1037.31,2023-07-10,2.0,Net Banking,Yes,Returned
+Pune,Male,46,Toys,280.02,28,1141.5,2023-05-26,4.8,UPI,No,Not Returned
+Lucknow,Female,34,Toys,185.64,9,438.46,2023-02-04,2.3,Net Banking,Yes,Not Returned
+Jaipur,Female,42,Toys,166.01,18,551.13,2023-04-20,3.4,Wallet,No,Returned
+Mumbai,Female,18,Electronics,144.2,27,714.23,2023-12-22,2.4,Credit Card,Yes,Not Returned
+Delhi,Male,37,Toys,60.12,2,19.97,2023-01-02,2.6,UPI,Yes,Returned
+Ahmedabad,Male,43,Toys,283.49,21,948.7,2023-09-19,3.4,UPI,Yes,Returned
+Delhi,Female,64,Electronics,439.99,6,429.93,2023-10-01,1.4,Net Banking,Yes,Returned
+Hyderabad,Female,18,Books,308.59,34,1458.09,2023-07-28,4.4,Credit Card,Yes,Not Returned
+Ahmedabad,Male,31,Toys,39.51,38,216.36,2023-09-16,3.0,Net Banking,No,Returned
+Kolkata,Female,45,Groceries,408.65,23,2690.62,2023-04-03,2.6,Credit Card,No,Not Returned
+Lucknow,Female,64,Books,73.06,20,184.27,2023-08-24,1.4,Wallet,Yes,Not Returned
+Jaipur,Female,63,Groceries,433.42,22,2038.26,2023-03-29,4.4,Net Banking,Yes,Not Returned
+Lucknow,Female,59,Books,408.89,3,202.59,2023-04-19,4.5,Cash,No,Returned
+Chennai,Female,63,Electronics,382.35,46,2656.64,2023-01-06,1.3,Wallet,No,Returned
+Pune,Male,40,Groceries,393.82,29,1363.97,2023-09-10,1.8,Credit Card,No,Not Returned
+Pune,Female,61,Groceries,256.98,42,2223.29,2023-08-30,3.9,Credit Card,No,Not Returned
+Hyderabad,Male,29,Books,414.21,40,4922.88,2023-01-24,3.0,UPI,No,Not Returned
+Pune,Female,37,Electronics,33.39,10,68.99,2023-09-06,2.0,UPI,No,Returned
+Ahmedabad,Male,23,Groceries,462.13,34,2701.96,2023-05-19,4.6,Net Banking,Yes,Not Returned
+Kolkata,Female,61,Toys,56.89,35,449.56,2023-03-27,4.0,Cash,Yes,Returned
+Jaipur,Female,64,Clothing,223.68,49,1731.61,2023-01-20,2.5,Net Banking,Yes,Not Returned
+Mumbai,Female,36,Groceries,45.42,27,285.66,2023-09-04,3.8,UPI,Yes,Not Returned
+Kolkata,Female,55,Books,445.01,10,1105.43,2023-07-03,1.2,UPI,No,Returned
+Pune,Female,56,Toys,373.42,32,2001.09,2023-06-26,2.1,Credit Card,Yes,Returned
+Hyderabad,Female,18,Toys,496.48,45,4881.46,2023-04-09,4.1,Net Banking,Yes,Not Returned
+Lucknow,Male,28,Electronics,433.16,9,837.45,2023-10-24,2.4,Net Banking,Yes,Not Returned
+Mumbai,Female,35,Groceries,369.05,8,625.77,2023-03-12,2.7,Wallet,Yes,Not Returned
+Delhi,Male,41,Books,244.46,20,904.76,2023-04-20,1.1,Credit Card,No,Not Returned
+Jaipur,Female,18,Groceries,330.64,18,823.09,2023-09-17,3.3,Cash,Yes,Not Returned
+Pune,Female,63,Books,249.05,44,1181.21,2023-06-08,3.7,UPI,No,Returned
+Hyderabad,Male,45,Groceries,183.51,45,909.98,2023-03-05,1.9,Wallet,Yes,Returned
+Jaipur,Female,51,Books,84.0,45,478.85,2023-05-17,2.2,UPI,No,Not Returned
+Hyderabad,Female,63,Electronics,251.6,30,943.01,2023-03-03,3.2,Credit Card,Yes,Returned
+Hyderabad,Male,46,Clothing,119.6,47,641.12,2023-03-06,4.6,Wallet,Yes,Returned
+Mumbai,Male,56,Books,305.92,20,1744.59,2023-09-25,3.6,Net Banking,No,Not Returned
+Mumbai,Male,31,Books,209.3,2,72.65,2023-08-18,1.8,Cash,Yes,Not Returned
+Mumbai,Male,29,Toys,304.01,28,2223.22,2023-03-31,4.0,Wallet,No,Not Returned
+Pune,Male,64,Groceries,32.78,34,225.21,2023-04-22,3.3,Wallet,No,Returned
+Ahmedabad,Female,26,Electronics,41.43,14,131.31,2023-11-27,1.3,Cash,Yes,Not Returned
+Kolkata,Male,20,Groceries,322.88,11,1022.13,2023-12-17,1.1,Wallet,No,Returned
+Jaipur,Male,21,Books,455.46,9,1203.5,2023-11-02,3.9,Credit Card,No,Returned
+Pune,Male,29,Electronics,462.05,17,1888.81,2023-12-23,2.1,Net Banking,No,Returned
+Delhi,Female,44,Groceries,426.4,50,2158.1,2023-02-10,4.2,Cash,Yes,Not Returned
+Pune,Female,38,Clothing,306.9,50,1797.96,2023-02-20,4.4,UPI,Yes,Not Returned
+Pune,Female,60,Groceries,476.28,36,1876.82,2023-10-03,4.5,Wallet,Yes,Not Returned
+Mumbai,Female,49,Clothing,15.84,36,163.74,2023-11-13,1.7,Credit Card,Yes,Returned
+Delhi,Male,26,Electronics,431.39,23,2836.81,2023-04-11,2.1,Wallet,No,Returned
+Ahmedabad,Male,54,Clothing,66.96,11,122.44,2023-02-16,2.8,Wallet,Yes,Not Returned
+Mumbai,Female,37,Electronics,299.1,30,2146.13,2023-04-26,1.5,Credit Card,No,Returned
+Ahmedabad,Male,36,Groceries,355.59,34,2306.48,2023-04-15,2.8,Wallet,No,Not Returned
+Kolkata,Female,58,Toys,333.91,28,2201.09,2023-03-02,4.0,UPI,Yes,Returned
+Lucknow,Male,57,Groceries,395.61,12,643.27,2023-04-27,3.3,Net Banking,Yes,Returned
+Mumbai,Female,19,Toys,221.6,24,1415.96,2023-12-04,2.6,Net Banking,No,Not Returned
+Jaipur,Male,22,Electronics,291.5,39,3064.75,2023-11-03,3.0,Credit Card,No,Returned
+Lucknow,Male,35,Books,10.29,24,49.01,2023-03-07,4.0,Net Banking,Yes,Returned
+Kolkata,Female,27,Books,376.08,29,1413.06,2023-04-15,2.9,Wallet,Yes,Not Returned
+Chennai,Male,60,Groceries,260.37,22,1518.45,2023-04-19,1.4,Net Banking,Yes,Not Returned
+Lucknow,Female,60,Electronics,314.01,13,574.9,2023-09-11,2.8,Net Banking,Yes,Returned
+Jaipur,Female,40,Electronics,463.48,23,1562.03,2023-12-27,4.2,Credit Card,Yes,Not Returned
+Jaipur,Female,61,Groceries,460.15,9,1007.71,2023-08-24,2.6,Wallet,No,Returned
+Lucknow,Female,27,Books,55.68,2,23.07,2023-08-04,2.7,UPI,No,Returned
+Jaipur,Female,61,Books,452.76,35,4597.2,2023-07-08,3.6,Credit Card,No,Not Returned
+Hyderabad,Female,40,Clothing,107.64,34,908.03,2023-03-28,1.4,Net Banking,Yes,Returned
+Delhi,Male,64,Books,176.72,46,1564.67,2023-10-19,4.0,Cash,Yes,Returned
+Hyderabad,Female,24,Clothing,77.27,11,155.35,2023-03-26,3.0,Wallet,Yes,Not Returned
+Kolkata,Male,57,Books,209.14,46,1495.3,2023-12-21,4.0,UPI,Yes,Not Returned
+Pune,Female,25,Groceries,248.98,37,2265.03,2023-07-12,4.2,Cash,Yes,Not Returned
+Pune,Female,47,Electronics,244.4,39,1459.4,2023-02-19,1.7,UPI,Yes,Returned
+Kolkata,Female,42,Clothing,244.49,12,339.98,2023-10-17,3.9,Net Banking,Yes,Returned
+Bengaluru,Female,44,Toys,59.3,31,263.7,2023-03-11,1.9,Net Banking,No,Returned
+Hyderabad,Male,28,Toys,40.06,23,108.41,2023-04-22,1.6,Wallet,Yes,Returned
+Jaipur,Female,58,Clothing,392.18,16,1252.3,2023-04-02,2.9,Cash,Yes,Returned
+Jaipur,Female,21,Electronics,93.35,40,456.16,2023-03-19,3.7,UPI,No,Not Returned
+Chennai,Female,57,Toys,433.33,35,1993.05,2023-10-07,3.4,Credit Card,Yes,Returned
+Ahmedabad,Female,52,Books,342.97,31,2596.16,2023-02-27,2.5,UPI,Yes,Returned
+Chennai,Female,41,Books,340.54,48,3343.8,2023-07-14,1.3,Net Banking,No,Not Returned
+Hyderabad,Male,65,Toys,393.08,40,2467.41,2023-02-27,3.1,Credit Card,No,Not Returned
+Lucknow,Female,42,Books,234.47,23,935.21,2023-08-06,2.3,Cash,No,Not Returned
+Mumbai,Female,55,Clothing,98.8,34,1000.52,2023-03-12,2.3,Net Banking,Yes,Returned
+Mumbai,Female,52,Clothing,55.9,41,312.8,2023-03-13,4.6,Cash,Yes,Returned
+Chennai,Male,30,Books,309.52,32,2468.32,2023-07-20,2.9,Cash,Yes,Not Returned
+Bengaluru,Female,63,Groceries,367.71,12,541.14,2023-09-08,4.7,UPI,Yes,Not Returned
+Jaipur,Male,30,Clothing,307.98,6,219.51,2023-02-26,4.3,Wallet,Yes,Not Returned
+Lucknow,Female,21,Books,325.34,33,1374.07,2023-04-30,2.1,Cash,No,Not Returned
+Lucknow,Male,61,Electronics,276.05,34,2428.95,2023-05-18,4.0,Cash,No,Returned
+Hyderabad,Male,45,Clothing,414.8,31,3722.22,2023-05-02,1.8,Wallet,No,Not Returned
+Kolkata,Male,26,Clothing,361.44,23,2201.32,2023-09-11,2.7,Wallet,No,Returned
+Jaipur,Male,61,Books,430.15,4,411.64,2023-03-09,1.1,Net Banking,Yes,Returned
+Delhi,Female,44,Clothing,114.82,7,164.46,2023-01-22,3.5,Net Banking,No,Not Returned
+Pune,Female,36,Groceries,106.08,12,164.5,2023-10-23,4.2,Credit Card,Yes,Not Returned
+Chennai,Male,30,Clothing,276.93,16,522.06,2023-12-24,1.2,Wallet,Yes,Not Returned
+Lucknow,Female,35,Electronics,206.61,13,740.13,2023-03-12,1.3,Credit Card,No,Not Returned
+Delhi,Female,56,Clothing,368.74,11,552.57,2023-10-29,2.7,Wallet,Yes,Not Returned
+Pune,Female,24,Toys,302.35,6,345.94,2023-06-12,2.5,Cash,Yes,Returned
+Hyderabad,Male,50,Electronics,187.69,5,106.84,2023-04-27,1.1,UPI,Yes,Not Returned
+Jaipur,Male,24,Books,403.55,15,967.6,2023-11-24,3.9,Credit Card,No,Not Returned
+Delhi,Female,65,Toys,66.09,24,432.24,2023-07-16,2.5,Wallet,Yes,Not Returned
+Hyderabad,Female,39,Toys,160.24,27,537.34,2023-10-16,1.3,UPI,Yes,Not Returned
+Lucknow,Male,36,Electronics,40.54,31,160.17,2023-06-06,3.7,Wallet,No,Not Returned
+Mumbai,Male,50,Groceries,443.38,30,1856.97,2023-10-11,1.3,Cash,No,Not Returned
+Lucknow,Female,44,Clothing,477.66,23,2066.55,2023-08-19,3.7,Wallet,Yes,Returned
+Delhi,Female,46,Clothing,106.51,29,400.55,2023-06-11,4.6,Wallet,Yes,Not Returned
+Bengaluru,Male,21,Books,160.73,26,1066.75,2023-07-02,4.3,Wallet,Yes,Not Returned
+Delhi,Female,61,Groceries,383.04,10,719.88,2023-04-23,3.8,Cash,Yes,Returned
+Delhi,Female,28,Electronics,244.77,6,327.98,2023-09-25,4.6,Wallet,Yes,Returned
+Ahmedabad,Male,27,Books,70.44,10,98.14,2023-05-31,2.0,Credit Card,Yes,Not Returned
+Delhi,Male,27,Clothing,20.22,50,169.5,2023-12-09,1.0,UPI,No,Returned
+Hyderabad,Male,36,Groceries,321.63,18,890.52,2023-05-12,2.1,Cash,Yes,Returned
+Ahmedabad,Female,58,Groceries,271.73,4,186.44,2023-05-11,4.2,Wallet,Yes,Returned
+Kolkata,Female,65,Clothing,433.76,49,2777.65,2023-10-22,3.6,Cash,No,Returned
+Mumbai,Male,30,Clothing,418.71,47,2520.35,2023-02-14,2.4,Credit Card,Yes,Returned
+Hyderabad,Male,21,Electronics,255.15,46,1426.97,2023-07-12,1.7,Cash,No,Not Returned
+Mumbai,Male,47,Groceries,223.38,42,1104.31,2023-02-02,1.9,Wallet,No,Not Returned
+Mumbai,Female,21,Clothing,411.71,11,894.97,2023-11-14,1.8,UPI,Yes,Returned
+Lucknow,Female,41,Clothing,193.98,15,337.3,2023-08-25,3.6,Credit Card,No,Returned
+Hyderabad,Female,46,Toys,68.6,27,186.67,2023-04-15,1.9,Net Banking,Yes,Not Returned
+Hyderabad,Female,54,Groceries,315.56,39,1298.28,2023-07-16,2.8,UPI,Yes,Returned
+Delhi,Female,39,Electronics,440.36,7,318.36,2023-05-06,2.3,UPI,No,Returned
+Bengaluru,Female,40,Clothing,496.65,7,899.2,2023-10-21,3.1,Net Banking,No,Not Returned
+Ahmedabad,Male,30,Clothing,142.46,34,590.01,2023-11-04,1.4,Net Banking,No,Returned
+Pune,Male,38,Clothing,497.27,47,2671.27,2023-04-16,3.7,UPI,No,Not Returned
+Jaipur,Female,49,Toys,235.01,5,124.6,2023-10-25,4.4,Wallet,Yes,Returned
+Bengaluru,Male,46,Toys,496.88,24,3219.69,2023-04-20,1.3,Wallet,No,Not Returned
+Bengaluru,Female,54,Electronics,451.33,40,2055.43,2023-10-06,3.6,UPI,Yes,Returned
+Mumbai,Male,45,Toys,236.48,21,1439.38,2023-01-21,3.5,Credit Card,No,Returned
+Hyderabad,Female,47,Groceries,307.23,29,2277.92,2023-11-24,4.6,Credit Card,Yes,Not Returned
+Jaipur,Male,43,Books,238.88,42,2040.82,2023-09-20,2.6,Cash,No,Returned
+Bengaluru,Female,48,Books,439.21,15,951.92,2023-08-28,3.8,Credit Card,Yes,Not Returned
+Delhi,Female,27,Groceries,111.79,37,921.31,2023-02-25,1.3,Net Banking,No,Returned
+Delhi,Male,33,Toys,185.26,28,811.24,2023-10-04,2.8,Credit Card,Yes,Not Returned
+Ahmedabad,Female,60,Clothing,103.81,19,257.35,2023-02-11,3.1,Net Banking,No,Not Returned
+Lucknow,Male,21,Electronics,493.11,2,275.68,2023-04-26,4.6,UPI,Yes,Returned
+Delhi,Male,34,Books,204.7,14,400.76,2023-03-28,3.3,Credit Card,No,Returned
+Ahmedabad,Female,20,Clothing,117.56,39,604.34,2023-02-07,1.9,Wallet,Yes,Returned
+Pune,Female,20,Electronics,376.26,6,373.25,2023-04-15,3.3,Cash,Yes,Returned
+Mumbai,Male,56,Groceries,156.7,37,740.67,2023-01-22,3.8,UPI,Yes,Returned
+Mumbai,Male,37,Clothing,89.02,37,708.16,2023-12-26,4.8,Wallet,Yes,Not Returned
+Hyderabad,Male,41,Toys,172.93,46,1709.35,2023-12-26,3.2,Net Banking,No,Not Returned
+Kolkata,Female,55,Groceries,358.35,14,1406.82,2023-07-24,4.4,Cash,No,Returned
+Delhi,Female,48,Books,126.65,30,829.46,2023-07-09,2.7,Credit Card,Yes,Not Returned
+Hyderabad,Male,27,Groceries,310.4,25,861.0,2023-05-04,1.7,Net Banking,Yes,Returned
+Bengaluru,Male,47,Electronics,138.98,14,378.96,2023-08-04,4.1,UPI,No,Returned
+Hyderabad,Female,26,Books,499.04,42,5475.57,2023-06-07,3.4,Wallet,No,Returned
+Ahmedabad,Female,56,Groceries,54.27,31,399.45,2023-02-27,3.6,Cash,Yes,Returned
+Ahmedabad,Female,32,Toys,161.2,5,188.76,2023-09-01,3.0,Cash,Yes,Not Returned
+Delhi,Male,62,Groceries,48.92,22,247.71,2023-10-07,2.9,Net Banking,Yes,Returned
+Lucknow,Female,48,Books,334.25,30,1686.68,2023-04-21,4.5,Net Banking,Yes,Not Returned
+Lucknow,Female,20,Toys,373.61,37,3085.35,2023-07-09,2.4,Cash,No,Returned
+Hyderabad,Male,53,Groceries,78.73,28,286.46,2023-08-21,2.3,Net Banking,No,Not Returned
+Jaipur,Male,28,Groceries,470.67,20,1712.47,2023-12-21,2.2,Cash,No,Not Returned
+Kolkata,Male,25,Toys,385.03,21,2069.04,2023-07-08,3.1,Wallet,Yes,Returned
+Kolkata,Female,19,Groceries,453.0,41,3421.55,2023-07-15,4.6,Wallet,No,Not Returned
+Ahmedabad,Male,31,Electronics,255.79,21,833.43,2023-05-31,1.9,Net Banking,No,Not Returned
+Lucknow,Male,48,Books,492.57,31,3293.87,2023-12-21,3.2,Net Banking,No,Returned
+Jaipur,Female,55,Electronics,217.36,32,863.54,2023-07-07,2.8,Net Banking,Yes,Not Returned
+Jaipur,Male,43,Clothing,359.99,22,1943.46,2023-12-18,1.4,Wallet,No,Returned
+Pune,Female,47,Toys,407.95,36,1624.82,2023-04-16,3.8,Net Banking,No,Not Returned
+Pune,Male,47,Toys,91.13,41,849.76,2023-03-27,1.9,UPI,Yes,Returned
+Bengaluru,Male,19,Electronics,399.17,18,1173.04,2023-02-09,4.3,Net Banking,Yes,Not Returned
+Chennai,Female,18,Electronics,310.55,15,901.73,2023-03-08,2.2,Credit Card,No,Returned
+Chennai,Male,21,Books,203.02,38,1415.22,2023-12-18,3.6,UPI,No,Returned
+Jaipur,Male,30,Electronics,19.37,30,124.16,2023-03-30,3.7,Cash,No,Returned
+Lucknow,Female,39,Books,194.37,12,300.88,2023-01-01,4.8,Wallet,Yes,Not Returned
+Kolkata,Female,62,Electronics,482.42,43,5414.46,2023-10-21,1.0,UPI,No,Not Returned
+Lucknow,Female,55,Electronics,180.72,24,885.06,2023-09-22,4.6,Wallet,Yes,Not Returned
+Jaipur,Male,29,Electronics,378.68,43,3759.36,2023-08-28,1.7,Wallet,Yes,Returned
+Chennai,Male,45,Groceries,285.31,3,216.91,2023-07-26,2.4,Net Banking,Yes,Returned
+Hyderabad,Male,52,Books,48.8,24,149.53,2023-08-27,2.1,Credit Card,No,Not Returned
+Ahmedabad,Female,25,Groceries,436.34,12,726.61,2023-04-07,4.4,Net Banking,Yes,Not Returned
+Jaipur,Male,53,Groceries,232.67,32,1692.79,2023-06-08,3.0,UPI,No,Returned
+Lucknow,Male,64,Toys,234.53,42,1051.63,2023-07-17,1.9,Wallet,Yes,Not Returned
+Ahmedabad,Female,55,Groceries,129.71,47,839.04,2023-02-25,1.7,UPI,No,Returned
+Chennai,Male,43,Toys,267.48,37,1631.27,2023-01-10,2.1,UPI,No,Returned
+Kolkata,Female,34,Clothing,118.04,26,843.18,2023-05-12,1.7,UPI,No,Returned
+Chennai,Female,61,Electronics,379.54,44,3900.33,2023-08-17,2.3,Wallet,No,Returned
+Ahmedabad,Female,33,Groceries,403.85,11,695.87,2023-06-14,2.9,Wallet,Yes,Not Returned
+Jaipur,Male,62,Books,256.83,31,2052.29,2023-02-14,2.6,Net Banking,Yes,Not Returned
+Mumbai,Male,38,Electronics,295.65,23,1293.05,2023-01-20,1.0,Net Banking,No,Not Returned
+Kolkata,Male,35,Groceries,119.81,35,580.43,2023-12-03,1.3,Cash,No,Returned
+Pune,Female,38,Clothing,110.45,46,1520.63,2023-11-01,3.9,Cash,No,Returned
+Chennai,Male,24,Clothing,260.92,45,1971.63,2023-10-14,4.8,Cash,No,Not Returned
+Jaipur,Male,62,Groceries,369.3,23,2391.22,2023-03-12,4.7,Credit Card,Yes,Not Returned
+Jaipur,Female,36,Clothing,75.39,27,559.4,2023-11-30,3.5,Credit Card,No,Not Returned
+Kolkata,Male,24,Books,355.11,3,186.69,2023-05-20,4.0,UPI,Yes,Returned
+Pune,Female,56,Books,236.08,7,354.63,2023-02-06,4.8,Credit Card,Yes,Returned
+Delhi,Male,45,Clothing,415.31,12,1366.19,2023-01-25,3.9,Cash,No,Not Returned
+Delhi,Male,59,Clothing,293.09,42,3231.52,2023-12-13,3.7,UPI,No,Returned
+Chennai,Male,29,Electronics,12.14,22,48.75,2023-12-03,1.6,Wallet,No,Not Returned
+Bengaluru,Female,34,Toys,337.39,29,2023.12,2023-04-18,2.5,Wallet,No,Not Returned
+Ahmedabad,Male,60,Books,53.74,9,115.86,2023-03-03,4.4,UPI,No,Not Returned
+Kolkata,Male,55,Groceries,11.8,3,4.28,2023-06-04,1.8,Cash,No,Not Returned
+Delhi,Female,31,Books,132.9,21,338.81,2023-04-28,4.8,UPI,Yes,Not Returned
+Mumbai,Male,45,Electronics,66.09,12,153.81,2023-09-27,1.7,UPI,Yes,Not Returned
+Pune,Male,28,Books,9.59,45,77.92,2023-12-21,2.3,Net Banking,No,Not Returned
+Kolkata,Male,54,Groceries,51.71,4,54.57,2023-03-11,4.2,UPI,No,Not Returned
+Ahmedabad,Male,52,Clothing,75.3,15,235.6,2023-10-11,4.8,Cash,Yes,Returned
+Chennai,Male,21,Electronics,425.04,3,206.47,2023-07-25,2.1,UPI,Yes,Returned
+Pune,Male,42,Electronics,100.24,27,320.19,2023-04-06,2.0,Credit Card,Yes,Not Returned
+Chennai,Female,44,Groceries,259.99,37,1792.62,2023-09-17,1.7,Credit Card,No,Not Returned
+Mumbai,Female,26,Books,219.37,22,1083.03,2023-10-26,3.0,Wallet,No,Not Returned
+Bengaluru,Male,39,Books,20.45,31,81.15,2023-03-09,1.9,UPI,Yes,Not Returned
+Bengaluru,Male,31,Groceries,45.53,39,468.44,2023-09-22,4.9,Net Banking,Yes,Not Returned
+Ahmedabad,Male,26,Groceries,250.1,36,2283.19,2023-10-27,4.1,Credit Card,Yes,Returned
+Delhi,Male,23,Groceries,454.12,37,3733.89,2023-02-18,1.6,UPI,No,Not Returned
+Kolkata,Male,30,Books,57.08,20,247.41,2023-12-23,2.2,Net Banking,No,Not Returned
+Ahmedabad,Male,65,Groceries,146.06,7,164.38,2023-04-27,3.6,Wallet,No,Returned
+Pune,Male,59,Toys,88.44,50,446.12,2023-05-06,3.3,Net Banking,No,Returned
+Hyderabad,Male,32,Clothing,473.9,50,3325.06,2023-02-20,2.1,Credit Card,No,Not Returned
+Pune,Female,52,Toys,249.83,42,3062.27,2023-06-24,1.8,Cash,No,Returned
+Mumbai,Male,31,Books,448.36,5,394.92,2023-06-05,4.4,Net Banking,Yes,Returned
+Ahmedabad,Male,56,Books,426.1,5,538.38,2023-03-13,2.9,Cash,Yes,Not Returned
+Hyderabad,Female,34,Electronics,389.58,22,1710.67,2023-01-15,1.3,Credit Card,No,Returned
+Bengaluru,Female,56,Clothing,456.05,41,4327.63,2023-05-20,3.8,Cash,No,Returned
+Kolkata,Female,44,Groceries,302.82,19,1250.57,2023-03-09,2.4,Cash,No,Returned
+Pune,Male,48,Electronics,111.73,32,982.47,2023-05-22,4.2,Net Banking,Yes,Returned
+Jaipur,Female,42,Clothing,481.94,1,88.61,2023-01-26,2.6,Net Banking,Yes,Returned
+Delhi,Male,25,Clothing,432.84,36,4025.4,2023-08-23,4.8,Net Banking,No,Returned
+Kolkata,Male,65,Toys,44.37,47,523.03,2023-04-08,2.1,Net Banking,Yes,Returned
+Lucknow,Male,43,Clothing,106.83,49,724.53,2023-10-25,1.2,Net Banking,No,Returned
+Bengaluru,Male,18,Electronics,290.4,18,926.3,2023-06-04,4.6,UPI,No,Not Returned
+Kolkata,Female,23,Toys,340.72,49,3512.2,2023-10-30,3.5,Cash,Yes,Returned
+Delhi,Male,19,Clothing,373.03,1,78.68,2023-03-31,3.7,Credit Card,No,Returned
+Pune,Female,44,Toys,320.0,26,1809.68,2023-06-30,4.1,Credit Card,Yes,Not Returned
+Jaipur,Male,28,Toys,327.86,21,698.83,2023-11-26,2.2,Net Banking,No,Not Returned
+Ahmedabad,Male,25,Toys,388.1,43,3685.85,2023-11-16,4.6,Wallet,No,Not Returned
+Lucknow,Male,43,Books,264.07,20,1152.88,2023-05-24,2.2,Net Banking,No,Returned
+Kolkata,Male,40,Toys,114.04,44,777.4,2023-10-17,4.0,Cash,Yes,Returned
+Mumbai,Male,50,Groceries,74.98,18,355.06,2023-10-25,4.0,UPI,Yes,Returned
+Kolkata,Female,28,Clothing,45.48,36,427.09,2023-04-12,3.8,Credit Card,Yes,Returned
+Ahmedabad,Female,50,Toys,147.57,46,1756.38,2023-04-07,2.1,UPI,Yes,Returned
+Ahmedabad,Female,54,Electronics,77.79,42,570.16,2023-09-10,1.8,Cash,No,Returned
+Jaipur,Male,37,Toys,207.56,19,722.61,2023-06-01,3.4,Credit Card,Yes,Not Returned
+Delhi,Female,37,Groceries,308.56,33,2002.4,2023-04-05,3.0,UPI,Yes,Not Returned
+Bengaluru,Male,56,Groceries,461.66,44,3379.02,2023-08-22,3.3,Wallet,Yes,Not Returned
+Pune,Female,40,Books,77.82,34,562.13,2023-07-04,4.9,UPI,Yes,Not Returned
+Pune,Female,62,Toys,107.28,17,488.31,2023-01-28,4.7,UPI,Yes,Not Returned
+Hyderabad,Female,40,Toys,237.64,32,1045.36,2023-04-04,2.7,Net Banking,No,Returned
+Bengaluru,Female,35,Electronics,159.19,24,558.35,2023-04-29,2.7,Credit Card,No,Returned
+Jaipur,Female,48,Books,485.67,32,3206.4,2023-09-07,1.8,Cash,No,Not Returned
+Pune,Male,35,Clothing,253.24,24,1735.68,2023-06-29,2.9,Net Banking,Yes,Returned
+Pune,Female,39,Clothing,247.63,22,1323.43,2023-11-29,2.5,Cash,Yes,Returned
+Mumbai,Male,49,Toys,293.01,25,2119.08,2023-07-21,4.4,Net Banking,Yes,Not Returned
+Pune,Male,19,Toys,445.23,24,2293.86,2023-06-24,4.2,Wallet,No,Not Returned
+Pune,Female,53,Electronics,387.87,49,5315.6,2023-01-10,1.7,Credit Card,Yes,Returned
+Ahmedabad,Male,44,Books,493.64,9,1305.22,2023-06-10,3.2,Net Banking,Yes,Not Returned
+Bengaluru,Male,34,Electronics,94.8,45,498.74,2023-11-05,3.4,UPI,No,Not Returned
+Hyderabad,Female,57,Toys,231.65,37,1345.44,2023-08-21,3.6,Net Banking,No,Returned
+Mumbai,Female,20,Clothing,55.86,49,369.22,2023-05-01,2.5,Credit Card,Yes,Returned
+Pune,Female,63,Toys,46.04,2,18.86,2023-07-21,4.4,Cash,No,Returned
+Jaipur,Male,26,Groceries,102.56,9,257.49,2023-10-06,1.4,Net Banking,No,Returned
+Ahmedabad,Female,54,Electronics,320.77,2,145.48,2023-06-09,2.4,Credit Card,No,Returned
+Pune,Female,23,Toys,42.17,31,375.52,2023-01-20,1.4,UPI,Yes,Returned
+Ahmedabad,Male,40,Books,432.18,32,2805.11,2023-07-08,3.8,Credit Card,No,Returned
+Mumbai,Female,60,Clothing,337.04,45,3140.98,2023-06-07,4.0,Wallet,No,Not Returned
+Jaipur,Female,24,Books,498.54,25,2432.57,2023-08-16,3.7,Wallet,Yes,Not Returned
+Jaipur,Female,47,Toys,67.15,45,743.96,2023-10-21,2.6,Credit Card,Yes,Returned
+Chennai,Female,59,Electronics,347.91,33,2455.84,2023-09-09,2.9,UPI,Yes,Returned
+Hyderabad,Female,52,Toys,132.9,8,221.7,2023-12-17,2.2,Cash,No,Returned
+Ahmedabad,Male,51,Groceries,204.41,17,718.85,2023-10-03,2.7,Credit Card,Yes,Not Returned
+Pune,Female,23,Toys,269.26,49,2244.22,2023-04-25,1.3,Net Banking,No,Returned
+Delhi,Female,26,Groceries,47.68,39,529.83,2023-05-23,4.3,Net Banking,Yes,Returned
+Lucknow,Male,63,Books,349.01,44,2723.44,2023-11-06,4.9,Cash,No,Returned
+Bengaluru,Female,62,Groceries,284.03,5,197.03,2023-01-03,3.0,Wallet,Yes,Not Returned
+Lucknow,Male,25,Books,305.57,33,1909.5,2023-05-15,4.8,Credit Card,No,Returned
+Mumbai,Female,48,Books,37.36,32,147.12,2023-05-01,3.4,Wallet,Yes,Returned
+Lucknow,Female,57,Toys,267.93,31,1680.88,2023-11-07,3.0,Credit Card,No,Returned
+Ahmedabad,Male,37,Clothing,219.92,30,1867.56,2023-03-06,1.8,Cash,No,Returned
+Ahmedabad,Male,19,Groceries,342.4,29,1371.88,2023-06-25,4.0,UPI,Yes,Returned
+Jaipur,Female,27,Books,251.26,37,1625.34,2023-04-28,2.4,Credit Card,Yes,Not Returned
+Ahmedabad,Male,25,Groceries,235.96,25,1371.78,2023-05-30,2.3,Net Banking,No,Returned
+Lucknow,Female,36,Electronics,111.66,15,208.42,2023-12-31,1.5,Cash,No,Returned
+Lucknow,Female,50,Clothing,224.22,4,250.71,2023-03-09,2.1,Net Banking,Yes,Returned
+Delhi,Male,32,Groceries,124.7,14,251.62,2023-02-11,1.6,Net Banking,No,Not Returned
+Chennai,Female,29,Toys,411.2,41,4929.6,2023-12-08,3.4,Net Banking,Yes,Not Returned
+Bengaluru,Male,30,Toys,220.63,15,628.07,2023-10-05,4.0,UPI,Yes,Returned
+Pune,Female,48,Electronics,75.22,14,251.32,2023-09-30,2.6,Wallet,No,Returned
+Hyderabad,Male,63,Toys,372.42,50,4960.75,2023-12-08,2.4,Cash,Yes,Not Returned
+Hyderabad,Female,34,Groceries,415.06,42,2087.51,2023-07-23,1.4,Wallet,No,Returned
+Mumbai,Male,64,Groceries,219.43,41,1166.37,2023-03-07,2.2,Cash,Yes,Not Returned
+Ahmedabad,Male,24,Books,426.63,46,3312.36,2023-05-02,1.6,Cash,Yes,Not Returned
+Jaipur,Female,59,Groceries,69.4,5,97.7,2023-12-03,2.2,Credit Card,Yes,Returned
+Chennai,Male,60,Books,311.21,48,1634.72,2023-10-02,2.9,UPI,Yes,Returned
+Delhi,Male,60,Books,498.53,27,3436.38,2023-12-26,3.2,Wallet,No,Returned
+Chennai,Male,44,Books,290.14,19,962.35,2023-12-25,3.7,Net Banking,Yes,Returned
+Ahmedabad,Male,48,Groceries,416.43,14,1730.1,2023-10-21,3.9,Wallet,No,Not Returned
+Kolkata,Female,31,Toys,137.03,17,512.95,2023-10-01,2.6,UPI,Yes,Returned
+Mumbai,Male,60,Clothing,293.76,4,160.99,2023-12-12,4.0,UPI,Yes,Not Returned
+Lucknow,Female,59,Clothing,464.28,26,2673.59,2023-03-10,1.0,UPI,Yes,Returned
+Bengaluru,Male,24,Clothing,354.44,9,676.47,2023-07-03,1.7,UPI,Yes,Returned
+Hyderabad,Female,26,Groceries,327.34,16,1067.24,2023-03-11,3.2,Cash,No,Not Returned
+Jaipur,Female,48,Groceries,196.74,13,628.87,2023-03-23,4.8,Cash,No,Returned
+Mumbai,Male,18,Electronics,143.63,26,1070.7,2023-04-14,2.4,Credit Card,No,Returned
+Kolkata,Male,47,Toys,182.76,45,2352.86,2023-04-19,4.0,Cash,No,Returned
+Delhi,Male,44,Books,28.23,9,55.84,2023-12-18,1.2,Cash,Yes,Not Returned
+Bengaluru,Female,20,Electronics,329.57,45,2918.13,2023-01-01,3.9,Credit Card,No,Not Returned
+Pune,Female,26,Books,301.21,48,2362.06,2023-09-09,2.7,UPI,Yes,Returned
+Chennai,Female,52,Clothing,86.97,47,957.4,2023-12-18,1.6,Wallet,Yes,Not Returned
+Pune,Male,61,Clothing,295.33,9,729.37,2023-01-01,2.7,Cash,Yes,Not Returned
+Pune,Male,27,Electronics,61.99,9,79.91,2023-08-25,4.8,Wallet,Yes,Returned
+Chennai,Male,27,Clothing,381.88,40,3094.11,2023-06-22,4.0,Net Banking,No,Not Returned
+Chennai,Female,25,Clothing,421.08,2,131.36,2023-09-30,2.0,Wallet,Yes,Returned
+Kolkata,Male,23,Books,273.61,50,1835.95,2023-01-05,1.6,Cash,Yes,Not Returned
+Lucknow,Male,32,Books,145.14,15,525.95,2023-04-20,1.7,UPI,Yes,Not Returned
+Ahmedabad,Male,22,Electronics,249.96,10,578.49,2023-05-02,4.6,Net Banking,Yes,Returned
+Lucknow,Male,61,Electronics,348.7,45,3570.72,2023-08-23,3.5,Credit Card,Yes,Not Returned
+Jaipur,Female,40,Toys,233.35,11,368.24,2023-11-21,1.2,Net Banking,No,Not Returned
+Hyderabad,Male,27,Electronics,378.51,2,201.74,2023-07-26,1.9,Net Banking,No,Returned
+Lucknow,Female,51,Groceries,147.38,16,673.07,2023-09-24,3.8,Cash,No,Not Returned
+Delhi,Male,42,Toys,127.86,22,613.25,2023-09-16,3.6,Credit Card,Yes,Returned
+Hyderabad,Male,48,Toys,250.4,15,700.18,2023-06-01,4.0,Credit Card,Yes,Not Returned
+Chennai,Female,53,Electronics,239.26,47,1896.5,2023-12-02,4.4,Net Banking,No,Not Returned
+Jaipur,Male,42,Toys,255.67,25,1122.47,2023-01-28,3.4,Net Banking,No,Returned
+Ahmedabad,Female,42,Toys,108.86,26,693.57,2023-04-26,1.8,Wallet,No,Returned
+Mumbai,Male,47,Groceries,468.13,35,4367.82,2023-12-22,2.1,Cash,No,Not Returned
+Mumbai,Male,38,Toys,352.22,13,1080.25,2023-01-13,1.6,Cash,No,Not Returned
+Jaipur,Male,48,Groceries,146.61,26,528.42,2023-12-08,3.4,UPI,No,Not Returned
+Ahmedabad,Female,47,Electronics,327.81,14,886.98,2023-07-25,4.5,UPI,Yes,Not Returned
+Bengaluru,Female,34,Toys,67.51,49,531.92,2023-02-16,2.7,Net Banking,No,Not Returned
+Chennai,Female,53,Clothing,284.41,3,219.76,2023-09-17,1.8,UPI,Yes,Returned
+Delhi,Male,37,Groceries,451.34,3,399.37,2023-02-23,4.4,Net Banking,No,Returned
+Chennai,Female,19,Toys,354.36,48,4602.87,2023-09-26,3.2,Cash,No,Returned
+Bengaluru,Male,57,Toys,268.48,14,956.71,2023-11-17,4.1,Wallet,Yes,Not Returned
+Lucknow,Male,61,Clothing,359.64,13,1147.55,2023-12-13,3.3,Wallet,Yes,Not Returned
+Kolkata,Male,28,Toys,250.77,30,1465.1,2023-07-02,2.5,UPI,Yes,Not Returned
+Delhi,Male,61,Groceries,194.08,20,1084.02,2023-08-31,2.7,Cash,Yes,Not Returned
+Hyderabad,Female,56,Toys,181.01,29,788.99,2023-06-17,1.3,UPI,No,Not Returned
+Kolkata,Female,40,Books,170.5,27,585.59,2023-03-31,4.3,Net Banking,Yes,Not Returned
+Mumbai,Male,51,Toys,132.36,46,1028.78,2023-08-29,1.3,UPI,No,Returned
+Bengaluru,Female,29,Toys,462.5,4,496.16,2023-03-10,3.3,Cash,No,Not Returned
+Pune,Female,29,Toys,48.48,10,74.54,2023-09-24,1.8,Wallet,No,Returned
+Ahmedabad,Female,49,Clothing,111.89,36,897.25,2023-02-04,3.7,Net Banking,No,Not Returned
+Pune,Female,41,Electronics,235.15,14,640.21,2023-05-08,2.1,Credit Card,Yes,Returned
+Jaipur,Male,39,Toys,173.93,17,551.02,2023-04-12,2.9,Net Banking,Yes,Not Returned
+Chennai,Male,58,Books,457.36,18,1150.08,2023-05-06,4.0,Wallet,Yes,Returned
+Kolkata,Male,50,Books,296.55,44,3405.22,2023-10-30,4.5,Net Banking,No,Not Returned
+Bengaluru,Female,32,Groceries,235.47,17,841.18,2023-07-28,1.8,Wallet,Yes,Returned
+Delhi,Female,54,Clothing,116.18,24,649.51,2023-11-23,4.2,Credit Card,No,Returned
+Chennai,Male,28,Toys,479.13,48,5111.2,2023-04-22,2.9,Net Banking,Yes,Not Returned
+Mumbai,Male,56,Books,315.39,8,750.59,2023-03-25,3.3,Cash,No,Returned
+Hyderabad,Female,58,Groceries,494.06,39,4269.68,2023-04-09,5.0,UPI,Yes,Not Returned
+Chennai,Male,53,Groceries,411.98,33,1797.21,2023-02-15,2.8,Cash,No,Not Returned
+Lucknow,Female,48,Clothing,425.85,9,950.57,2023-02-24,1.6,Wallet,No,Returned
+Jaipur,Female,29,Electronics,34.58,1,4.41,2023-04-05,2.9,Wallet,Yes,Returned
+Lucknow,Male,55,Books,135.59,48,1290.4,2023-01-12,4.8,Cash,Yes,Not Returned
+Pune,Male,63,Clothing,466.45,9,631.73,2023-02-25,2.1,UPI,No,Not Returned
+Hyderabad,Female,63,Books,173.68,26,902.36,2023-08-10,1.3,Cash,No,Returned
+Delhi,Female,47,Toys,459.73,37,2989.39,2023-04-18,3.5,UPI,Yes,Returned
+Lucknow,Female,64,Clothing,285.87,10,547.6,2023-07-29,2.9,UPI,Yes,Returned
+Chennai,Female,18,Books,230.22,48,1713.11,2023-05-16,1.8,Credit Card,No,Returned
+Lucknow,Male,64,Electronics,462.07,8,1057.14,2023-04-18,2.7,Cash,Yes,Returned
+Pune,Male,51,Clothing,169.43,23,591.97,2023-08-12,4.5,Cash,No,Not Returned
+Delhi,Male,48,Groceries,354.76,50,2328.8,2023-05-04,4.5,Cash,No,Not Returned
+Delhi,Male,47,Clothing,167.74,17,658.54,2023-07-10,2.8,UPI,Yes,Not Returned
+Jaipur,Male,62,Groceries,76.83,8,99.31,2023-07-14,1.5,Wallet,Yes,Not Returned
+Bengaluru,Male,30,Electronics,324.59,3,291.86,2023-12-31,4.0,Wallet,No,Not Returned
+Delhi,Female,40,Groceries,462.7,27,3668.38,2023-06-10,3.3,Credit Card,No,Not Returned
+Jaipur,Male,52,Electronics,261.42,38,1775.71,2023-08-21,4.6,Credit Card,No,Returned
+Jaipur,Female,19,Groceries,353.85,20,1307.28,2023-06-27,4.0,Wallet,Yes,Returned
+Kolkata,Female,55,Electronics,220.56,16,809.01,2023-04-03,3.6,Wallet,Yes,Returned
+Delhi,Female,28,Books,356.14,35,1300.34,2023-02-18,1.4,Wallet,Yes,Returned
+Jaipur,Female,39,Electronics,105.83,3,56.37,2023-07-14,2.6,Cash,No,Not Returned
+Kolkata,Male,53,Books,354.37,9,447.24,2023-11-23,4.3,Cash,Yes,Returned
+Pune,Female,44,Clothing,483.86,46,2840.01,2023-07-07,3.2,Net Banking,Yes,Returned
+Bengaluru,Male,48,Toys,293.11,38,1702.12,2023-01-30,4.8,Cash,No,Returned
