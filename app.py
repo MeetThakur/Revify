@@ -8,7 +8,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 import os
 
-
 def getFilteredData(
     file_path,
     gender=None,
