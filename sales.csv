@@ -1,4 +1,4 @@
-City,Gender,Age,ItemType,Price,Units Sold,Profit,Date of purchase,Feedback (out of 5 stars),Payment Method,Discount Applied,Return Status
+City,Gender,Age,ItemType,Price,UnitsSold,Profit,Date,Feedback,Payment,Discount,Return
 Bengaluru,Male,56,Clothing,307.64,31,2454.23,2023-04-04,2.5,Wallet,No,Not Returned
 Jaipur,Female,38,Books,72.35,3,35.66,2023-09-15,3.9,Net Banking,Yes,Returned
 Bengaluru,Female,46,Clothing,127.99,24,722.58,2023-12-18,1.9,UPI,No,Returned
