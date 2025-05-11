@@ -8,109 +8,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 import os
 
-
-def getFilteredData(
-    file_path,
-    gender=None,
-    age=None,
-    units_sold=None,
-    price=None,
-    item_type=None,
-    city=None,
-    discount_applied=None,
-    return_status=None,
-    date_of_purchase=None,
-    payment_method=None
-):
-    try:
-        df = pd.read_csv(file_path)
-    except FileNotFoundError:
-        print(f"Error: File '{file_path}' not found.")
-        return None
-    except Exception as e:
-        print(f"Error reading the CSV file: {e}")
-        return None
-
-    # Convert 'Date of Purchase' to datetime (DD-MM-YYYY format)
-    if 'date_of_purchase' in df.columns:
-        df['date_of_purchase'] = pd.to_datetime(df['date_of_purchase'], format='%d-%m-%Y', errors='coerce')
-
-    if gender is not None:
-        df = df[df['gender'] == gender]
-
-    if age is not None:
-        try:
-            min_age, max_age = map(float, age.split('-'))
-            df['age'] = pd.to_numeric(df['age'], errors='coerce')
-            df = df.dropna(subset=['age'])
-            df = df[(df['age'] >= min_age) & (df['age'] <= max_age)]
-        except Exception as e:
-            print(f"Invalid age range: {age}. Error: {e}")
-
-    if units_sold is not None:
-        try:
-            min_units, max_units = map(float, units_sold.split('-'))
-            df['units_sold'] = pd.to_numeric(df['units_sold'], errors='coerce')
-            df = df.dropna(subset=['units_sold'])
-            df = df[(df['units_sold'] >= min_units) & (df['units_sold'] <= max_units)]
-        except Exception as e:
-            print(f"Invalid units sold range: {units_sold}. Error: {e}")
-
-    if price is not None:
-        try:
-            min_price, max_price = map(float, price.split('-'))
-            df['price'] = pd.to_numeric(df['price'], errors='coerce')
-            df = df.dropna(subset=['price'])
-            df = df[(df['price'] >= min_price) & (df['price'] <= max_price)]
-        except Exception as e:
-            print(f"Invalid price range: {price}. Error: {e}")
-
-    if item_type is not None:
-        df = df[df['item_type'] == item_type]
-
-    if city is not None:
-        df = df[df['city'] == city]
-
-    if discount_applied is not None:
-        df = df[df['discount_applied'] == discount_applied]
-
-    if return_status is not None:
-        df = df[df['return_status'] == return_status]
-
-    if date_of_purchase is not None:
-        # Handle date range filter if the input is in the format "start_date to end_date"
-        try:
-            if 'to' in date_of_purchase:
-                start_date, end_date = date_of_purchase.split(' to ')
-                start_date = pd.to_datetime(start_date, format='%d-%m-%Y')
-                end_date = pd.to_datetime(end_date, format='%d-%m-%Y')
-                df = df[(df['date_of_purchase'] >= start_date) & (df['date_of_purchase'] <= end_date)]
-            else:
-                # Exact date match
-                date_value = pd.to_datetime(date_of_purchase, format='%d-%m-%Y')
-                df = df[df['date_of_purchase'] == date_value]
-        except Exception as e:
-            print(f"Invalid date range: {date_of_purchase}. Error: {e}")
-
-    if payment_method is not None:
-        df = df[df['payment_method'] == payment_method]
-
-    # Show filtered result
-    print("\nFiltered Dataset:")
-    print(df)
-
-    # Calculate and display total profit
-    if 'profit' in df.columns:
-        df['profit'] = pd.to_numeric(df['profit'], errors='coerce').fillna(0)
-        total_profit = df['profit'].sum()
-        print(f"\nTotal Profit for filtered data: {total_profit}")
-    else:
-        print("\n'Profit' column not found in the dataset.")
-
-    return df
-
-
-
 # Set page configuration
 st.set_page_config(
     page_title="Revify",
@@ -121,40 +18,24 @@ st.set_page_config(
 # Add custom CSS
 st.markdown("""
     <style>
-    /* Color Variables */
-    :root {
-        --pastel-blue: #A7C7E7;
-        --pastel-green: #C1E1C1;
-        --pastel-pink: #FFB6C1;
-        --pastel-purple: #D8BFD8;
-        --pastel-yellow: #FFE4B5;
-        --pastel-orange: #FFDAB9;
-        --pastel-mint: #B5EAD7;
-        --pastel-lavender: #E6E6FA;
-        --text-dark: #4A4A4A;
-        --text-light: #6B7280;
-        --white: #FFFFFF;
-        --shadow: rgba(0, 0, 0, 0.05);
-    }
-
     /* Main Layout */
     .main {
         padding: 2rem;
-        background: linear-gradient(180deg, var(--pastel-lavender) 0%, var(--white) 100%);
+        background-color: #f8f9fa;
     }
     
     /* Metrics Styling */
     .stMetric {
-        background-color: var(--white);
+        background-color: white;
         padding: 1.5rem;
         border-radius: 0.75rem;
-        box-shadow: 0 2px 4px var(--shadow);
-        border: 1px solid var(--pastel-lavender);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        border: 1px solid #e9ecef;
         transition: transform 0.2s;
     }
     .stMetric:hover {
         transform: translateY(-2px);
-        box-shadow: 0 4px 8px var(--shadow);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
     
     /* Tabs Styling */
@@ -166,28 +47,28 @@ st.markdown("""
     .stTabs [data-baseweb="tab"] {
         height: 3rem;
         white-space: pre-wrap;
-        background-color: var(--white);
+        background-color: white;
         border-radius: 0.5rem;
         padding: 0.5rem 1rem;
-        color: var(--text-light);
+        color: #666;
         font-weight: 500;
         transition: all 0.2s;
-        border: 1px solid var(--pastel-lavender);
+        border: 1px solid #e9ecef;
     }
     .stTabs [data-baseweb="tab"]:hover {
-        background-color: var(--pastel-lavender);
-        color: var(--text-dark);
+        background-color: #f8f9fa;
+        color: #1f77b4;
     }
     .stTabs [data-baseweb="tab"][aria-selected="true"] {
-        background-color: var(--pastel-blue);
-        color: var(--text-dark);
-        border-color: var(--pastel-blue);
+        background-color: #1f77b4;
+        color: white;
+        border-color: #1f77b4;
     }
     
     /* Button Styling */
     .stButton > button {
-        background-color: var(--pastel-blue);
-        color: var(--text-dark);
+        background-color: #1f77b4;
+        color: white;
         border: none;
         padding: 0.5rem 1rem;
         border-radius: 0.5rem;
@@ -195,152 +76,152 @@ st.markdown("""
         transition: all 0.2s;
     }
     .stButton > button:hover {
-        background-color: var(--pastel-purple);
-        box-shadow: 0 2px 4px var(--shadow);
+        background-color: #1668a1;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
     
     /* Sidebar Styling */
     .css-1d391kg {
-        background-color: var(--white);
-        padding: 1.5rem;
+        background-color: white;
+        padding: 1rem;
         border-radius: 0.5rem;
-        box-shadow: 0 2px 4px var(--shadow);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
     }
     .sidebar .sidebar-content {
-        background-color: var(--white);
+        background-color: white;
     }
     
     /* Selectbox Styling */
     .stSelectbox > div {
-        background-color: var(--white);
+        background-color: white;
         border-radius: 0.5rem;
-        border: 1px solid var(--pastel-lavender);
+        border: 1px solid #e9ecef;
     }
     
     /* File Uploader Styling */
     .stFileUploader > div {
-        background-color: var(--white);
+        background-color: white;
         border-radius: 0.5rem;
-        border: 2px dashed var(--pastel-blue);
+        border: 2px dashed #e9ecef;
         padding: 2rem;
         transition: all 0.2s;
     }
     .stFileUploader > div:hover {
-        border-color: var(--pastel-purple);
+        border-color: #1f77b4;
     }
     
     /* Dataframe Styling */
     .stDataFrame {
-        background-color: var(--white);
+        background-color: white;
         border-radius: 0.5rem;
-        box-shadow: 0 2px 4px var(--shadow);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
         padding: 1rem;
     }
     
     /* Chart Containers */
     .stPlotlyChart {
-        background-color: var(--white);
+        background-color: white;
         border-radius: 0.75rem;
         padding: 1rem;
-        box-shadow: 0 2px 4px var(--shadow);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
     }
     
     /* Section Headers */
     .stSubheader {
-        color: var(--pastel-blue);
+        color: #1f77b4;
         font-weight: 600;
         margin: 2rem 0 1rem 0;
         padding-bottom: 0.5rem;
-        border-bottom: 2px solid var(--pastel-lavender);
+        border-bottom: 2px solid #e9ecef;
     }
     
     /* Info Messages */
     .stInfo {
-        background-color: var(--pastel-mint);
+        background-color: #e3f2fd;
         border-radius: 0.5rem;
         padding: 1rem;
-        border: 1px solid var(--pastel-green);
+        border: 1px solid #90caf9;
     }
     
     /* Success Messages */
     .stSuccess {
-        background-color: var(--pastel-green);
+        background-color: #e8f5e9;
         border-radius: 0.5rem;
         padding: 1rem;
-        border: 1px solid var(--pastel-mint);
+        border: 1px solid #a5d6a7;
     }
     
     /* Error Messages */
     .stError {
-        background-color: var(--pastel-pink);
+        background-color: #ffebee;
         border-radius: 0.5rem;
         padding: 1rem;
-        border: 1px solid var(--pastel-orange);
+        border: 1px solid #ef9a9a;
     }
     
     /* Feature Boxes */
     .feature-box {
-        background-color: var(--white);
+        background-color: white;
         padding: 1.5rem;
         border-radius: 0.75rem;
         margin: 1rem 0;
-        box-shadow: 0 2px 4px var(--shadow);
-        border: 1px solid var(--pastel-lavender);
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        border: 1px solid #e9ecef;
         transition: transform 0.2s;
     }
     .feature-box:hover {
         transform: translateY(-2px);
-        box-shadow: 0 4px 8px var(--shadow);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
     
     /* Welcome Section */
     .welcome-section {
         text-align: center;
         padding: 3rem 2rem;
-        background-color: var(--white);
+        background-color: white;
         border-radius: 1rem;
-        box-shadow: 0 4px 6px var(--shadow);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         margin: 2rem 0;
     }
     
     /* CTA Box */
     .cta-box {
-        background: linear-gradient(135deg, var(--pastel-blue) 0%, var(--pastel-purple) 100%);
-        color: var(--text-dark);
+        background-color: #1f77b4;
+        color: white;
         padding: 2.5rem;
         border-radius: 1rem;
         margin: 2rem auto;
         text-align: center;
         max-width: 800px;
-        box-shadow: 0 4px 6px var(--shadow);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
     
     /* Radio Buttons */
     .stRadio > div {
-        background-color: var(--white);
+        background-color: white;
         padding: 1rem;
         border-radius: 0.5rem;
-        border: 1px solid var(--pastel-lavender);
+        border: 1px solid #e9ecef;
     }
     
     /* Multiselect */
     .stMultiSelect > div {
-        background-color: var(--white);
+        background-color: white;
         border-radius: 0.5rem;
-        border: 1px solid var(--pastel-lavender);
+        border: 1px solid #e9ecef;
     }
     
     /* Date Input */
     .stDateInput > div {
-        background-color: var(--white);
+        background-color: white;
         border-radius: 0.5rem;
-        border: 1px solid var(--pastel-lavender);
+        border: 1px solid #e9ecef;
     }
     
     /* Download Button */
     .stDownloadButton > button {
-        background-color: var(--pastel-green);
-        color: var(--text-dark);
+        background-color: #28a745;
+        color: white;
         border: none;
         padding: 0.5rem 1rem;
         border-radius: 0.5rem;
@@ -348,61 +229,8 @@ st.markdown("""
         transition: all 0.2s;
     }
     .stDownloadButton > button:hover {
-        background-color: var(--pastel-mint);
-        box-shadow: 0 2px 4px var(--shadow);
-    }
-
-    /* Hide Streamlit's default footer */
-    footer {visibility: hidden;}
-    
-    /* Hide Streamlit's default menu button */
-    #MainMenu {visibility: hidden;}
-    
-    /* Improve spacing in sidebar */
-    .css-1d391kg {
-        padding: 1.5rem;
-    }
-    
-    /* Add subtle hover effect to all interactive elements */
-    .stButton > button,
-    .stSelectbox > div,
-    .stMultiSelect > div,
-    .stDateInput > div,
-    .stRadio > div {
-        transition: all 0.2s ease;
-    }
-    
-    .stButton > button:hover,
-    .stSelectbox > div:hover,
-    .stMultiSelect > div:hover,
-    .stDateInput > div:hover,
-    .stRadio > div:hover {
-        box-shadow: 0 2px 4px var(--shadow);
-    }
-    
-    /* Improve table readability */
-    .stDataFrame {
-        font-size: 0.9rem;
-    }
-    
-    .stDataFrame th {
-        background-color: var(--pastel-lavender) !important;
-        font-weight: 600 !important;
-    }
-    
-    /* Add subtle animation to success messages */
-    @keyframes fadeIn {
-        from { opacity: 0; transform: translateY(-10px); }
-        to { opacity: 1; transform: translateY(0); }
-    }
-    
-    .stSuccess {
-        animation: fadeIn 0.3s ease-out;
-    }
-    
-    /* Improve chart tooltips */
-    .js-plotly-plot .plotly .main-svg {
-        border-radius: 0.5rem;
+        background-color: #218838;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
     </style>
 """, unsafe_allow_html=True)
@@ -411,7 +239,7 @@ st.markdown("""
 if 'data' not in st.session_state:
     st.session_state.data = None
 
-# Load data getFilteredDataction
+# Load data function
 @st.cache_data
 def load_data(file):
     try:
@@ -422,17 +250,13 @@ def load_data(file):
         st.error(f"Error loading data: {e}")
         return None
 
-# Load sample data getFilteredDataction
+# Load sample data function
 @st.cache_data
 def load_sample_data():
     try:
-        # Create sample data
-        np.random.seed(42)
-        dates = pd.date_range(start='2023-01-01', end='2023-12-31', freq='D')
-        n_records = len(dates)
-        
+        n_records = 1000
         data = {
-            'Date': dates,
+            'Date': pd.date_range(start='2023-01-01', periods=n_records),
             'Gender': np.random.choice(['Male', 'Female'], n_records),
             'Age': np.random.randint(18, 70, n_records),
             'City': np.random.choice(['New York', 'Los Angeles', 'Chicago', 'Houston', 'Phoenix'], n_records),
@@ -452,7 +276,7 @@ def load_sample_data():
         st.error(f"Error loading sample data: {e}")
         return None
 
-# Forecasting getFilteredDataction
+# Forecasting function
 def forecast_sales(data, days_to_forecast=30, metric='Price'):
     # Prepare data
     data = data.sort_values('Date')
@@ -567,19 +391,20 @@ if st.session_state.data is None:
         </div>
     """, unsafe_allow_html=True)
     
-    # Create a container with max-width
-    st.markdown("""
-        <div style='max-width: 600px; margin: 0 auto;'>
-            <div style='text-align: center;'>
-    """, unsafe_allow_html=True)
+    # Create two columns for the upload section
+    col1, col2 = st.columns([2, 1])
     
-    uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
+    with col1:
+        st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
+        uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
+        st.markdown("</div>", unsafe_allow_html=True)
     
-    st.markdown("""
-            </div>
-            <div style='text-align: center; margin-top: 1rem;'>
-    """, unsafe_allow_html=True)
+    with col2:
+        st.markdown("<div style='text-align: center; margin-top: 1rem;'>", unsafe_allow_html=True)
+        st.markdown("</div>", unsafe_allow_html=True)
     
+    # Add Load Sample Data button below upload section
+    st.markdown("<div style='text-align: center; margin-top: 1rem;'>", unsafe_allow_html=True)
     if st.button("📊 Load Sample Data", use_container_width=True):
         df = load_sample_data()
         if df is not None:
@@ -587,8 +412,7 @@ if st.session_state.data is None:
             st.success("Sample data loaded successfully!")
             st.balloons()
             st.rerun()
-    
-    st.markdown("</div></div>", unsafe_allow_html=True)
+    st.markdown("</div>", unsafe_allow_html=True)
     
     if uploaded_file is not None:
         df = load_data(uploaded_file)
@@ -1175,7 +999,7 @@ if st.session_state.data is not None:
                         values=comparison_metrics[0],
                         index=dimension,
                         columns=comparison_metrics[1] if len(comparison_metrics) > 1 else None,
-                        agggetFilteredDatac=aggregation_method
+                        aggfunc=aggregation_method
                     )
                     fig_heat = px.imshow(
                         pivot_data,
